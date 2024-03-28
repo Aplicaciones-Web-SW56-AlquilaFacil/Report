@@ -21,8 +21,8 @@
             <th style="text-align:center;">Code</th>
         </tr>
         <tr>
-            <td></td>
-            <td></td>
+            <td>Luna Capuñay, Italo D'Alessandro</td>
+            <td>U202213375</td>
         </tr>
         <tr>
             <td></td>
