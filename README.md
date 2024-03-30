@@ -84,10 +84,141 @@ ayude a diferenciar el cambio de otros similares. Por ejemplo: [login], [navbar]
 -	Description: Es una descripción breve y concisa del cambio que se ha realizado. Debe explicar qué se ha hecho y por qué, pero no cómo.
 
 ### 5.1.3. Source Code Style Guide & Conventions
+
+Para el desarrollo de la parte de HTML y CSS, seguiremos las convenciones del Google HTML/CSS Style Guide, que nos indica cómo trabajar con estas tecnologías. Algunas de las convenciones que aplicaremos son:
+- Declarar siempre el tipo de documento con <DOCTYPE html>
+- Usar siempre minúsculas para los nombres de los elementos HTML (como &lt;p&gt;, &lt;h1&gt;, &lt;section&gt;, etc.)
+- Cerrar siempre los elementos HTML (por ejemplo, &lt;p&gt; &lt;/p&gt;)
+- Poner siempre entre comillas los atributos de los elementos HTML (por ejemplo, &lt;p class="name"&gt;&lt;/p&gt;)
+- Evitar líneas de código muy largas
+- Usar meta tags al inicio
+
+Para el lenguaje JavaScript, seguiremos las convenciones del Google JavaScript Style Guide. Algunas de las convenciones que aplicaremos son:
+- Nombrar las variables y funciones con camelcase, como "numberArray"
+- Usar comillas simples para los strings, como 'This is a string'
+- Usar punto y coma (; )  al final de cada sentencia
+- Evitar declarar variables con var y usar *let* o *const* en su lugar
+
 ### 5.1.4. Software Deployment Configuration
+
 ## 5.2. Landing Page, Services & Applications Implementation
 ### 5.2.1. Sprint 1
 #### 5.2.1.1. Sprint Planning 1
+En esta sección se especifican los detalles del Sprint Planning Meeting, que es una reunión que se lleva a cabo al inicio de cada sprint con la finalidad de establecer las tareas que se realizarán durante el período determinado.
+
+<table align="center"  border="1" width="70%" style="text-align:center;">
+    <tr align="left">
+        <td>
+            <b>Sprint #</b>
+        </td>
+        <td>
+            <b>Sprint 1</b>           
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan="2">
+            <b>Sprint Planning Background</b>
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Date</b>
+        </td>
+        <td>
+            29/03/24         
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Time</b>
+        </td>
+        <td>
+            10:00 pm         
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Location</b>
+        </td>
+        <td>
+            Modalidad remota y coordinacion a traves de Whastapp   
+        </td>
+    </tr>
+     </tr>
+       <tr align="left">
+        <td>
+            <b>Prepared By</b>
+        </td>
+        <td>
+            AlquilaFacil   
+        </td>
+    </tr>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Attendess (to planning meeting)</b>
+        </td>
+        <td>
+            Todos los miembros del grupo AlquilaFacil 
+        </td>
+    </tr>
+      </tr>
+       <tr align="left">
+        <td>
+            <b>Sprint n - 0</b>
+            <b>Review Summary</b>
+        </td>
+        <td>
+            Se establecieron las primeras historias de usuario centradas en el desarrollo del Landing Page y la implementación 
+            de la lógica de funcionamiento para la plataforma AlquilaFacil.
+            </br></br>
+Se cumplió con éxito el despliegue del Landing Page dentro del plazo acordado.
+
+La documentación se ha enriquecido con la expansión de la visión de negocio y la incorporación de los artefactos correspondientes.   
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Sprint n - 1</b>
+            <b>Retrospective Summary</b>
+        </td>
+        <td>
+            En líneas generales, hemos logrado mantener una excelente organización y comunicación como equipo, gracias 
+            al uso de plataformas como Discord. Sin embargo, siempre hay margen para mejorar aún más nuestra coordinación 
+            y colaboración en pos de la excelencia en nuestros proyectos.
+
+Para garantizar un progreso continuo en nuestros proyectos, es esencial que perfeccionemos la estimación del desarrollo 
+de los wireframes y mockups. Esto evitará posibles desajustes en nuestro calendario y garantizará un flujo de trabajo más estable.
+
+Debemos hacer un uso más frecuente y consistente del formato Markdown en nuestra documentación y comunicaciones, ya que 
+esto facilitará la lectura y comprensión de la información por parte de todos los miembros del equipo.  
+        </td>
+    </tr>
+     <tr align="left">
+        <td colspan="2">
+            <b>Sprint Goal & User Stories</b>
+        </td>
+    </tr>
+      <tr align="left">
+        <td>
+            <b>Sprint 1 Velocity</b>
+        </td>
+        <td>
+            6
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Sum of Story Points</b>
+        </td>
+        <td>
+            9  
+        </td>
+    </tr>
+</table>
+
+
+
 #### 5.2.1.2. Sprint Backlog 1
 #### 5.2.1.3. Development Evidence for Sprint Review
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
