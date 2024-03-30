@@ -19,6 +19,9 @@ Esta sección se basa principalmente del contenido visual, los estilos, los tags
 ### 4.4.4. Web Applications User Flow Diagrams
 ## 4.5. Web Applications Prototyping
 ## 4.6. Domain-Driven Software Architecture
+A continuación, se mostrará el Context Diagram de nuestra aplicación el cual nos
+permitirá establecer un buen punto de partida para poder diagramar y documentar
+nuestro sistema de manera general.
 ### 4.6.1. Software Architecture Context Diagram
 ### 4.6.2. Software Architecture Container Diagrams
 ### 4.6.3. Software Architecture Components Diagrams
