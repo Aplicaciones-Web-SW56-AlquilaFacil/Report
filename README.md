@@ -3,6 +3,7 @@
 ### 4.1.1. General Style Guidelines
 ### 4.1.2. Web Style Guidelines
 ## 4.2. Information Architecture
+Esta sección se basa principalmente del contenido visual, los estilos, los tags y más que se tomarán en cuenta para nuestra web y landing page de AquilaFacil. Se verá los tópicos de Organization Systems, Labeling Systemes, SEO and Meta Tags y Searching y Navigation Systems.
 ### 4.2.1. Organization Systems
 ### 4.2.2. Labeling Systems
 ### 4.2.3. SEO Tags and Meta Tags
