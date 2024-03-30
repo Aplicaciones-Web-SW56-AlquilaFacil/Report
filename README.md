@@ -36,9 +36,9 @@ Es por ello que en este apartado detallaremos las herramientas usadas.
 ### 5.1.2. Source Code Management
 
 El manejo y registro de las modificaciones de nuestra landing page y este documento lo manejamos mediante una organización en Github.
--    Organization: https://github.com/Open-Source-SW53-Group-3
--    Landing Page Repository: https://github.com/Open-Source-SW53-Group-3/Landing-Page
--    Report Repository: https://github.com/Open-Source-SW53-Group-3/Report
+-    Organization: 
+-    Landing Page Repository: 
+-    Report Repository: 
 
 Además, para mejorar el control de nuestro proyecto usamos GitFlow para la creación de ramas y cambios en el código fuente.
 Es por ello que se manejan dos ramas principales: main y develop.
