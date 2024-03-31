@@ -301,4 +301,35 @@ Para la elaboración de los Hypothesis Statements se utilizó el formato Lean UX
 
 **Cuando** observemos un aumento del 35% en la cantidad de registros de nuevos usuarios y un aumento en el número de referidos realizados por los usuarios existentes.
 #### 1.2.2.4. Lean UX Canvas
+
+<p align = "center"><img width="800" alt="Lean Ux Canvas (v2)" src="/assets/LeanUxCanvas_AlquilaFacil.png"></p>
+
+<p align = "center"><em> Fuente: Elaboración propia. </em></p>
+
 # 1.3. Segmentos Objetivo
+
+En esta sección, identificamos los segmentos de clientes específicos a los que se dirige AlquilaFácil, basándonos en características demográficas, comportamientos y necesidades compartidas.
+
+- Organizadores de Eventos Sociales: 
+
+Descripción: Individuos que planifican eventos sociales como bodas, fiestas de cumpleaños, reuniones familiares, entre otros.
+
+Características: Buscan espacios que se adapten a sus necesidades específicas, como capacidad, ubicación y servicios disponibles.
+
+Necesidades: Facilidad de búsqueda y reserva de espacios, acceso a información detallada sobre las instalaciones y servicios ofrecidos.
+
+- Propietarios de Espacios para Eventos: 
+
+Descripción: Individuos o empresas que poseen espacios aptos para eventos, como salones de banquetes, jardines, locales comerciales, etc.
+
+Características: Ofrecen una variedad de espacios con diferentes capacidades y características.
+
+Necesidades: Promoción efectiva de sus espacios, gestión eficiente de reservas, acceso a herramientas para administrar sus listados y proyectos de eventos.
+
+- Usuarios Frecuentes de Espacios para Eventos:
+
+Descripción: Individuos que organizan eventos regularmente, ya sea social o corporativo.
+
+Características: Realizan múltiples reservas de espacios a lo largo del año.
+
+Necesidades: Programas de fidelización, descuentos por reservas recurrentes, acceso prioritario a espacios exclusivos.
