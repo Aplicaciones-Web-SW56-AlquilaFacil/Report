@@ -251,9 +251,54 @@ Estamos convecidos de que los clientes valorarán la conveniencia, transparencia
 ¿Cuál es la imagen que deseamos proyectar con nuestro producto? 
 Deseamos proyectar una imagen de confianza, transparencia, innovación y accesibilidad. Queremos que AlquilaFácil sea vista como la solución lider en la industria de alquiler de espacios para eventos.
 
+¿Cuál es el propósito fundamental de nuestra aplicación?
+El propósito fundamental de AlquilaFácil es facilitar el proceso de búsqueda, reserva y gestión de espacios para eventos para propietarios de espacios y organizadores de eventos.
 
-
+¿qué funcionalidades destacan en nuestra aplicación? 
+Las funcionalidades destacadas de AlquilaFácil incluyen la búsqueda avanzada de espacios espacios basada en ubicación y características, la gestión de reservas en línea que permite a los usuarios monitorear el estado de sus reservas y comunicarse con los propietarios de espacios, un sistema de calificaciones y comentarios para garantizar la calidad de los espacios, y herramineots de promoción y análisis para propietarios de espacios.
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
+
+Para la elaboración de los Hypothesis Statements se utilizó el formato Lean UX: **[We believe that]**,**[This will achieve]** y **[We will have demostrated this when]** 
+
+- Hipotesis 1
+
+**Creemos que** si simplificamos el proceso de búsqueda y comparación de espacios para eventos en nuestra plataforma, entonces **esto logrará** aumentar significativamente la cantidad de clientes recurrentes, proyectando un aumento del 25% en la tasa de clientes que regresa dentro de los primero seis meses de implementación de esta mejora.
+
+**Sabremos que** estamos en lo cierto.
+
+**Cuando** observemos que un aumento del 25% en la cantidad de reservas realizadas por los clientes visitantes en nuestra plataforma durante el mismo periodo.
+
+- Hipotesis 2
+
+**Creemos que** si implementamos un sistema de calificación y comentarios para los espacios disponibles en nuestra plataforma, entonces **esto logrará** aumentar la confianza de los usuarios y mejorar la calidad percibida de los espacios, lo que resultará en un aumento del 15% en el número de reservas realizadas en los primeros tres meses después de la implementación.
+
+**Sabremos que** estamos en lo cierto.
+
+**Cuando** observemos un aumento del 20% en la cantidad de reservas completadas y una mejora en las calificaciones y comentarios proporcionados por los usuarios.
+
+- Hipotesis 3
+
+**Creemos que** si ofrecemos descuentos exclusivos en tarifas de alquiler de espacios seleccionados para los usuarios con suscripción premium, entonces **esto logrará** aumentar la conversión de usuarios de planes básicos a planes premium, proyectando un aumento del 25% en la cantidad de usuarios premium dentro de los primeros seis meses de implementación de esta estrategia.
+
+**Sabremos que** estamos en lo cierto.
+
+**Cuando** observemos un aumento del 30% en la cantidad de usuarios que actualizan su suscripción a premium y una mejora en el volumen de reservas por estos usuarios.
+
+- Hipotesis 4
+
+**Creemos que** si mejoramos la función búsqueda avanzada en nuestra plataforma, permitiendo a los usuarios filtrar por caracteristicas específicas de los espacios (como capacidad, ubicación y servicios incluidos), entonces **esto logrará** aumentar la satisfacción del usuario y la precisión en la selección de espacios, proyectando una reducción del 20% en las consultas de soporte relacionadas con la búsqueda de espacios.
+
+**Sabremos que** estamos en lo cierto.
+
+**Cuando** observemos una disminución del 25% en el número de consultas de soporte recibidas y un aumento en el tiempo promedio que los usuarios pasan en la plataforma buscando espacios.
+
+- Hipotesis 5
+
+**Creemos que** si implementamos un programa de referidos que recompense a los usuarios que refieran nuevos propietarios de espacios o organizadores de eventos a nuestra plataforma, entonces **esto logrará** aumentar la adquisión de usuarios y el crecimiento orgánico de nuestra base de clientes, proyectando un aumento del 30% en el número de nuevos registros dentro de los primeros tres meses de implementación del programa.
+
+**Sabremos que** estamos en lo cierto.
+
+**Cuando** observemos un aumento del 35% en la cantidad de registros de nuevos usuarios y un aumento en el número de referidos realizados por los usuarios existentes.
 #### 1.2.2.4. Lean UX Canvas
 # 1.3. Segmentos Objetivo
