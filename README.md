@@ -73,10 +73,10 @@ Convertirnos en la principal plataforma global de alquiler de espacios para even
             <!-- DATOS del integrante 5-->
             <td> 
             <img src="">
-            Nombres y Apellidos
+            <br>Brenda Lucía Gamio Upiachihua
             </td>
             <!-- DESCRIPCIÓN del integrante 5-->
-            <td> </td>
+            <td>Estudiante del 5to ciclo de la carrera de Ingeniería de Software. Soy alguien responsable y dedicada que le gusta aprendere e investigar más cosas para facilitar el trabajo. </td>
             <!-- CONOCIMIENTOS del integrante 5-->
             <td> </td>
         </tr>
