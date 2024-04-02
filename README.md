@@ -1,6 +1,16 @@
 # Capítulo IV: Product Design
 ## 4.1. Style Guidelines.
 ### 4.1.1. General Style Guidelines
+
+**Overview:** <td>Deseamos capturar la atención del usuario desde el inicio mediante la creación y el diseño de una perspectiva del producto que establezca una conexión inmediata y reconocible.</td>
+
+**Brand Name:** <td>Como la startup se trata de alquilar centros para eventos y también para publicitar centros que podrían ser alquilados, se vio conveniente llamarlo “AlquilaFacil”.</td>
+
+**Typography:** <td>Las tipografías asignadas por el equipo fueron:</td>
+
+**Colors:** <td></td>
+
+**Botton:** <td></td>
 ### 4.1.2. Web Style Guidelines
 ## 4.2. Information Architecture
 Esta sección se basa principalmente del contenido visual, los estilos, los tags y más que se tomarán en cuenta para nuestra web y landing page de AquilaFacil. Se verá los tópicos de Organization Systems, Labeling Systemes, SEO and Meta Tags y Searching y Navigation Systems.
