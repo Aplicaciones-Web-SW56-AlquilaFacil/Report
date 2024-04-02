@@ -12,6 +12,10 @@
 
 **Botton:** <td></td>
 ### 4.1.2. Web Style Guidelines
+<td>AlquilaFacil se diseñará como plataforma web, por lo tanto, aplicaremos un diseño adaptable (Web Responsive Design) con el objetivo de presentar la información de manera óptima en cualquier dispositivo, asegurando que el contenido permanezca intacto para mejorar la experiencia del usuario.</td>
+<br><br>
+<td>Además, como equipo, hemos elegido implementar el patrón de diseño en forma de Z en el sitio web. Esta técnica de diseño web resulta efectiva para mejorar la experiencia del usuario al dirigir su atención hacia los elementos clave y potenciar la eficacia del contenido en la página. Por lo general, colocamos el logotipo en la esquina superior izquierda para que sea lo primero que capte la atención del usuario. Justo en frente, en la esquina superior derecha, ubicamos la barra de navegación, acompañado de un llamado a la acción que se destaca.</td>
+
 ## 4.2. Information Architecture
 Esta sección se basa principalmente del contenido visual, los estilos, los tags y más que se tomarán en cuenta para nuestra web y landing page de AquilaFacil. Se verá los tópicos de Organization Systems, Labeling Systemes, SEO and Meta Tags y Searching y Navigation Systems.
 ### 4.2.1. Organization Systems
