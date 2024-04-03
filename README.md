@@ -39,6 +39,9 @@ Se puede visualizar el diagrama de contexto que representa un panorama general d
 
 ![contextDiagram](assets/contextDiagram.png)
 ### 4.6.2. Software Architecture Container Diagrams
+En este diagrama se puede apreciar el funcionamiento que tendrá la aplicación y las relaciones con los bounded context correspondientes, se busca organizarlos de tal forma que no generen dependencias fuertes que perjudiquen migraciones a future.
+
+![containerDiagram](assets/containerDiagram.png)
 ### 4.6.3. Software Architecture Components Diagrams
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
