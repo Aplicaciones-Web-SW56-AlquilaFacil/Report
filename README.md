@@ -43,6 +43,27 @@ En este diagrama se puede apreciar el funcionamiento que tendrá la aplicación 
 
 ![containerDiagram](assets/containerDiagram.png)
 ### 4.6.3. Software Architecture Components Diagrams
+En este diagrama se presenta de forma detallada las conexiones entre controllers, services y repositories de las entidades que contiene el bounded context.
+
+<p style="text-align: center;"><strong>User Context</strong></p>
+
+![componentDiagram](assets/userContext.png)
+
+<p style="text-align: center;"><strong>Suscription Context</strong></p>
+
+![componentDiagram](assets/suscriptionContext.png)
+
+<p style="text-align: center;"><strong>Space Context</strong></p>
+
+![componentDiagram](assets/spaceContext.png)
+
+<p style="text-align: center;"><strong>CreateReservation Context</strong></p>
+
+![componentDiagram](assets/createReservationContext.png)
+
+<p style="text-align: center;"><strong>Reservations Context</strong></p>
+
+![componentDiagram](assets/reservationsContext.png)
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
 ### 4.7.2. Class Dictionary
