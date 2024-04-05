@@ -30,7 +30,8 @@ Un **Style Guideline** es un conjunto de reglas y normas que definen cómo se de
 <td>Además, como equipo, hemos elegido implementar el patrón de diseño en forma de Z en el sitio web. Esta técnica de diseño web resulta efectiva para mejorar la experiencia del usuario al dirigir su atención hacia los elementos clave y potenciar la eficacia del contenido en la página. Por lo general, colocamos el logotipo en la esquina superior izquierda para que sea lo primero que capte la atención del usuario. Justo en frente, en la esquina superior derecha, ubicamos la barra de navegación, acompañado de un llamado a la acción que se destaca.</td>
 
 ## 4.2. Information Architecture
-Esta sección se basa principalmente del contenido visual, los estilos, los tags y más que se tomarán en cuenta para nuestra web y landing page de AquilaFacil. Se verá los tópicos de Organization Systems, Labeling Systemes, SEO and Meta Tags y Searching y Navigation Systems.
+<td>Esta sección se basa principalmente del contenido visual, los estilos, los tags y más que se tomarán en cuenta para nuestra web y landing page de AquilaFacil. Se verá los tópicos de Organization Systems, Labeling Systemes, SEO and Meta Tags y Searching y Navigation Systems.</td>
+
 ### 4.2.1. Organization Systems
 **Menú Principal**
 <table style="text-align:center">
@@ -234,8 +235,64 @@ el tamaño de la pantalla.</td>
 </table>
 
 ### 4.2.3. SEO Tags and Meta Tags
+<td>Las meta etiquetas nos permiten codificar y especificar metadatos en una página web. Aunque no son visibles para los usuarios, los navegadores y rastreadores web las leen. Estas etiquetas facilitan el análisis de archivos HTML y ayudan en el mantenimiento del contenido. Además, influyen en el posicionamiento de nuestra página en los motores de búsqueda.</td>
+<br><br>
+
+**Titulo** 
+<br>
+<td>Las meta etiquetas nos permiten codificar y especificar metadatos en una página web. Aunque no son visibles para los usuarios, los navegadores y rastreadores web las leen. Estas etiquetas facilitan el análisis de archivos HTML y ayudan en el mantenimiento del contenido. Además, influyen en el posicionamiento de nuestra página en los motores de búsqueda.</td>
+
+`<title>Register your processes with GreenHouse</title>` `fdh`
+
+**Codificación de caracteres** 
+<br>
+<td>Se decidió usar el utf-8 por la eficiencia de memoria. Es más eficiente en términos de memoria para caracteres del BMP (Plano Multilingüe Básico, que incluye la mayoría de los caracteres comunes).</td>
+
+`<meta charset="utf-8">` 
+
+**Descripción** 
+<br>
+<td>Esta etiqueta meta nos permite ofrecer un resumen del contenido de la página web. En ella, proporcionamos una breve descripción de lo que los usuarios pueden esperar visualizar en la página.</td>
+
+`<meta name="description" content="AlquilaFacil is a web application focused on plublish and rent centers for events"/>` 
+
+**Palabras clave** 
+<br>
+<td>En esta etiqueta se pone las palabras claves relacionadas con el tema o contenido de la página web.</td>
+
+`<meta name="keywords" content="publish, rent, management, application, announcements, centers"/>` 
+
+**Autor y derechos de autor** 
+<br>
+<td>Se utiliza para registrar la información del autor de la página web y la propiedad y derechos de autor.</td>
+
+`<meta name="author" content="AlquilaFacil"/>` <br>
+`<meta name="copyright" content="Copyright AlquilaFacil team" />` 
+
 ### 4.2.4. Searching Systems
+<td>El motor de búsqueda es fundamental para que los usuarios encuentren rápidamente detalles específicos</td>
+<br><br>
+
+**Características claves**
+- *Busqueda por ubicación:* <td>Los usuarios podrán buscar centros para eventos cercanos a su ubicación actual o especificar una ubicación deseada.</td>
+- *Busqueda por características:* <td>Los usuarios podrán buscar características específicos, como piscina, parrilla, pet friendly, vigilancia.</td>
+- *Filtros avanzados:* <td>Se proporcionarán filtros para refinar la búsqueda, como calificaciones, precios y disponibilidad.</td>
+- *Resultados revelantes:* <td>El sistema de búsqueda mostrará resultados revelantes y oirdenaelos de acuerdo con la ubicación y otros criterios</td>
+
 ### 4.2.5. Navigation Systems
+<td>El Sistema de Navegación es la estructura que permite a los usuarios desplazarse eficientemente entre las distintas secciones y páginas de la aplicación</td>
+<br><br>
+
+**Estructura de navegación:** <td> El Sistema de Navegación constará de las siguientes secciones principales en la barra de navegación</td>
+
+- Inicio
+- Tarifas
+- Publicar centro
+- Iniciar sesión
+  
+<td>Luego la vista del usuario va a la opción "Alquilar centro" para al final ir a un panel con centros destacados.</td>
+
+
 ## 4.3. Landing Page UI Design
 ### 4.3.1. Landing Page Wireframe
 ### 4.3.2. Landing Page Mock-up
