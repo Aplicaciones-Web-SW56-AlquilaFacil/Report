@@ -105,10 +105,10 @@ Es una plataforma que permite a los usuarios reservar alojamiento en hoteles, ho
   </tr>
   <tr>
     <td colspan="2">Canales de distribución (Web y/o Móvil)</td>
-    <td colspan="1" valign="top"></td>
-    <td colspan="1" valign="top"></td>
-    <td colspan="1" valign="top"></td>
-    <td colspan="1" valign="top"></td>
+    <td colspan="1" valign="top">Redes sociales y aplicación web donde los usuarios pueden poner en renta su espacio o alquilar un espacio para eventos.</td>
+    <td colspan="1" valign="top">Sitio web de Airbnb, aplicación móvil de Airbnb, socios afiliados y asociaciones, redes sociales y marketing digital.</td>
+    <td colspan="1" valign="top">Principalmente su sitio web y su aplicación móvil, así como acuerdos de distribución con otros sitios web de viajes o agencias de viajes en línea.</td>
+    <td colspan="1" valign="top">Sitio web de Booking.com, aplicación móvil de Booking, agencias de viajes en línea, alianzas con compañías de viajes, afiliados y asociados.</td>
   </tr>
   <tr>
     <td colspan="1" rowspan="5"><p>Análisis SWOT</p></td>
