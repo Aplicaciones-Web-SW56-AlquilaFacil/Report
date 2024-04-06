@@ -179,6 +179,19 @@ En esta sección se han definido una cierta cantidad de preguntas para nuestros 
 9. ¿Estarías dispuesto(a) a pagar una tarifa por utilizar una aplicación que te ayude a publicitar o alquilar tu propiedad de manera más eficiente?
 10. ¿Qué sugerencias o mejoras tendrías para una aplicación de este tipo que aún no estén disponibles en otras plataformas similares?
 
+**Preguntas Segmento 1: Organizadores**
+
+1. ¿Qué tipo de propiedades alquila regularmente para sus reuniones?
+2. ¿Alguna vez has necesitado un lugar de encuentro o festivo de emergencia?
+3. ¿Qué tipo de información te gustaría que viniera en las características del local/propiedad? (ej. licencias de eventos, capacidad máxima de gente, etc.)
+4. Organizando eventos, ¿alguna vez tuvo un problema grave con las políticas de cancelación?
+5. ¿Eres promotor de algún tipo de evento recurrente?
+6. ¿Cada cuanto recurres a alquilar lugares o a usarlos?
+7. ¿Ves necesario una plataforma como Alquilafacil?
+8. ¿De qué maneras ves útil Alquilafacil y cada cuanto lo utilizamos?
+9. ¿Hay alguna otra consideración o solicitud especial que crea que deba adicionarse para hacer un mejor servicio?
+10. ¿Qué tan importante es para ti la flexibilidad de horarios al momento de reservar un espacio para tu evento?
+
 ### 2.2.2. Registro de entrevistas
 ### 2.2.3. Análisis de entrevistas
 ## 2.3. Needfinding
