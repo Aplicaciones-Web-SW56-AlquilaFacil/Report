@@ -193,6 +193,191 @@ En esta sección se han definido una cierta cantidad de preguntas para nuestros 
 10. ¿Qué tan importante es para ti la flexibilidad de horarios al momento de reservar un espacio para tu evento?
 
 ### 2.2.2. Registro de entrevistas
+
+**Segmento propietario:**
+
+**Entrevista 1:**
+
+Nombres:
+
+Apellidos:
+
+Edad: 
+
+Lugar de residencia:
+
+Entrevistador:
+
+Evidencia de la entrevista: 
+
+Enlace de entrevista:
+
+Resumen de la entrevista:
+
+**Entrevista 2:**
+
+Nombres:
+
+Apellidos:
+
+Edad: 
+
+Lugar de residencia:
+
+Entrevistador:
+
+Evidencia de la entrevista: 
+
+Enlace de entrevista:
+
+Resumen de la entrevista:
+
+**Entrevista 3:**
+
+Nombres:
+
+Apellidos:
+
+Edad: 
+
+Lugar de residencia:
+
+Entrevistador:
+
+Evidencia de la entrevista: 
+
+Enlace de entrevista:
+
+Resumen de la entrevista:
+
+**Entrevista 4:**
+
+Nombres:
+
+Apellidos:
+
+Edad: 
+
+Lugar de residencia:
+
+Entrevistador:
+
+Evidencia de la entrevista: 
+
+Enlace de entrevista:
+
+Resumen de la entrevista:
+
+**Entrevista 5:**
+
+Nombres:
+
+Apellidos:
+
+Edad: 
+
+Lugar de residencia:
+
+Entrevistador:
+
+Evidencia de la entrevista: 
+
+Enlace de entrevista:
+
+Resumen de la entrevista:
+
+**Segmento organizador:**
+
+**Entrevista 1:**
+
+Nombres:
+
+Apellidos:
+
+Edad: 
+
+Lugar de residencia:
+
+Entrevistador:
+
+Evidencia de la entrevista: 
+
+Enlace de entrevista:
+
+Resumen de la entrevista:
+
+**Entrevista 2:**
+
+Nombres:
+
+Apellidos:
+
+Edad: 
+
+Lugar de residencia:
+
+Entrevistador:
+
+Evidencia de la entrevista: 
+
+Enlace de entrevista:
+
+Resumen de la entrevista:
+
+**Entrevista 3:**
+
+Nombres:
+
+Apellidos:
+
+Edad: 
+
+Lugar de residencia:
+
+Entrevistador:
+
+Evidencia de la entrevista: 
+
+Enlace de entrevista:
+
+Resumen de la entrevista:
+
+**Entrevista 4:**
+
+Nombres:
+
+Apellidos:
+
+Edad: 
+
+Lugar de residencia:
+
+Entrevistador:
+
+Evidencia de la entrevista: 
+
+Enlace de entrevista:
+
+Resumen de la entrevista:
+
+**Entrevista 5:**
+
+Nombres:
+
+Apellidos:
+
+Edad: 
+
+Lugar de residencia:
+
+Entrevistador:
+
+Evidencia de la entrevista: 
+
+Enlace de entrevista:
+
+Resumen de la entrevista:
+
 ### 2.2.3. Análisis de entrevistas
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
