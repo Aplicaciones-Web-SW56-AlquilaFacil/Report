@@ -302,21 +302,33 @@ Resumen de la entrevista:
 
 **Entrevista 1:**
 
-Nombres:
+Nombres: Rodrigo Alejandro
 
-Apellidos:
+Apellidos: Aguilar Castillo
 
-Edad: 
+Edad: 19
 
-Lugar de residencia:
+Lugar de residencia: San Isidro, Lima
 
-Entrevistador:
+Entrevistador: Italo Luna Capuñay
 
 Evidencia de la entrevista: 
 
-Enlace de entrevista:
+<img src="assets/images/entrevistas/entrevista-rodrigo.png" alt="Entrevista 01 Segmento organizador">
+
+Enlace de entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213375_upc_edu_pe/ER2a2fW6t3JFhfh2Ae_n4G8BhjhRjm6abPnbfM_6pqnVSw?e=f2oIVi&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 Resumen de la entrevista:
+
+Entrevistamos a Rodrigo Aguilar, un joven de 16 años que estudia la carrera de Ingeniería de Software. Rodrigo nos comentó que le gusta adquirir espacios para diversos eventos recreativos. En la actualidad, utiliza principalmente las redes sociales y sitios web como Airbnb y otros para encontrar locales.
+
+Rodrigo destacó que una interfaz intuitiva sería excelente para poder utilizar la plataforma. Para él, lo más importante es la comunicación con el propietario, ya que no le gusta tener conflictos en el contrato o malos entendidos.
+
+En cuanto a la variedad de tipos de espacios, nos comentó que mayormente le gustan las casas con piscinas, que utiliza para reuniones familiares, fines de semana con su familia o también con sus amigos. Dice que reserva este tipo de sitios con frecuencia, ya que le gusta pasar tiempo con su familia o amigos.
+
+Con respecto a las suscripciones, Rodrigo nos dijo que estaría dispuesto a pagar por una mejor experiencia en la plataforma.
+
+Por último, en cuanto a la webapp, nos comentó que tendría futuro si hubiera variedad, fuera fácil de reservar y, lo más importante, que fuera una ayuda para poder reservar sus espacios y disfrutar de sus momentos libres.
 
 **Entrevista 2:**
 
@@ -484,6 +496,11 @@ Resumen de la entrevista:
 </table>
 
 ### 2.3.3. User Journey Mapping
+
+**Segmento propietario:**
+
+
+
 ### 2.3.4. Empathy Mapping
 ### 2.3.5. As-is Scenario Mapping
 ## 2.4. Ubiquitous Language
