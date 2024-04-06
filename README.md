@@ -210,7 +210,7 @@ Entrevistador: Italo Luna Capuñay
 
 Evidencia de la entrevista: 
 
-<img src="assets/entrevistas/entrevista-claudia.png" alt="Entrevista 01 Segmento propietario">
+<img src="assets/images/entrevistas/entrevista-claudia.png" alt="Entrevista 01 Segmento propietario">
 
 Enlace de entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213375_upc_edu_pe/Ecl6kWhXShZEs4eoqqBltusBdurPIhKjNtqGXOSbDAXZGw?e=bsjJbh&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
