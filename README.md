@@ -116,31 +116,31 @@ Es una plataforma que permite a los usuarios reservar alojamiento en hoteles, ho
   </tr>
   <tr>
     <td colspan="2">Fortalezas</td>
-    <td colspan="1" valign="top"></td>
-    <td colspan="1" valign="top"></td>
-    <td colspan="1" valign="top"></td>
-    <td colspan="1" valign="top"></td>
+    <td colspan="1" valign="top">Solución completa para la planificación de eventos.</td>
+    <td colspan="1" valign="top">Gran comunidad de anfitriones y usuarios.</td>
+    <td colspan="1" valign="top">Variedad de alojamientos en todo el mundo.</td>
+    <td colspan="1" valign="top">Interfaz fácil de usar y experiencia intuitiva del usuario.</td>
   </tr>
   <tr>
     <td colspan="2">Debilidades</td>
-    <td colspan="1" valign="top"></td>
-    <td colspan="1" valign="top"></td>
-    <td colspan="1" valign="top"></td>
-    <td colspan="1" valign="top"></td>
+    <td colspan="1" valign="top">Dependencia de la disponibilidad de espacios para eventos.</td>
+    <td colspan="1" valign="top">Dependencia de la reputación y opiniones de los usuarios.</td>
+    <td colspan="1" valign="top">Posible saturación del mercado de alquiler vacacional.</td>
+    <td colspan="1" valign="top">Competencia intensa con otras plataformas de alquiler de alojamiento.</td>
   </tr>
   <tr>
     <td colspan="2">Oportunidades</td>
-    <td colspan="1" valign="top"></td>
-    <td colspan="1" valign="top"></td>
-    <td colspan="1" valign="top"></td>
-    <td colspan="1" valign="top"></td>
+    <td colspan="1" valign="top">Expansión a nuevos mercados y nichos de eventos.</td>
+    <td colspan="1" valign="top">Desarrollo de nuevas características y servicios para mejorar la experiencia del usuario.</td>
+    <td colspan="1" valign="top">Alianzas estratégicas con proveedores de servicios de eventos.</td>
+    <td colspan="1" valign="top">Aprovechamiento de la tendencia creciente del turismo y los viajes.</td>
   </tr>
   <tr>
     <td colspan="2">Amenazas</td>
-    <td colspan="1" valign="top"></td>
-    <td colspan="1" valign="top"></td>
-    <td colspan="1" valign="top"></td>
-    <td colspan="1" valign="top"></td>
+    <td colspan="1" valign="top">Cambios en la regulación de alquileres vacacionales y eventos.</td>
+    <td colspan="1" valign="top">Posible disminución de la demanda de viajes debido a crisis económicas o sanitarias.</td>
+    <td colspan="1" valign="top">Innovaciones tecnológicas que podrían ser adoptadas por competidores.</td>
+    <td colspan="1" valign="top">Posible pérdida de confianza del usuario debido a problemas de seguridad o calidad del servicio.</td>
   </tr>
 </table>
 
