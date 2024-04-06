@@ -198,21 +198,33 @@ En esta sección se han definido una cierta cantidad de preguntas para nuestros 
 
 **Entrevista 1:**
 
-Nombres:
+Nombres: Claudia Cecilia
 
-Apellidos:
+Apellidos: Cañamero Vivas
 
-Edad: 
+Edad: 46
 
-Lugar de residencia:
+Lugar de residencia: Lima, Perú
 
-Entrevistador:
+Entrevistador: Italo Luna Capuñay
 
 Evidencia de la entrevista: 
 
-Enlace de entrevista:
+<img src="assets/entrevistas/entrevista-claudia.png" alt="Entrevista 01 Segmento propietario">
+
+Enlace de entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213375_upc_edu_pe/Ecl6kWhXShZEs4eoqqBltusBdurPIhKjNtqGXOSbDAXZGw?e=bsjJbh&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 Resumen de la entrevista:
+
+Entrevistamos a Claudia Cañamero, una señora de 46 años que es podóloga y propietaria de locales que alquila para distintos eventos. Claudia nos comentó que actualmente alquila su local para diversos eventos recreativos, pero que carece de organización en su proceso de promoción. En la actualidad, utiliza principalmente las redes sociales para promocionar su local y no emplea otras estrategias.
+
+Nos mencionó que le sería muy útil una plataforma para promocionar su local, ya que tiene poco conocimiento sobre las existentes. Aunque mencionó algunas plataformas que conoce, no está muy informada sobre ellas.
+
+En cuanto a la comunicación con sus clientes, que son los organizadores de eventos, Claudia nos comentó que no es muy buena. Tema que pueda haber estafas o malos acuerdos en los contratos, por lo que le gustaría que la plataforma fuera transparente en ese aspecto y que la comunicación con sus clientes fuera eficiente y fluida.
+
+Con respecto a las suscripciones, Claudia nos dijo que estaría dispuesta a pagar por una mejor experiencia en la plataforma.
+
+Por último, en cuanto a la webapp, nos agregó que le gustaría que fuera fácil de usar. No le gustaría entrar y perderse sin saber cómo usarla; preferiría interfaces intuitivas y no demasiado complicadas.
 
 **Entrevista 2:**
 
