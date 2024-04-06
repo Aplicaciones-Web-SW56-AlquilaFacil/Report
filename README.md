@@ -4,19 +4,19 @@ Después de realizar una investigación de mercado, hemos identificado tres plat
 1. **Airbnb:**
 Es una plataforma en línea fundada en 2008 que revolucionó la industria hotelera al ofrecer una alternativa a los hoteles tradicionales. Permite a los usuarios alquilar alojamientos a corto plazo, desde habitaciones individuales hasta casas completas, en más de 191 países. Facilita la conexión entre anfitriones que desean alquilar sus propiedades y huéspedes en busca de alojamiento temporal.
 <div style="text-align: center;">
-                <img src="assets/logo-airbnb.jpg" alt="Airbnb" style="max-width: 400px; width: 25%;">
+                <img src="assets/images/logos/logo-airbnb.jpg" alt="Airbnb" style="max-width: 400px; width: 25%;">
 </div>
 
 2. **Vrbo:**
 Es una plataforma en línea fundada en 1995 que facilita el alquiler de alojamientos vacacionales directamente a través de los propietarios. El nombre significa "Vacation Rentals by Owner" (Alquileres Vacacionales por Propietario). Es uno de los principales sitios web para alquileres vacacionales en todo el mundo, donde los usuarios pueden buscar y reservar casas, apartamentos, cabañas y villas en una variedad de destinos. Esto les permite encontrar opciones que se adapten a sus necesidades y preferencias.
 <div style="text-align: center;">
-                <img src="assets/logo-vrbo.png" alt="Vrbo" style="max-width: 400px; width: 25%;">
+                <img src="assets/images/logos/logo-vrbo.png" alt="Vrbo" style="max-width: 400px; width: 25%;">
 </div>
 
 3. **Booking:**
 Es una plataforma que permite a los usuarios reservar alojamiento en hoteles, hostales, apartamentos y otros tipos de alojamiento en todo el mundo. También ofrece la posibilidad de reservar vuelos, alquilar coches y reservar actividades turísticas. Booking.com es una de las mayores plataformas de reserva de alojamiento en línea y ofrece una amplia variedad de opciones para viajeros de todo tipo. Los usuarios pueden buscar alojamientos según sus preferencias y presupuesto, y realizar reservas de manera rápida y conveniente a través de la plataforma.
 <div style="text-align: center;">
-                <img src="assets/logo-booking.png" alt="Booking" style="max-width: 400px; width: 25%;">
+                <img src="assets/images/logos/logo-booking.png" alt="Booking" style="max-width: 400px; width: 25%;">
 </div>
 
 ### 2.1.1. Análisis competitivo
@@ -37,24 +37,24 @@ Es una plataforma que permite a los usuarios reservar alojamiento en hoteles, ho
         AlquilaFácil
         <br>
         <div style="text-align: center; margin-top: 10px;">
-                <img src="assets/logo-alquilafacil.png" alt="AlquilaFacil" width="60px">
+                <img src="assets/images/logos/logo-alquilafacil.png" alt="AlquilaFacil" width="60px">
         </div>
     <td colspan="1" valign="top" style="font-weight: bold;">
       Airbnb
         <div style="text-align: center; margin-top: 10px;">
-                <img src="assets/logo-airbnb.jpg" alt="Airbnb" width="60px">
+                <img src="assets/images/logos/logo-airbnb.jpg" alt="Airbnb" width="60px">
         </div>
     </td>
     <td colspan="1" valign="top" style="font-weight: bold;">
       Vrbo
         <div style="text-align: center; margin-top: 10px;">
-                <img src="assets/logo-vrbo.png" alt="Vrbo" width="60px">
+                <img src="assets/images/logos/logo-vrbo.png" alt="Vrbo" width="60px">
             </div>
         </td>
     <td colspan="1" valign="top" style="font-weight: bold;" >
       Booking
         <div style="text-align: center; margin-top: 10px;">
-                <img src="assets/logo-booking.png" alt="Booking" width="60px">
+                <img src="assets/images/logos/logo-booking.png" alt="Booking" width="60px">
         </div>
     </td>
   </tr>
