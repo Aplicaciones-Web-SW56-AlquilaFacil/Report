@@ -46,14 +46,43 @@ Esta sección se basa principalmente del contenido visual, los estilos, los tags
 ### 4.4.4. Web Applications User Flow Diagrams
 ## 4.5. Web Applications Prototyping
 ## 4.6. Domain-Driven Software Architecture
-A continuación, se mostrará el Context Diagram de nuestra aplicación el cual nos
-permitirá establecer un buen punto de partida para poder diagramar y documentar
-nuestro sistema de manera general.
+A continuación, se visualizarán los diagramas C4.
 ### 4.6.1. Software Architecture Context Diagram
+Se puede visualizar el diagrama de contexto que representa un panorama general de la comunicación entre nuestros segmentos objetivo y la aplicación.
+
+![contextDiagram](assets/contextDiagram.png)
 ### 4.6.2. Software Architecture Container Diagrams
+En este diagrama se puede apreciar el funcionamiento que tendrá la aplicación y las relaciones con los bounded context correspondientes, se busca organizarlos de tal forma que no generen dependencias fuertes que perjudiquen migraciones a future.
+
+![containerDiagram](assets/containerDiagram.png)
 ### 4.6.3. Software Architecture Components Diagrams
+En este diagrama se presenta de forma detallada las conexiones entre controllers, services y repositories de las entidades que contiene el bounded context.
+
+<p style="text-align: center;"><strong>User Context</strong></p>
+
+![componentDiagram](assets/userContext.png)
+
+<p style="text-align: center;"><strong>Suscription Context</strong></p>
+
+![componentDiagram](assets/suscriptionContext.png)
+
+<p style="text-align: center;"><strong>Space Context</strong></p>
+
+![componentDiagram](assets/spaceContext.png)
+
+<p style="text-align: center;"><strong>CreateReservation Context</strong></p>
+
+![componentDiagram](assets/createReservationContext.png)
+
+<p style="text-align: center;"><strong>Reservations Context</strong></p>
+
+![componentDiagram](assets/reservationsContext.png)
+
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
 ### 4.7.2. Class Dictionary
-## 4.8. Database Design
-### 4.8.1. Database Diagram
+
+## 4.8. Database Design.
+### 4.8.1. Database Diagram.
+
+![dataBaseDiagram](assets/dataBaseDiagram.png)
