@@ -145,6 +145,15 @@ Es una plataforma que permite a los usuarios reservar alojamiento en hoteles, ho
 </table>
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
+
+- **Diferenciación de la plataforma:** Identificaremos y destacaremos las características únicas de AlquilaFácil que la distinguen de otras plataformas de alquiler de espacios para eventos. Esto podría incluir herramientas innovadoras para la gestión de reservas, una interfaz fácil de usar que simplifica el proceso de búsqueda y reserva de espacios, y características adicionales como la personalización de eventos y la integración de servicios de catering o entretenimiento.
+
+- **Comunidad activa:** Fomentaremos una comunidad activa de propietarios de espacios, organizadores de eventos y usuarios en la plataforma de AlquilaFácil. Ofreceremos espacios para que compartan sus experiencias, recomienden espacios y eventos, e interactúen entre sí. Esto no solo aumentará el compromiso de los usuarios, sino que también generará confianza y lealtad hacia la plataforma.
+
+- **Marketing dirigido:** Utilizaremos estrategias de marketing digital dirigidas para llegar a nuestro público objetivo. Esto podría incluir publicidad en redes sociales dirigida a organizadores de eventos y propietarios de espacios, colaboraciones con organizadores de eventos locales e influencers en la industria de eventos, y la participación en ferias comerciales y eventos relevantes para promover la plataforma.
+
+- **Monetización creativa:** Exploraremos diferentes modelos de monetización para diversificar nuestras fuentes de ingresos y ofrecer opciones flexibles a nuestros usuarios. Además de las tarifas estándar por el uso de la plataforma, podríamos ofrecer servicios premium para propietarios de espacios, como la promoción destacada de sus listados o herramientas avanzadas de gestión de reservas. También podríamos considerar la inclusión de servicios adicionales, como la coordinación de catering o la organización de servicios de entretenimiento, con una tarifa adicional. La publicidad no intrusiva y los patrocinios de eventos también podrían ser oportunidades de monetización a explorar.
+
 ## 2.2. Entrevistas
 ### 2.2.1. Diseño de entrevistas
 ### 2.2.2. Registro de entrevistas
