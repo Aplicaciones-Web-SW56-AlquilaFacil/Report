@@ -403,12 +403,18 @@ Enlace de entrevista:
 Resumen de la entrevista:
 
 ### 2.2.3. Análisis de entrevistas
+
 ## 2.3. Needfinding
+
 ### 2.3.1. User Personas
 
 **Segmento propietario:**
 
 <img src="assets/images/user-personas/user-persona-propietario.png" alt="Segmento 1 user persona">
+
+**Segmento organizador:**
+
+<img src="assets/images/user-personas/user-persona-organizador.png" alt="Segmento 2 user persona">
 
 ### 2.3.2. User Task Matrix
 
