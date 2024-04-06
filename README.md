@@ -97,11 +97,11 @@ Es una plataforma que permite a los usuarios reservar alojamiento en hoteles, ho
     <td colspan="1" valign="top">Plataforma en línea que permite a los usuarios reservar una variedad de alojamientos, incluyendo hoteles, hostales, apartamentos y otros tipos de hospedaje en todo el mundo. Además de alojamiento, Booking.com ofrece la posibilidad de reservar vuelos, alquilar coches y reservar actividades turísticas para completar la experiencia de viaje del usuario.</td>
   </tr>
   <tr>
-    <td colspan="2">Precios & Costos</td>
-    <td colspan="1" valign="top"></td>
-    <td colspan="1" valign="top"></td>
-    <td colspan="1" valign="top"></td>
-    <td colspan="1" valign="top"></td>
+      <td colspan="2">Precios & Costos</td>
+      <td colspan="1" valign="top">Los precios de AlquilaFácil varían dependiendo del lugar, el tamaño de la propiedad, servicios, y el tiempo de uso.</td>
+      <td colspan="1" valign="top">El costo promedio puede variar significativamente dependiendo de varios factores, como la ubicación, el tipo de alojamiento, la época del año y la demanda local.</td>
+      <td colspan="1" valign="top">Los precios en VRBO pueden variar significativamente dependiendo de la ubicación, el tamaño de la propiedad, las comodidades ofrecidas y la temporada del año.</td>
+      <td colspan="1" valign="top">Los precios pueden variar significativamente según la ubicación, la temporada, la demanda y el tipo de alojamiento.</td>
   </tr>
   <tr>
     <td colspan="2">Canales de distribución (Web y/o Móvil)</td>
