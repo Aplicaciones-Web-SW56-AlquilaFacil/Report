@@ -399,6 +399,90 @@ Resumen de la entrevista:
 <img src="assets/images/user-personas/user-persona-propietario.png" alt="Segmento 1 user persona">
 
 ### 2.3.2. User Task Matrix
+
+**Segmento propietario:**
+
+<table align="center" border="1" width="90%" style="text-align:center;">
+    <tr>
+        <td></td>
+        <td colspan=2>
+            <b>User Persona</b>
+        </td>
+    </tr>
+    <tr>
+        <td></td>
+        <td colspan=2>
+            <b>Claudia Cañamero</b> </br>Propietaria de un local para eventos
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Task</b>
+        </td>
+        <td>
+            <b>Frecuencia</b>
+        </td>
+        <td>
+            <b>Importancia</b>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Gestionar reservas y coordinar eventos
+        </td>
+        <td>
+            High
+        </td>
+        <td>
+            High
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Promocionar el local en redes sociales y otros canales de marketing
+        </td>
+        <td>
+            High
+        </td>
+        <td>
+            High
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Mantener el local en óptimas condiciones de limpieza y mantenimiento
+        </td>
+        <td>
+            High
+        </td>
+        <td>
+            High
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Establecer comunicación efectiva con clientes y proveedores
+        </td>
+        <td>
+            High
+        </td>
+        <td>
+            High
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Explorar nuevas oportunidades de negocio y crecimiento
+        </td>
+        <td>
+            Medium
+        </td>
+        <td>
+            Medium
+        </td>
+    </tr>
+</table>
+
 ### 2.3.3. User Journey Mapping
 ### 2.3.4. Empathy Mapping
 ### 2.3.5. As-is Scenario Mapping
