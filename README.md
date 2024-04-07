@@ -597,6 +597,10 @@ Resumen de la entrevista:
 
 **Segmento propietario:**
 
+<img src="assets/images/user-jorney-mapping/user-journey-mapping-propietario.png" alt="Segmento objetivo propietario"> 
+
+**Segmento organizador:**
+
 
 
 ### 2.3.4. Empathy Mapping
