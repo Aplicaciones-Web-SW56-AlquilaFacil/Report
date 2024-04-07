@@ -418,8 +418,6 @@ Resumen de la entrevista:
 
 ### 2.3.2. User Task Matrix
 
-**Segmento propietario:**
-
 <table align="center" border="1" width="90%" style="text-align:center;">
     <tr>
         <td></td>
@@ -438,10 +436,10 @@ Resumen de la entrevista:
             <b>Task</b>
         </td>
         <td>
-            <b>Frecuencia</b>
+            <b>Frequency</b>
         </td>
         <td>
-            <b>Importancia</b>
+            <b>Importance</b>
         </td>
     </tr>
     <tr>
@@ -497,6 +495,100 @@ Resumen de la entrevista:
         </td>
         <td>
             Medium
+        </td>
+    </tr>
+</table>
+
+</br></br>
+
+<table align="center" border="1" width="90%" style="text-align:center;">
+    <tr>
+        <td></td>
+        <td colspan=2>
+            <b>User Persona</b>
+        </td>
+    </tr>
+    <tr>
+        <td></td>
+        <td colspan=2>
+            <b>Rodrigo Aguilar</b> </br>Organizador de Eventos
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Task</b>
+        </td>
+        <td>
+            <b>Frequency</b>
+        </td>
+        <td>
+            <b>Importance</b>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Buscar y reservar espacios para eventos
+        </td>
+        <td>
+            High
+        </td>
+        <td>
+            High
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Comunicarse con los propietarios de los espacios
+        </td>
+        <td>
+            High
+        </td>
+        <td>
+            High
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Buscar variedad en los tipos de espacios disponibles
+        </td>
+        <td>
+            High
+        </td>
+        <td>
+            High
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Reservar espacios para diferentes tipos de eventos
+        </td>
+        <td>
+            High
+        </td>
+        <td>
+            High
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Estar dispuesto a pagar por una mejor experiencia en la plataforma
+        </td>
+        <td>
+            Medium
+        </td>
+        <td>
+            Medium
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Utilizar una plataforma fácil de usar e intuitiva
+        </td>
+        <td>
+            High
+        </td>
+        <td>
+            High
         </td>
     </tr>
 </table>
