@@ -626,3 +626,25 @@ A continuación se pueden apreciar los Empathy Mapping de los segmentos objetivo
 <img src="assets/images/as-is-scenario/as-is-scenario-organizador.jpg" alt="Segmento objetivo organizador">
 
 ## 2.4. Ubiquitous Language
+
+- **Landing Page:** La página web inicial a la que llegan los usuarios cuando visitan el sitio de reserva de viajes. En el lenguaje ubicuo, podría ser simplemente "Página de Inicio" o "Página Principal".
+
+- **Plataforma:** Se refiere a la infraestructura tecnológica sobre la cual se construye el servicio de reserva de viajes. En el lenguaje ubicuo, podría simplemente llamarse "Sistema" o "Plataforma de Reservas".
+
+- **Perfil**: La información personal y las preferencias de un usuario registrado en la plataforma de reserva de viajes. En el lenguaje ubicuo, podría ser simplemente "Cuenta de Usuario" o "Perfil de Usuario".
+
+- **Itinerario:** La lista de actividades o eventos planificados para un viaje específico. En el lenguaje ubicuo, podría ser simplemente "Plan de Viaje" o "Ruta".
+
+- **Tarifa:** El costo asociado con un servicio de viaje, como un boleto de avión, un hotel o un alquiler de automóvil. En el lenguaje ubicuo, podría ser "Precio" o "Costo".
+
+- **Disponibilidad:** La cantidad de espacios o servicios disponibles para reservar en un momento dado. En el lenguaje ubicuo, podría ser "Capacidad" o "Disponibilidad de Servicio".
+
+- **Confirmación:** El proceso de validar una reserva y asegurar que se haya completado correctamente. En el lenguaje ubicuo, podría ser "Confirmación de Reserva" o "Confirmar Viaje".
+
+- **Cancelación:** La acción de anular una reserva existente. En el lenguaje ubicuo, podría ser "Cancelar Reserva" o "Anular Viaje".
+
+- **Destino:** El lugar al que se planea viajar o donde se encuentra un servicio específico, como un hotel. En el lenguaje ubicuo, podría ser simplemente "Lugar de Destino" o "Ubicación".
+
+- **Calendario:** Una herramienta para visualizar fechas y horarios disponibles para reservas. En el lenguaje ubicuo, podría ser "Agenda" o "Calendario de Disponibilidad".
+
+- **Pago:** La transacción financiera necesaria para confirmar una reserva. En el lenguaje ubicuo, podría ser simplemente "Pago" o "Transacción".
