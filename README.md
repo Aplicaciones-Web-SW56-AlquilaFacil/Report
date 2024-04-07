@@ -601,7 +601,7 @@ Resumen de la entrevista:
 
 **Segmento organizador:**
 
-
+<img src="assets/images/user-jorney-mapping/user-journey-mapping-organizador.png" alt="Segmento objetivo propietario"> 
 
 ### 2.3.4. Empathy Mapping
 ### 2.3.5. As-is Scenario Mapping
