@@ -28,7 +28,7 @@ Convertirnos en la principal plataforma global de alquiler de espacios para even
         <tr>
             <!-- DATOS del integrante 1-->
             <td> 
-            <img src="/assets/Josten-Huaman-Bellido.jpg" height="120">
+            <img src="assets/Josten-Huaman-Bellido.jpg" alt ="Josten Huaman" height="120">
             <br>Josten Marc Huaman Bellido
             </td>
             <!-- DESCRIPCIÓN del integrante 1-->
@@ -39,13 +39,17 @@ Convertirnos en la principal plataforma global de alquiler de espacios para even
         <tr>
             <!-- DATOS del integrante 2-->
             <td> 
-            <img src="">
-            Nombres y Apellidos
+            <img src="assets/italo-photo.jpg" alt ="Italo Luna" height="120">
+            Italo D'Alessandro Luna Capuñay
             </td>
-            <!-- DESCRIPCIÓN del integrante 2-->
-            <td> </td>
-            <!-- CONOCIMIENTOS del integrante 2-->
-            <td> </td>
+            <td> Soy un estudiante apasionado de ingeniería de software. Mi meta es seguir aprendiendo y mejorando constantemente en esta área en constante evolución. Soy responsable, creativo y adaptable, disfruto trabajando en equipo y colaborando eficazmente. Fuera del mundo de la programación, disfruto jugando al fútbol y pasando tiempo con amigos, valorando enormemente su apoyo e inspiración.</td>
+            <td>
+            Conocimiento en C++
+            Flutter
+            Tailwind
+            HTML
+            CSS
+            </td>
         </tr>
         <tr>
             <!-- DATOS del integrante 3-->
