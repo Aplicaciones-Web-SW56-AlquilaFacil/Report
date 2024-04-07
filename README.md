@@ -7,6 +7,85 @@
 ![tobeUsuario](/assets/img/Tobe_Scenario_Mapping_Usuario.jpg)
 
 ## 3.2. User Stories
+<table>
+    <thead>
+        <tr>
+            <th>Epic / Story ID</th>
+            <th>Título</th>
+            <th>Descripción</th>
+            <th>Criterios de Aceptación</th>
+            <th>Relacionado con (Epic ID)</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>EPIC-001</td>
+            <td>Registro y Gestión de Espacios</td>
+            <td>
+                <strong>Como</strong> propietario de un espacio para eventos en AlquilaFácil, 
+                <strong>quiero</strong> poder registrar y gestionar fácilmente mis espacios disponibles 
+                <strong>para</strong> atraer a potenciales organizadores de eventos y administrar eficientemente las reservas.
+            </td>
+            <td>N/A</td>
+            <td>N/A</td>         
+        </tr>
+        <tr>
+            <td>EPIC-002</td>
+            <td>Búsqueda y Reserva de Espacios</td>
+            <td>
+                <strong>Como</strong> organizador de eventos en AlquilaFácil, 
+                <strong>quiero</strong> poder buscar y reservar espacios para mis eventos de manera sencilla y conveniente 
+                <strong>para</strong> encontrar la ubicación perfecta que se adapte a mis necesidades y preferencias.
+            </td>
+            <td>N/A</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <td>EPIC-003</td>
+            <td>Interacción y Comunicación Directa</td>
+            <td>
+                <strong>Como</strong> usuario de AlquilaFácil, 
+                <strong>quiero</strong> poder interactuar y comunicarme directamente con los propietarios de espacios 
+                <strong>para</strong> aclarar dudas, discutir detalles y confirmar reservas de manera efectiva y rápida.
+            </td>
+            <td>N/A</td>
+            <td>N/A</td>
+        </tr> 
+        <tr>
+            <td>EPIC-004</td>
+            <td>Calificaciones y Comentarios</td>
+            <td>
+                <strong>Como</strong> usuario de AlquilaFácil, 
+                <strong>quiero</strong> poder dejar calificaciones y comentarios sobre los espacios y su experiencia de alquiler 
+                <strong>para</strong> ayudar a otros usuarios a tomar decisiones informadas y mejorar la calidad del servicio.
+            </td>
+            <td>N/A</td>
+            <td>N/A</td>
+        </tr> 
+        <tr>
+            <td>EPIC-005</td>
+            <td>Gestión de Reservas</td>
+            <td>
+                <strong>Como</strong> usuario de AlquilaFácil, 
+                <strong>quiero</strong> tener la capacidad de gestionar mis reservas de manera eficiente y flexible 
+                <strong>para</strong> adaptarme a cambios de horarios y necesidades de evento.
+            </td>
+            <td>N/A</td>
+            <td>N/A</td>       
+        </tr>   
+        <tr>
+            <td>EPIC-006</td>
+            <td>Seguridad y Confianza</td>
+            <td>
+                <strong>Como</strong> usuario de AlquilaFácil, 
+                <strong>quiero</strong> sentirme seguro al realizar transacciones y reservas en la plataforma 
+                <strong>para</strong> confiar en la integridad del servicio y la protección de mis datos personales.
+            </td>
+            <td>N/A</td>
+            <td>N/A</td>
+        </tr>  
+    </tbody>
+</table>
 
 <table>
     <thead>
