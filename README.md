@@ -621,4 +621,8 @@ A continuación se pueden apreciar los Empathy Mapping de los segmentos objetivo
 
 <img src="assets/images/as-is-scenario/as-is-scenario-propietario.jpg" alt="Segmento objetivo propietario">
 
+**Segmento organizador:**
+
+<img src="assets/images/as-is-scenario/as-is-scenario-organizador.jpg" alt="Segmento objetivo organizador">
+
 ## 2.4. Ubiquitous Language
