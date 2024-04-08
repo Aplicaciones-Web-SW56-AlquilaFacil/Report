@@ -282,21 +282,30 @@ Resumen de la entrevista:
 
 **Entrevista 5:**
 
-Nombres:
+Nombres: Miguel Ángel Jesús
 
-Apellidos:
+Apellidos: Carpio Cornejo
 
-Edad: 
+Edad: 20
 
-Lugar de residencia:
+Lugar de residencia: Chorrillos, Lima
 
-Entrevistador:
+Entrevistador: Brenda Gamio Upiachihua
 
 Evidencia de la entrevista: 
 
-Enlace de entrevista:
+<img src="assets/images/entrevistas/entrevista1-miguel.png" alt="Entrevista 05 Segmento propietario">
+
+Enlace de entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120344_upc_edu_pe/ER7eB7piI8xEr9NkQ3A1In8BkKbnt-aDCzBbmal2ln_5iw?e=ErOK9s
 
 Resumen de la entrevista:
+
+Entrevistamos a Miguel Carpio, un joven de 20 años que es estuadiante y es el encargado de alquilar la casa con jardín de dos pisos de su familia en Airbnb. Suele tener dificultades a la hora de entrada y salida de los inquilinos, por no respetar el check-in ni la hora de salida impidiendo la limpieza y entrada de los nuevos inquilinos. 
+
+Tampoco cuenta con una estrategia de marketing que sea, solo deja que el servicio que usa maneje como se vea su publicación de alquiler.
+
+Por último, menciona que le interesa saber más sobre este servicio que ofrece más que solo publicaciones de alquileres de casas y departamentos, sino, además, centros para eventos.
+
 
 **Segmento organizador:**
 
@@ -386,21 +395,27 @@ Resumen de la entrevista:
 
 **Entrevista 5:**
 
-Nombres:
+Nombres: Erick Ernesto
 
-Apellidos:
+Apellidos: Guerrero
 
-Edad: 
+Edad: 20
 
-Lugar de residencia:
+Lugar de residencia: Chorrillos, Lima
 
-Entrevistador:
+Entrevistador: Brenda Gamio Upiachihua
 
-Evidencia de la entrevista: 
+Evidencia de la entrevista:  <img src="assets/images/entrevistas/entrevista2-erick.png" alt="Entrevista 05 Segmento organizador">
 
-Enlace de entrevista:
+Enlace de entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120344_upc_edu_pe/Eeakt8f2BWJKqJu8D5wSkyAByUeX9Z-Qqj47-YMYUY-AuQ?e=Uc5t4O 
 
 Resumen de la entrevista:
+
+Erick Guerrero es un joven trabajador de 20 años que suele hacer reuniones casuales con su grupo de amigos. Si bien no es el que suele organizar eventos grandes como quinciañeros o coferencias en su trabajo, si se encarga de organizar y encontrar las locales en dónde divertirse con sus amigos.
+
+Lo que más le importa saber sobre el local de que va estar utilizando, es la condición del espacio en donde estará. Cómo se encuentran las tuverías y desagüe para evitar poner en peligro a él y sus amigos. Cómo de seguro es la casa debido a antigüedad, etc.
+
+Por último, menciona que estos servicios de alquiler de centros para eventos, suelen ser a través de organizadores. Esto implica transladarse hasta dónde está el organizador y el local, gastanto dinero en pasajes, gasolina. También que requiere esfuerzo y tiempo. Sin embargo, que un servicio web que facilite todo este proceso le parece una idea muy buena.
 
 ### 2.2.3. Análisis de entrevistas
 
