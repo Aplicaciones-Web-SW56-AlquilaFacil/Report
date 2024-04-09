@@ -120,7 +120,8 @@
             <strong>Dado</strong> que un usuario visita la plataforma desde un dispositivo móvil.
             <strong>Cuando</strong> el usuario hace clic en una opción del menú de navegación.
             <strong>Entonces</strong> la página se desplaza suavemente a la sección correspondiente, adaptándose al tamaño de la pantalla del dispositivo.
-            </td>            
+            </td> 
+            <td>EPIC-001</td>           
         </tr>
         <tr style="text-aling:center">
             <td>UH02</td>
@@ -144,6 +145,7 @@
             <strong>Cuando</strong> el propietario envía el formulario.
             <strong>Entonces</strong> los datos proporcionados se validan para garantizar la precisión y la autenticidad.
             </td>
+            <td>EPIC-001</td>
         </tr>
         <tr style="text-aling:center">
             <td>UH03</td>
@@ -167,6 +169,7 @@
             <strong>Cuando</strong> el organizador aplica un filtro de capacidad en la búsqueda.
             <strong>Entonces</strong> se muestran solo los espacios que cumplen con ese criterio.
             </td>
+            <td>EPIC-002</td>
         </tr>
         <tr style="text-aling:center">
             <td>UH04</td>
@@ -190,6 +193,7 @@
             <strong>Cuando</strong> el organizador envía la solicitud de reserva.
             <strong>Entonces</strong> recibe una confirmación de reserva y los detalles se actualizan en su cuenta.
             </td>
+            <td>EPIC-002</td>
         </tr>
         <tr style="text-aling:center">
             <td>UH05</td>
@@ -213,6 +217,7 @@
             <strong>Cuando</strong> el evento ha concluido.
             <strong>Entonces</strong> el organizador puede dejar un comentario y una calificación sobre su experiencia en ese espacio.
             </td>
+            <td>EPIC-005</td>
         </tr>
         <tr style="text-aling:center">
             <td>UH06</td>
@@ -236,6 +241,7 @@
             <strong>Cuando</strong> se acerca la fecha del evento.
             <strong>Entonces</strong> el propietario recibe recordatorios automáticos para gestionar las reservas.
             </td>
+            <td>EPIC-005</td>
         </tr>
         <tr style="text-aling:center">
             <td>UH07</td>
@@ -259,6 +265,7 @@
             <strong>Cuando</strong> el usuario visita el Centro de Ayuda en AlquilaFácil.
             <strong>Entonces</strong> encuentra respuestas claras y detalladas a sus preguntas frecuentes.
             </td>
+            <td>EPIC-006</td>
         </tr>
         <tr style="text-aling:center">
             <td>UH08</td>
@@ -282,6 +289,7 @@
             <strong>Cuando</strong> realiza cambios en su calendario externo.
             <strong>Entonces</strong> esos cambios se reflejan automáticamente en su calendario de disponibilidad en AlquilaFácil.
             </td>
+            <td>EPIC-005</td>
         </tr>
         <tr style="text-aling:center">
             <td>UH09</td>
@@ -305,6 +313,7 @@
             <strong>Cuando</strong> realiza una búsqueda.
             <strong>Entonces</strong> los espacios destacados aparecen en los primeros resultados de búsqueda, aumentando su visibilidad.
             </td>   
+            <td>EPIC-002</td>
         </tr>
         <tr style="text-aling:center">
             <td>UH10</td>
@@ -328,6 +337,7 @@
             <strong>Cuando</strong> su reseña es validada por el sistema.
             <strong>Entonces</strong> el usuario recibe una recompensa, como descuentos en futuras reservas o puntos de fidelidad.
             </td>
+            <td>EPIC-004</td>
         </tr>
         <tr style="text-aling:center">
             <td>UH11</td>
@@ -351,6 +361,7 @@
             <strong>Cuando</strong> concluye el evento.
             <strong>Entonces</strong> tiene la opción de dejar una reseña y calificación sobre la calidad del servicio recibido.
             </td>
+            <td>EPIC-006</td>
         </tr>
         <tr style="text-aling:center">
             <td>UH12</td>
@@ -374,6 +385,7 @@
             <strong>Cuando</strong> realiza la reserva.
             <strong>Entonces</strong> recibe confirmación inmediata y acceso prioritario al espacio seleccionado.
             </td>
+            <td>EPIC-002</td>
         </tr>
         <tr style="text-aling:center">
             <td>UH13</td>
@@ -397,6 +409,7 @@
             <strong>Cuando</strong> solicita cancelar la reserva.
             <strong>Entonces</strong> recibe orientación sobre el proceso de cancelación y cualquier reembolso aplicable.
             </td>
+            <td>EPIC-002</td>
         </tr>
         <tr style="text-aling:center">
             <td>UH14</td>
@@ -420,6 +433,7 @@
             <strong>Cuando</strong> revisa el resumen de costos antes de finalizar la reserva.
             <strong>Entonces</strong> no hay sorpresas, y todos los costos adicionales, como tarifas de servicio o impuestos, están claramente indicados.
             </td>
+            <td>EPIC-002</td>
         </tr>
         <tr style="text-aling:center">
             <td>UH15</td>
@@ -443,6 +457,7 @@
             <strong>Cuando</strong> envía un mensaje al propietario.
             <strong>Entonces</strong> recibe una respuesta oportuna y personalizada para abordar sus inquietudes.
             </td>
+            <td>EPIC-003</td>
         </tr>
         <tr style="text-aling:center">
             <td>UH16</td>
@@ -466,6 +481,7 @@
             <strong>Cuando</strong> carga imágenes de alta calidad que muestren el espacio y sus características.
             <strong>Entonces</strong> las fotos se muestran correctamente en el perfil del espacio, ayudando a atraer a posibles organizadores de eventos.
             </td>
+            <td>EPIC-001</td>
         </tr>
         <tr style="text-aling:center">
             <td>UH17</td>
@@ -489,6 +505,7 @@
             <strong>Cuando</strong> revisa la solicitud y necesita ajustar la disponibilidad del espacio.
             <strong>Entonces</strong> puede hacer cambios rápidos y comunicarse con el organizador del evento según sea necesario.
             </td>
+            <td>EPIC-001</td>
         </tr>
         <tr style="text-aling:center">
             <td>UH18</td>
@@ -512,6 +529,7 @@
             <strong>Cuando</strong> necesitan confirmar los detalles finales y asegurar la reserva.
             <strong>Entonces</strong> pueden comunicarse directamente para coordinar y confirmar la reserva de manera efectiva.
             </td>
+            <td>EPIC-003</td>
         </tr>
         <tr style="text-aling:center">
             <td>UH19</td>
@@ -535,6 +553,7 @@
             <strong>Cuando</strong> actualiza la descripción, agrega nuevas fotos o modifica los servicios disponibles.
             <strong>Entonces</strong> los cambios se reflejan instantáneamente en el perfil del espacio, manteniendo la información actualizada y precisa.
             </td>
+            <td>EPIC-001</td>
         </tr>
         <tr style="text-aling:center">
             <td>UH20</td>
@@ -558,10 +577,91 @@
         <strong>Cuando</strong> hay cambios en el estado de una reserva, como confirmación o cancelación.
         <strong>Entonces</strong> el propietario recibe notificaciones automáticas para mantenerlo informado sobre el estado actual de sus reservas.
         </td>
+        <td>EPIC-001</td>
         </tr>        
     </body>
 
 </table>
 
 ## 3.3. Impact Mapping
+
+**Propietario de Espacio para Eventos**
+![ImpactMapPropietario](/assets/img/Impact_map_propietario.png)
+
+**Usuario para Búsqueda de Espacio para Eventos**
+![ImpactMapUsuario](/assets/img/Impact_map_usuario.png)
+
+
 ## 3.4. Product Backlog
+
+Utilizamos la escala de Fibonacci para la estimación de los Story Points 
+
+<table>
+        <thead>
+            <tr>
+                <th>Orden</th>
+                <th>User Story Id</th>
+                <th>Título</th>
+                <th>Descripción</th>
+                <th>Story Points (1/2/3/5/8)</th>
+            </tr>
+        </thead>
+        <tbody>
+        <tr>
+            <td>1</td>
+            <td>UH18</td>
+            <td>Comunicación Directa con Organizadores</td>
+            <td>Como propietario de un espacio para eventos en AlquilaFácil, quiero poder comunicarme directamente con los organizadores de eventos interesados para aclarar dudas, discutir detalles y confirmar reservas de manera efectiva.</td>
+            <td>8</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>UH12</td>
+            <td>Acceso a Espacios Exclusivos</td>
+            <td>Como organizador de eventos en AlquilaFácil, quiero poder acceder a espacios exclusivos y populares para destacar mi evento y ofrecer una experiencia única a mis invitados.</td>
+            <td>5</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>UH15</td>
+            <td>Comunicación Directa con Propietarios</td>
+            <td>Como organizador de eventos en AlquilaFácil, quiero poder comunicarme directamente con los propietarios de los espacios para aclarar dudas, coordinar detalles y resolver cualquier problema de manera rápida y efectiva.</td>
+            <td>8</td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>UH10</td>
+            <td>Reseñas Recompensadas</td>
+            <td>Como usuario de AlquilaFácil, quiero poder dejar reseñas sobre los espacios que he utilizado para compartir mi experiencia con otros usuarios y ganar recompensas por mi participación.</td>
+            <td>5</td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td>UH05</td>
+            <td>Calificaciones y Comentarios sobre Espacios</td>
+            <td>Como organizador de eventos, quiero poder ver las calificaciones y comentarios de otros usuarios sobre los espacios en AlquilaFácil para tomar una decisión informada al seleccionar un espacio para mi evento.</td>
+            <td>3</td>
+        </tr>
+        <tr>
+            <td>6</td>
+            <td>UH17</td>
+            <td>Gestión Flexible de Disponibilidad</td>
+            <td>Como propietario de un espacio para eventos en AlquilaFácil, quiero tener la capacidad de gestionar la disponibilidad de mi espacio de manera flexible para adaptarme a cambios de horarios y necesidades de reserva.</td>
+            <td>8</td>
+        </tr>
+        <tr>
+            <td>7</td>
+            <td>UH03</td>
+            <td>Búsqueda y Filtrado de Espacios</td>
+            <td>Como organizador de eventos, quiero poder buscar y filtrar fácilmente espacios disponibles en AlquilaFácil para encontrar el lugar perfecto para mi evento, según mis criterios específicos.</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>8</td>
+            <td>UH01</td>
+            <td>Hipervínculos en el Encabezado</td>
+            <td>Como visitante de la plataforma AlquilaFácil, quiero que las opciones del menú de navegación me dirijan a las diferentes secciones de la plataforma para poder acceder rápidamente a la información que necesito.</td>
+            <td>1</td>
+        </tr>
+        </tbody>
+</table>
