@@ -16,13 +16,16 @@ Un **Style Guideline** es un conjunto de reglas y normas que definen cómo se de
 
 **Brand Name:** <td>Como la startup se trata de alquilar centros para eventos y también para publicitar centros que podrían ser alquilados, se vio conveniente llamarlo “AlquilaFacil”.</td>
 
-<!-- Imagen!-->
+<img src="assets/Logo.png" alt="AlquilaFacil">
 
-**Typography:** <td>Las tipografías asignadas por el equipo fueron:</td>
-<!-- Imagen!-->
+**Typography:** <td>El tamaño elegido para la tipografía por el equipo fue:</td>
+<img src="assets/Typography-stylesheet.png" alt="AlquilaFacil">
 
-**Colors:** <td></td>
-<!-- Imagen!-->
+<td>Y sus modificaciones han sido de:</td>
+<img src="assets/Typography Modifiers-stylesheet.png" alt="AlquilaFacil">
+
+**Colors:** <td>La gama de colores elegidos son:</td>
+<img src="assets/Colors-stylesheet.png" alt="AlquilaFacil">
 
 ### 4.1.2. Web Style Guidelines
 <td>AlquilaFacil se diseñará como plataforma web, por lo tanto, aplicaremos un diseño adaptable (Web Responsive Design) con el objetivo de presentar la información de manera óptima en cualquier dispositivo, asegurando que el contenido permanezca intacto para mejorar la experiencia del usuario.</td>
@@ -295,6 +298,12 @@ el tamaño de la pantalla.</td>
 
 ## 4.3. Landing Page UI Design
 ### 4.3.1. Landing Page Wireframe
+**Landing Page para Desktop Web Browser**
+<img src="assets/LandingPage-wireframe-desktop.png">
+
+**Landing Page para Mobile Web Browser**
+<img src="assets/LandingPage-wireframe-mobile.png">
+
 ### 4.3.2. Landing Page Mock-up
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
