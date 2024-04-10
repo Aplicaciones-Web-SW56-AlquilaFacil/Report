@@ -82,7 +82,7 @@ Convertirnos en la principal plataforma global de alquiler de espacios para even
             <!-- DESCRIPCIÓN del integrante 5-->
             <td>Estudiante del 5to ciclo de la carrera de Ingeniería de Software. Soy alguien responsable y dedicada que le gusta aprendere e investigar más cosas para facilitar el trabajo. </td>
             <!-- CONOCIMIENTOS del integrante 5-->
-            <td> </td>
+            <td>Conocimientos en HTML, CSS, JavaScript, C++, Python y base de datos SQL y No SQL.  </td>
         </tr>
     </body>
 </table>    
