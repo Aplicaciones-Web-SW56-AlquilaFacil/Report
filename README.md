@@ -341,21 +341,25 @@ Por último, en cuanto a la webapp, nos comentó que tendría futuro si hubiera 
 
 **Entrevista 2:**
 
-Nombres:
+Nombres: Fabio
 
-Apellidos:
+Apellidos: Carbajal Larios
 
-Edad: 
+Edad: 25
 
-Lugar de residencia:
+Lugar de residencia: Chorrillos, Lima
 
-Entrevistador:
+Entrevistador: Angel Cancho Corilla
 
 Evidencia de la entrevista: 
 
-Enlace de entrevista:
+<img src="assets/images/entrevistas/entrevista-fabio.png" alt="Entrevista 01 Segmento organizador">
+
+Enlace de entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201721995_upc_edu_pe/EYYtHSOgcipIr6XNTxnqZvQB9Ndf5WyLJGXsBfBkFVL4cg?e=xpXbCm 
 
 Resumen de la entrevista:
+
+El entrevistado se presenta como Fabio Carbajal y explica su labor de promotor y la búsqueda de espacios para sus eventos. Fabio expresa que su trabajo como organizador de eventos implica buscar y promover espacios para eventos de diversos tipos, como bodas, conferencias y fiestas. Fabio menciona que una de las dificultades a las que se enfrenta es la necesidad de buscar lugares para eventos constantemente, especialmente cuando surgen emergencias o cambios de último momento. Esto puede generar complicaciones logísticas, como encontrar un nuevo local en poco tiempo o lidiar con cancelaciones repentinas por parte de los propietarios. Por ultimo, menciona que nuestra página web sería una herramienta útil para agilizar la búsqueda y reserva de espacios para eventos de acuerdo con sus necesidades y horarios específicos. Sugiere que tener una plataforma en línea donde los propietarios puedan publicar sus locales disponibles facilitaría su trabajo al permitirle encontrar opciones más rápidamente y bajo sus criterios de selección.
 
 **Entrevista 3:**
 
