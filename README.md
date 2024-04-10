@@ -245,7 +245,7 @@ el tamaño de la pantalla.</td>
 <br>
 <td>Las meta etiquetas nos permiten codificar y especificar metadatos en una página web. Aunque no son visibles para los usuarios, los navegadores y rastreadores web las leen. Estas etiquetas facilitan el análisis de archivos HTML y ayudan en el mantenimiento del contenido. Además, influyen en el posicionamiento de nuestra página en los motores de búsqueda.</td>
 
-`<title>Register your processes with GreenHouse</title>`
+`<title>Register your processes with AlquilaFacil</title>`
 
 **Codificación de caracteres** 
 <br>
