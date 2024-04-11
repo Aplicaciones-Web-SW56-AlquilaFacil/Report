@@ -310,13 +310,13 @@ Para la elaboración de los Hypothesis Statements se utilizó el formato Lean UX
 
 En esta sección, identificamos los segmentos de clientes específicos a los que se dirige AlquilaFácil, basándonos en características demográficas, comportamientos y necesidades compartidas.
 
-- Organizadores de Eventos Sociales: 
+- Organizadores de Eventos Sociales/ Usuarios Frecuentes de Espacios para Eventos: 
 
-Descripción: Individuos que planifican eventos sociales como bodas, fiestas de cumpleaños, reuniones familiares, entre otros.
+Descripción: Individuos que planifican eventos sociales como bodas, fiestas de cumpleaños, reuniones familiares, entre otros e individuos que organizan eventos regularmente, ya sea social o corporativo.
 
-Características: Buscan espacios que se adapten a sus necesidades específicas, como capacidad, ubicación y servicios disponibles.
+Características: Buscan espacios que se adapten a sus necesidades específicas, como capacidad, ubicación y servicios disponibles y realizan múltiples reservas de espacios a lo largo del año.
 
-Necesidades: Facilidad de búsqueda y reserva de espacios, acceso a información detallada sobre las instalaciones y servicios ofrecidos.
+Necesidades: Facilidad de búsqueda y reserva de espacios, acceso a información detallada sobre las instalaciones y servicios ofrecidos y programas de fidelización, descuentos por reservas recurrentes, acceso prioritario a espacios exclusivos.
 
 - Propietarios de Espacios para Eventos: 
 
@@ -325,11 +325,3 @@ Descripción: Individuos o empresas que poseen espacios aptos para eventos, como
 Características: Ofrecen una variedad de espacios con diferentes capacidades y características.
 
 Necesidades: Promoción efectiva de sus espacios, gestión eficiente de reservas, acceso a herramientas para administrar sus listados y proyectos de eventos.
-
-- Usuarios Frecuentes de Espacios para Eventos:
-
-Descripción: Individuos que organizan eventos regularmente, ya sea social o corporativo.
-
-Características: Realizan múltiples reservas de espacios a lo largo del año.
-
-Necesidades: Programas de fidelización, descuentos por reservas recurrentes, acceso prioritario a espacios exclusivos.
