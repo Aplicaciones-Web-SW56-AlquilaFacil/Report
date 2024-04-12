@@ -256,21 +256,29 @@ Por ultimo, sugirió una aplicación que le sea fácil de usar y poder colocar v
 
 **Entrevista 3:**
 
-Nombres:
+Nombres: Fabio
 
-Apellidos:
+Apellidos: Huamani Tello
 
-Edad: 
+Edad: 25
 
-Lugar de residencia:
+Lugar de residencia: Chorrillos, Lima
 
-Entrevistador:
+Entrevistador: Angel Cancho Corilla
 
 Evidencia de la entrevista: 
 
-Enlace de entrevista:
+<img src="assets/images/entrevistas/entrevista-FabioH.png" alt="Entrevista 01 Segmento propietario">
+
+Enlace de entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201721995_upc_edu_pe/EX9sJ80cNvpHuJ9SkQZMTsoBYi-1-CnkUUTUJEcjEQRsbg
 
 Resumen de la entrevista:
+
+El entrevistado se menciona como Fabio Huamani Tello, que tiene una propiedad de aproximadamente 30 m2 que le gustaría alquilar de manera más eficaz a través de la plataforma AlquilaFácil. Explica que uno de los principales desafíos que enfrenta al promocionar su espacio es alcanzar a las personas adecuadas para alquilarlo, y que ha tenido dificultades para lograr un flujo constante de alquileres. Ha utilizado canales como Marketplace y Facebook para promocionar su propiedad, así como Instagram para llegar a personas más cercanas. Ha alquilado su espacio unas 10 veces en los últimos 8 meses, con intervalos variables entre alquileres.
+
+Considera útil la aplicación AlquilaFácil debido a su presentación y características, y está dispuesto a pagar por suscripciones que le brinden beneficios adicionales, como destacar su espacio de alquiler. En cuanto a los métodos de pago, Fabio prefiere efectivo o transferencia bancaria, pero estaría dispuesto a utilizar la plataforma de AlquilaFácil si es conveniente.
+
+En cuanto a las características que le gustaría ver en la plataforma, menciona que la facilidad de uso, el alcance a personas adecuadas y la seguridad son aspectos importantes. Sugiere la implementación de un sistema de calificaciones para los propietarios y los clientes, lo que proporcionaría una mayor transparencia y confianza en el proceso de alquiler.
 
 **Entrevista 4:**
 
