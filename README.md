@@ -346,7 +346,69 @@ En este diagrama se presenta de forma detallada las conexiones entre controllers
 
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
+
+![diagramClass](assets/diagramClass.png)
+
 ### 4.7.2. Class Dictionary
+
+<table style="text-aling:center">
+    <thead>
+        <tr>
+            <th>Clase</th>
+            <th>Descripción</th>
+        </tr>
+    </thead>
+    <body>
+        <tr>
+            <td> 
+            <img src="assets/userC.png" alt="userClass" height="200" width="200">
+            </td>
+            <td>Es la clase padre de las clases Organizer y Owner, es la encargada de almacenas los datos del usuario</td>
+        </tr>
+        <tr>
+            <td> 
+            <img src="assets/ownerC.png" alt ="ownerC" height="120">
+            </td>
+            <td>La clase Owner hereda de la clase User. Representa a los propietarios de los espacios que pueden ser alquilados para eventos.</td>
+        </tr>
+        <tr>
+            <td> 
+            <img src="assets/organizerC.png" alt ="organizerC" height="120">
+            </td>
+            <td>La clase Organizer hereda de la clase User. Representa a los organizadores de eventos que buscan y reservan espacios para sus eventos.</td>
+        </tr>
+        <tr>
+            <td> 
+            <img src="assets/reservationC.png" alt ="reservationC" height="200" width="200">
+            </td>
+            <td>Gestiona las reservas realizadas por organizadores para espacios de eventos específicos.</td>
+        </tr>
+        <tr>
+            <td> 
+            <img src="assets/eventSpaceC.png" alt ="eventSpaceC" height="200" width="200">
+            </td>
+            <td>Representa los espacios físicos disponibles para alquiler. Proporciona información detallada sobre el espacio, como ubicación, capacidad y características.</td>
+        </tr>
+        <tr>
+            <td> 
+            <img src="assets/paymentsC.png" alt ="paymentsC" height="200" width="200">
+            </td>
+            <td>Representa los pagos asociados a las reservas de espacios de evento. Registra información sobre el monto, la fecha y el estado de los pagos realizados.</td>
+        </tr>
+        <tr>
+            <td> 
+            <img src="assets/subscriptionC.png" alt ="subscriptionC" height="200" width="200">
+            </td>
+            <td>Representa las suscripciones de los propietarios a planes de servicio que ofrecen beneficios adicionales.</td>
+        </tr>
+        <tr>
+            <td> 
+            <img src="assets/plansC.png" alt ="plansC" height="200" width="200">
+            </td>
+            <td>Define los diferentes niveles de suscripción disponibles para los propietarios de espacios.</td>
+        </tr>
+    </body>
+</table>    
 
 ## 4.8. Database Design.
 ### 4.8.1. Database Diagram.
