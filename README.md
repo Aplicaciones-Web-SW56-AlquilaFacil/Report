@@ -282,21 +282,29 @@ En cuanto a las características que le gustaría ver en la plataforma, menciona
 
 **Entrevista 4:**
 
-Nombres:
+Nombres: Jessica
 
-Apellidos:
+Apellidos: Matallana Hurtado
 
-Edad: 
+Edad: 56
 
-Lugar de residencia:
+Lugar de residencia: San Isidro, Lima
 
-Entrevistador:
+Entrevistador: Augusto Pin
 
 Evidencia de la entrevista: 
 
-Enlace de entrevista:
+<img src="assets/images/entrevistas/entrevista-augusto.png" alt="Entrevista 01 Segmento propietario">
+
+Enlace de entrevista: https://upcedupe-my.sharepoint.com/personal/u202210257_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202210257%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevista%20Augusto%20Pin%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview 
 
 Resumen de la entrevista:
+
+Jessica Matallana, propietaria de varios departamentos en Chiclayo, destacó la importancia de la seguridad y la comodidad en la gestión de alquileres. Antes de usar la aplicación, Jessica enfrentaba problemas relacionados con la seguridad de los pagos y la incertidumbre en la selección de inquilinos. La falta de una plataforma centralizada dificultaba la promoción de sus propiedades y requería un tiempo considerable en la gestión de alquileres.
+
+Considerando la utilidad de una aplicación de alquiler de locales, Jessica expresó que sería una herramienta invaluable para mejorar la seguridad y eficiencia en sus transacciones. Valoró especialmente la capacidad de promocionar sus departamentos en redes sociales de manera más efectiva y la simplificación de los procesos de pago y reserva para los inquilinos.
+
+Cuando se le preguntó sobre sus expectativas para una aplicación de alquiler de locales, Jessica enfatizó la importancia de que fuera un lugar seguro y fácil de usar. Espera que la aplicación ofrezca medidas sólidas de seguridad para proteger tanto a los propietarios como a las acciones que se toman entre ellos, así como una interfaz intuitiva que simplifique la gestión de propiedades y reservas.
 
 **Entrevista 5:**
 
@@ -347,7 +355,7 @@ Enlace de entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u2022133
 
 Resumen de la entrevista:
 
-Entrevistamos a Rodrigo Aguilar, un joven de 16 años que estudia la carrera de Ingeniería de Software. Rodrigo nos comentó que le gusta adquirir espacios para diversos eventos recreativos. En la actualidad, utiliza principalmente las redes sociales y sitios web como Airbnb y otros para encontrar locales.
+Entrevistamos a Rodrigo Aguilar, un joven de 19 años que estudia la carrera de Ingeniería de Software. Rodrigo nos comentó que le gusta adquirir espacios para diversos eventos recreativos. En la actualidad, utiliza principalmente las redes sociales y sitios web como Airbnb y otros para encontrar locales.
 
 Rodrigo destacó que una interfaz intuitiva sería excelente para poder utilizar la plataforma. Para él, lo más importante es la comunicación con el propietario, ya que no le gusta tener conflictos en el contrato o malos entendidos.
 
