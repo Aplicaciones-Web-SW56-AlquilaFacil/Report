@@ -54,13 +54,12 @@ Convertirnos en la principal plataforma global de alquiler de espacios para even
         <tr>
             <!-- DATOS del integrante 3-->
             <td> 
-            <img src="">
-            Nombres y Apellidos
+            <img src="assets/image.png" alt="Angel" height="120">
+            Angel Antonio Cancho Corilla
             </td>
-            <!-- DESCRIPCIÓN del integrante 3-->
-            <td> </td>
-            <!-- CONOCIMIENTOS del integrante 3-->
-            <td> </td>
+            <td> 
+            Soy una persona comprometida y dedicada, siempre dispuesta a aprender y a investigar para mejorar mi desempeño en el trabajo. Me gusta mantenerme actualizada y explorar nuevas formas de facilitar las tareas y alcanzar los objetivos de manera más eficiente.</td>
+            <td> Conocimientos básicos en Python, Java, y C++, así como en varios frameworks asociados a estos lenguajes de programación.</td>
         </tr>
         <tr>
             <!-- DATOS del integrante 4-->
