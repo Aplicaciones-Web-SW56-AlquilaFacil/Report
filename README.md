@@ -402,6 +402,17 @@ Para el presente sprint, se ha desarrollado el landing page. Para el desarrollo 
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
-El equipo creó el landing page utilizando el modelo de gitflow, el cual implica utilizar distintas ramas para abordar cada parte del proyecto, optimizarlo y mantenerlo actualizado. La ventaja de adoptar este enfoque es que simplifica la tarea de actualizar y realizar modificaciones, permitiendo luego mostrar y comprobar la integración sin problemas en la rama principal. A continuación, se presenta el conocimiento adquirido por el equipo a través de la plataforma GitHub.
+El equipo creó el landing page utilizando el modelo de gitflow, el cual implica utilizar distintas ramas para abordar cada parte del proyecto, optimizarlo y mantenerlo actualizado. La ventaja de adoptar este enfoque es que simplifica la tarea de actualizar y realizar modificaciones, permitiendo luego mostrar y comprobar la integración sin problemas en la rama principal.
 
+| Alumno        | Actividad                                                   | 
+|---------------|-------------------------------------------------------------|
+| Angel Cancho  | Implementación del banner 1                                 |
+| Josten Huaman | Implementación del banner 2                                 |
+| Italo Luna    | Implementación del responsive y características del website |
+| Augusto Pin   | Implementación de los lugares                               |
+| Brenda Gamio  | Implementación del banner 3                                 |
 
+GitFlow:
+<div align=center>
+   <img src="/assets/Gitflow-AF.png" alt="carrusel"></img>
+</div>
