@@ -320,29 +320,29 @@ Se puede visualizar el diagrama de contexto que representa un panorama general d
 ### 4.6.2. Software Architecture Container Diagrams
 En este diagrama se puede apreciar el funcionamiento que tendrá la aplicación y las relaciones con los bounded context correspondientes, se busca organizarlos de tal forma que no generen dependencias fuertes que perjudiquen migraciones a future.
 
-![containerDiagram](assets/containerDiagram.png)
+![containerDiagram](assets/containerDiagramA.png)
 ### 4.6.3. Software Architecture Components Diagrams
 En este diagrama se presenta de forma detallada las conexiones entre controllers, services y repositories de las entidades que contiene el bounded context.
 
 <p style="text-align: center;"><strong>User Context</strong></p>
 
-![componentDiagram](assets/userContext.png)
+![componentDiagram](assets/userContextA.png)
 
-<p style="text-align: center;"><strong>Suscription Context</strong></p>
+<p style="text-align: center;"><strong>Subscription Context</strong></p>
 
-![componentDiagram](assets/suscriptionContext.png)
+![componentDiagram](assets/subscriptionContextA.png)
 
 <p style="text-align: center;"><strong>Space Context</strong></p>
 
-![componentDiagram](assets/spaceContext.png)
+![componentDiagram](assets/spaceContextA.png)
 
 <p style="text-align: center;"><strong>CreateReservation Context</strong></p>
 
-![componentDiagram](assets/createReservationContext.png)
+![componentDiagram](assets/createReservationContextA.png)
 
 <p style="text-align: center;"><strong>Reservations Context</strong></p>
 
-![componentDiagram](assets/reservationsContext.png)
+![componentDiagram](assets/reservationsContextA.png)
 
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
