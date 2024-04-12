@@ -184,7 +184,7 @@ La documentación se ha enriquecido con la expansión de la visión de negocio y
         </td>
         <td>
             En líneas generales, hemos logrado mantener una excelente organización y comunicación como equipo, gracias 
-            al uso de plataformas como Discord. Sin embargo, siempre hay margen para mejorar aún más nuestra coordinación 
+            al uso de plataformas como Google Meet. Sin embargo, siempre hay margen para mejorar aún más nuestra coordinación 
             y colaboración en pos de la excelencia en nuestros proyectos.
 
 Para garantizar un progreso continuo en nuestros proyectos, es esencial que perfeccionemos la estimación del desarrollo 
@@ -220,9 +220,154 @@ esto facilitará la lectura y comprensión de la información por parte de todos
 
 
 #### 5.2.1.2. Sprint Backlog 1
-#### 5.2.1.3. Development Evidence for Sprint Review
+
+</br>
+
+<table align="center" border="1" width="90%" style="text-align:center">
+    <tr>
+       <td colspan="1"><b>Sprint #</b></td>
+       <td colspan="7"><b>Sprint 1</b></td>
+     </tr>
+     <tr>
+       <td colspan="2"><b>User Story</b></td>
+       <td colspan="6"><b>Work-Item / Task</b></td>
+     </tr>
+     <tr>
+       <td><b>Id</b></td>
+       <td><b>Title</b></td>
+       <td><b>Id</b></td>
+       <td><b>Title</b></td>
+       <td><b>Description</b></td>
+       <td><b>Estimation(Hours)</b></td>
+       <td><b>Assigned To</b></td>
+       <td><b>Status(To-do/ In-Process/ To-Review/ Done)</b></td>
+     </tr>
+     <tr>
+       <td rowspan="3">US01</td>
+       <td rowspan="3">Implementación de CSS</td>
+       <td>T01</td>
+       <td>Agregar RESET</td>
+       <td>Restablecer los estilos predeterminados del navegador</td>
+       <td>1</td>
+       <td>Italo Luna</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T02</td>
+       <td>Agregar CSS main</td>
+       <td>Dar formato y estilo a la sección principal</td>
+       <td>3</td>
+       <td>Josten Marc</td>
+       <td>Done</td>
+    </tr>
+     <tr>
+       <td>T03</td>
+       <td>Agregar CSS footer</td>
+       <td>Dar formato y estilo al pie de página </td>
+       <td>2</td>
+       <td>Antonio</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td rowspan="2">US02</td>
+       <td rowspan="2">Implementación de Diseño Responsivo</td>
+       <td>T04</td>
+       <td>Agregar CSS main (media queries)</td>
+       <td>Hacer responsive a la sección principal</td>
+       <td>1</td>
+       <td>Brenda Gamio</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T05</td>
+       <td>Agregar CSS footer (media queries)</td>
+       <td>Hacer responsive al pie de página
+    </td>
+       <td>0.5</td>
+       <td>Italo Luna</td>
+       <td>Done</td>
+    </tr>
+   <tr>
+       <td>US03</td>
+       <td>Implementación de JavaScript</td>
+       <td>T06</td>
+       <td>Agregar Botón en JS HTML y CSS</td>
+       <td>Agregar comportamientos dinámicos al botón, estructurarlo y estilizarlo</td>
+       <td>2</td>
+       <td>Augusto Pin</td>
+       <td>Done</td>
+    </tr>
+   <tr>
+       <td>US04</td>
+       <td>Implementación de Cover</td>
+       <td>T07</td>
+       <td>Agregar cover landing page</td>
+       <td>Diseñar una portada atractiva</td>
+       <td>3</td>
+       <td>Brenda Gamio</td>
+       <td>Done</td>
+    </tr>
+</table>
+
+#### 5.2.1.3. Development Evidence for Sprint Review.
+| Repository                                                      | Branch   | Commit id | Commit Message                                    | Commit Message Body                               | Commited on (Date) |
+|-----------------------------------------------------------------|----------|-----------|---------------------------------------------------|---------------------------------------------------|-------------------- 
+| https://github.com/Aplicaciones-Web-SW56-AlquilaFacil/Landing-Page-AF.git | variety  | 2b4f926   | feat: added section variety and design responsive | feat: added section variety and design responsive | 11/04/2024         | 
+|                                                                 | banner-1 | c867f51   | feat: added banner #1 for landing page            | feat: added banner #1 for landing page            | 11/04/2024         | 
+|                                                                 | banner-2 | 4c6f4c5   | feat(section): added banner and button            | feat(section): added banner and button            | 12/04/2024         | 
+|                                                                 | banner-3 | c867f51   | feat: Added banner #3 for Landing page            | feat: Added banner #3 for Landing page            | 11/04/2024         | 
+|                                                                 | places   | f82e444   | feat: add places for landing page                 | feat: add places for landing page                 | 11/04/2024         | 
+|                                                                 | nav      | c9516af   | feat: Added nav partial                           | feat: Added nav partial                           | 11/04/2024         | 
+|                                                                 | footer   | 951d833   | feat: added footer                                | feat: added footer                                | 12/04/2024         | 
+
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
+
+<table align="left" border="1" width="100%">
+  <tr>
+    <th>Repository</th>
+    <th >Branch</th>
+    <th>Commit</th>
+    <th>Author</th>
+    <th>Message</th>
+    <th>Date</th>
+  </tr>
+  <tr>
+    <td>Landing-Page-AF</td>
+    <td>feature/aceptance_test</td>
+    <td>71084fd</td>
+    <td>Augusto Pin</td>
+    <td>doc: add acceptance tests</td>
+    <td>12/04/2024</td>
+  </tr>
+</table>
+
 #### 5.2.1.5. Execution Evidence for Sprint Review
+
+
+
+
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
+
+Durante el primer sprint, se ha creado el landing page como primer paso del proyecto, sin que se haya hecho uso de web services para su funcionamiento.
+
+Para saber más sobre los web services, se le deja un pequeño resumen de lo que son y para qué sirven.
+
+- Un web service es un software que permite la comunicación e intercambio de datos entre distintas aplicaciones, independientemente del lenguaje de programación o la plataforma en la que se hayan desarrollado. Los web services facilitan la integración y la interoperabilidad entre sistemas heterogéneos.
+
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
+
+Para el presente sprint, se ha desarrollado el landing page. Para el desarrollo del landing page se ha utilizado las siguientes herramientas:
+
+- Git: Herramienta de gestión de versiones que facilitó la colaboración en equipo durante la creación del landing page. Git es un sistema que permite a los programadores registrar y seguir los cambios realizados en el código fuente de un proyecto. Con Git, podemos crear ramas para trabajar en diferentes partes del código sin interferir con el trabajo de los demás, integrar los cambios cuando estén listos y revertirlos si es necesario.
+
+- GitFlow: Método de trabajo que contribuyó al seguimiento del progreso individual de cada miembro del equipo en la creación del landing page. GitFlow es un modelo de flujo de trabajo con ramificaciones en Git que establece una estructura estándar para organizar las diferentes versiones y características del código. Con GitFlow, podemos mantener una rama principal (master o main) con el código más estable y seguro, una rama de desarrollo (develop) con el código en proceso, y varias ramas auxiliares (feature, release, hotfix) que se utilizan para desarrollar nuevas funcionalidades, preparar lanzamientos y solucionar errores urgentes, respectivamente.
+
+- GitHub: Plataforma que facilitó la colaboración en equipo para almacenar las versiones de nuestro proyecto. GitHub es un servicio web que utiliza Git para alojar repositorios remotos y fomentar la colaboración entre programadores. Con GitHub, podemos cargar nuestro código en la nube, compartirlo con otros usuarios, recibir comentarios y sugerencias, hacer seguimiento de tareas y problemas, y acceder a una amplia gama de proyectos de código abierto.
+
+- GitHub Pages: Servicio que nos permitió publicar nuestro landing page directamente desde nuestro repositorio de GitHub. GitHub Pages ofrece una manera sencilla de crear sitios web estáticos para nuestros proyectos, utilizando temas prediseñados o personalizados. Con GitHub Pages, podemos mostrar nuestro landing page al mundo sin la necesidad de adquirir un servidor o un dominio.
+
 #### 5.2.1.8. Team Collaboration Insights during Sprint
+
+El equipo creó el landing page utilizando el modelo de gitflow, el cual implica utilizar distintas ramas para abordar cada parte del proyecto, optimizarlo y mantenerlo actualizado. La ventaja de adoptar este enfoque es que simplifica la tarea de actualizar y realizar modificaciones, permitiendo luego mostrar y comprobar la integración sin problemas en la rama principal. A continuación, se presenta el conocimiento adquirido por el equipo a través de la plataforma GitHub.
+
+
