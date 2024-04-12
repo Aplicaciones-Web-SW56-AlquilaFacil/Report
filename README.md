@@ -228,21 +228,31 @@ Por último, en cuanto a la webapp, nos agregó que le gustaría que fuera fáci
 
 **Entrevista 2:**
 
-Nombres:
+Nombres: Brenda Caroline
 
-Apellidos:
+Apellidos: Baca Acha
 
-Edad: 
+Edad: 24
 
-Lugar de residencia:
+Lugar de residencia: Lima, Perú
 
-Entrevistador:
+Entrevistador: Josten Marc Huaman Bellido 
 
 Evidencia de la entrevista: 
 
-Enlace de entrevista:
+<img src="assets/images/entrevistas/entrevista-brenda.png" alt="Entrevista 01 Segmento propietario">
+
+Enlace de entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201617624_upc_edu_pe/EfjxULWKOjFEp5tenbRadIsBkhKdhPkwuq3cr9CeitgkaA?e=7G0Nhr
 
 Resumen de la entrevista:
+
+Entrevistamos a Brenda Baca, una chica de 24 años que es arquitecta y tiene apartamenos que alquila para vivir o para eventos especiales. Brenda nos comentó que alquila sus apartamentos por un medio común que es a través de un cartel publicitario y el úso de la plataforma Facebook "Marketplace". Nos comenta que le gustaría adquirir un mayor público para obtener mayor número de reservas ya que se encuentra en un mercado competitivo. 
+
+Ella en cuanto los medios de pago que utiliza, realiza el pago por adelantado y en efectivo, no utiliza algún medio de pago. Dado que pueden realizarle estafas o tener incovenientes más adelante.
+
+En base a las suscripciones, si considera pagar una suscripción si le llega a facilitar el proceso de alquilar su espacio y si le brinda la seguridad del sistema de pago. 
+
+Por ultimo, sugirió una aplicación que le sea fácil de usar y poder colocar videos como 'tour' para que los clientes vean como es el espacio, que tenga un diseño intuitivo. 
 
 **Entrevista 3:**
 
