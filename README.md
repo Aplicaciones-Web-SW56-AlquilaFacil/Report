@@ -343,7 +343,41 @@ esto facilitará la lectura y comprensión de la información por parte de todos
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
 
+1. Sección  banner de presentacion, donde se puede visualizar un paisaje con nuestras funcionalidades.
 
+<div align=center>
+   <img src="/assets/landingAF-1.png" alt="carrusel"></img>
+</div>
+
+2. Sección de ciudades donde se puede ver donde opera AlquilaFacil.
+
+<div align=center>
+   <img src="/assets/landingAF-2.png" alt="carrusel"></img>
+</div>
+
+3. Sección sabe mas donde damos mas explicacion de detalle de AlquilaFacil.
+
+<div align=center>
+   <img src="/assets/landingAF-3.png" alt="carrusel"></img>
+</div>
+
+4. Sección  donde llamamos a los usuarios que tienen propiedades a que tenga una cuenta en AlquilaFacil.
+
+<div align=center>
+   <img src="/assets/landingAF-4.png" alt="carrusel"></img>
+</div>
+
+5. Sección donde mostramos que clase de locales hay en AlquilaFacil.
+
+<div align=center>
+   <img src="/assets/landingAF-5.png" alt="carrusel"></img>
+</div>
+
+6. Sección  del footer donde se muestra nuestro logo y el objetivo que tenemos como aplicacion.
+
+<div align=center>
+   <img src="/assets/landingAF-6.png" alt="carrusel"></img>
+</div>
 
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
