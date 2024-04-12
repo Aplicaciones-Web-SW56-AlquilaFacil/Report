@@ -54,13 +54,19 @@ Convertirnos en la principal plataforma global de alquiler de espacios para even
         <tr>
             <!-- DATOS del integrante 3-->
             <td> 
-            <img src="">
-            Nombres y Apellidos
+            <img src="assets/Augusto_Pin-foto.JPG" alt ="Augusto Pin" height="120"">
+            Augusto Jose Pin Matallana
             </td>
-            <!-- DESCRIPCIÓN del integrante 3-->
-            <td> </td>
+            <td>Tengo 18 y estudio en la carrera de ingeniería de software, me gusta todo lo que tiene que ver con computación y desarrollo de aplicaciones o videojuegos, actualmente estoy en el quinto ciclo y hasta ahora me ha gustado todo lo que tiene la carrera. Dejando la carrera a un lado me gusta salir con mis amigos a comer a pasar tiempo de calidad entre nosotros.
+            </td>
             <!-- CONOCIMIENTOS del integrante 3-->
-            <td> </td>
+            <td>
+            Conocimiento en C#
+            C++
+            Javascript
+            ASP.NET MVC
+            SQL / NoSQL
+            </td>
         </tr>
         <tr>
             <!-- DATOS del integrante 4-->
