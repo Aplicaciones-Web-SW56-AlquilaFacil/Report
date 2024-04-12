@@ -67,14 +67,13 @@ Convertirnos en la principal plataforma global de alquiler de espacios para even
             ASP.NET MVC
             SQL / NoSQL
             </td>
->>>>>>> da159ce6da5eb77034559d7db1ba5c8c2ccc6f04
         </tr>
         <td> 
             <img src="assets/image.png" alt="Angel" height="120">
             Angel Antonio Cancho Corilla
             </td>
             <td> 
-            Soy una persona comprometida y dedicada, siempre dispuesta a aprender y a investigar para mejorar mi desempeño en el trabajo. Me gusta mantenerme actualizada y explorar nuevas formas de facilitar las tareas y alcanzar los objetivos de manera más eficiente.</td>
+            Soy un estudiante comprometido y dedicado, siempre dispuesto a aprender y a investigar para mejorar mi desempeño en el trabajo. Me gusta mantenerme actualizada y explorar nuevas formas de facilitar las tareas y alcanzar los objetivos de manera más eficiente.</td>
             <td> Conocimientos básicos en Python, Java, y C++, así como en varios frameworks asociados a estos lenguajes de programación.</td>
         </tr>
         <tr>
