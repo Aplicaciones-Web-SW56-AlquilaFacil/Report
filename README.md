@@ -68,9 +68,9 @@
             <td>Se agregó el contenido del capítulo 1, apartados 1.1, 1.2 y 1.3; el contenido del capítulo 2, apartados 2.1, 2.2, 2.3, 2.4; el contenido del capítulo 3, apartados 3.1, 3.2, 3.3 y 3.4; el contenido del capítulo 4, apartados 4.1, 4.2, 4.3, 4.4, 4.5, 4.6, 4.7 y 4.8; y el contenido del capítulo 5, apartados 5.1, 5.2, 5.3 y 5.4</td>
 <table>
 
-<br>
-
 ---
+
+<br>
 
 # Project Report Collaboration Insights
 
@@ -80,6 +80,31 @@ TB1:
 
 # Student Outcome
 
+<table >
+        <tr>
+            <th style="text-align:center;">Criterio específico</th>
+            <th style="text-align:center;">Acciones realizadas</th>
+            <th style="text-align:center;">Conclusiones</th>
+        </tr>
+        <tr>
+            <td align = "center">Participa en equiposmultidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.</td>
+            <td> Luna Capuñay, Italo D'Alessandro <br>
+            TB1: <br>
+            El proyecto se llevó a cabo con la colaboración de todo el equipo, distribuyendo equitativamente las responsabilidades entre sus miembros. Además, trabajamos en conjunto en diferentes áreas, como la realización de entrevistas, la creación de la página principal y las secciones de evidencia de desarrollo y conjunto de pruebas, asegurando un enfoque integral y de colaboración en todas las fases del proyecto.
+
+ALUMNO <br>
+TB1: <br>
+ALUMNO <br>
+TB1: <br>
+ALUMNO <br>
+TB1: <br>
+ALUMNO <br>
+TB1: <br>
+
+</td>
+    <td>TB1: Durante esta fase del proyecto, se llevaron a cabo exhaustivos análisis de las preferencias de los escritores, ilustradores y lectores a través de entrevistas. Se aplicó un diseño UX/UI apropiado para atender las necesidades de los usuarios. Además, se empleó la metodología de Domain Driven Design (DDD) para identificar los distintos dominios de la aplicación, desarrollando diagramas de clase que representaran la arquitectura del modelo backend. Se diseñaron diagramas de flujo tanto de usuario como de trabajo para mejorar la experiencia global del usuario, y se implementó la estructura de la base de datos. Finalmente, se documentó todo el proceso utilizando metodologías ágiles.<tr>
+</table>
+<br>
 
 ---
 
