@@ -2793,7 +2793,9 @@ El equipo creó el landing page utilizando el modelo de gitflow, el cual implica
 
 # Conclusiones
 
+En conclusión, AlquilaFácil no solo presenta una solución tecnológica innovadora para simplificar el proceso de alquiler de espacios para eventos, sino que también establece una nueva dimensión en la industria al conectar de manera eficiente a propietarios y organizadores. Esta plataforma no solo se limita a ofrecer una herramienta conveniente, sino que aspira a transformar la forma en que se gestionan los eventos al proporcionar una experiencia integral y sin contratiempos.
 
+Con una visión ambiciosa de convertirse en la principal plataforma global en su sector, AlquilaFácil se compromete a ofrecer un servicio que va más allá de las expectativas convencionales. Promete no solo facilitar la búsqueda y reserva de espacios, sino también garantizar una experiencia fluida y sin problemas para todos sus usuarios, desde propietarios que desean rentabilizar sus espacios hasta organizadores en busca de la ubicación perfecta para sus eventos. Este enfoque impulsa la eficiencia y la satisfacción en cada paso del camino, estableciendo a AlquilaFácil como un líder innovador en la industria de alquiler de espacios para eventos.
 
 # Bibliografía
 
@@ -2803,6 +2805,4 @@ El equipo creó el landing page utilizando el modelo de gitflow, el cual implica
 | Sección | Enlace al video |
 | ------------ | ------------ |
 | Video grupal del TB1 |  |
-| Needfinding interviews |   |
-| Prototypes Navigation/ Product Navigation |  |
 
