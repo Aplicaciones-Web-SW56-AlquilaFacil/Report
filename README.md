@@ -25,8 +25,8 @@
             <td>U202213375</td>
         </tr>
         <tr>
-            <td></td>
-            <td></td>
+            <td>Pin Matallana, Augusto Jose</td>
+            <td>U202210257</td>
         </tr>
         <tr>
             <td></td>
