@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/Report2-TB1.iml" filepath="$PROJECT_DIR$/.idea/Report2-TB1.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/ReportFinalTB1.iml" filepath="$PROJECT_DIR$/.idea/ReportFinalTB1.iml" />
+>>>>>>> feature/chapter-5
     </modules>
   </component>
 </project>
