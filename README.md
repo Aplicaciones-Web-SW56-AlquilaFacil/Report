@@ -2760,8 +2760,18 @@ El equipo creó el landing page utilizando el modelo de gitflow, el cual implica
    <img src="assets/NethworkGraph4.png" alt="insights"></img>
 </div>
 
-# Conclusions
+# Conclusiones
 
 
----
+
+# Bibliografía
+
+
+
+# Anexos
+| Sección | Enlace al video |
+| ------------ | ------------ |
+| Video grupal del TB1 |  |
+| Needfinding interviews |   |
+| Prototypes Navigation/ Product Navigation |  |
 
