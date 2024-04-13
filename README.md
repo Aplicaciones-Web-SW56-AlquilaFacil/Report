@@ -79,7 +79,7 @@ Convertirnos en la principal plataforma global de alquiler de espacios para even
         <tr>
             <!-- DATOS del integrante 5-->
             <td> 
-            <img src="">
+            <img src="assets/Brenda-photo.jpg" alt="Brenda Lucía Gamio Upiachihua" height="120">
             <br>Brenda Lucía Gamio Upiachihua
             </td>
             <!-- DESCRIPCIÓN del integrante 5-->
