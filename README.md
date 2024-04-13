@@ -92,8 +92,9 @@ TB1:
             TB1: <br>
             El proyecto se llevó a cabo con la colaboración de todo el equipo, distribuyendo equitativamente las responsabilidades entre sus miembros. Además, trabajamos en conjunto en diferentes áreas, como la realización de entrevistas, la creación de la página principal y las secciones de evidencia de desarrollo y conjunto de pruebas, asegurando un enfoque integral y de colaboración en todas las fases del proyecto.
 
-ALUMNO <br>
-TB1: <br>
+<br>Cancho Corilla, Angel Antonio <br>
+TB1: Llevé a cabo la sección Domain-Driven Software Architecture, Software Object-Oriented Design y Database Design. <br>
+
 ALUMNO <br>
 TB1: <br>
 ALUMNO <br>
