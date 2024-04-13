@@ -399,3 +399,686 @@ Descripción: Individuos o empresas que poseen espacios aptos para eventos, como
 Características: Ofrecen una variedad de espacios con diferentes capacidades y características.
 
 Necesidades: Promoción efectiva de sus espacios, gestión eficiente de reservas, acceso a herramientas para administrar sus listados y proyectos de eventos.
+# Capítulo II: Requirements Elicitation & Analysis
+## 2.1. Competidores
+Después de realizar una investigación de mercado, hemos identificado tres plataformas que ofrecen características similares a las de nuestra aplicación para conectar propietarios de espacios con organizadores de eventos. Estas son:
+1. **Airbnb:**
+Es una plataforma en línea fundada en 2008 que revolucionó la industria hotelera al ofrecer una alternativa a los hoteles tradicionales. Permite a los usuarios alquilar alojamientos a corto plazo, desde habitaciones individuales hasta casas completas, en más de 191 países. Facilita la conexión entre anfitriones que desean alquilar sus propiedades y huéspedes en busca de alojamiento temporal.
+<div style="text-align: center;">
+                <img src="assets/images/logos/logo-airbnb.jpg" alt="Airbnb" style="max-width: 400px; width: 25%;">
+</div>
+
+2. **Vrbo:**
+Es una plataforma en línea fundada en 1995 que facilita el alquiler de alojamientos vacacionales directamente a través de los propietarios. El nombre significa "Vacation Rentals by Owner" (Alquileres Vacacionales por Propietario). Es uno de los principales sitios web para alquileres vacacionales en todo el mundo, donde los usuarios pueden buscar y reservar casas, apartamentos, cabañas y villas en una variedad de destinos. Esto les permite encontrar opciones que se adapten a sus necesidades y preferencias.
+<div style="text-align: center;">
+                <img src="assets/images/logos/logo-vrbo.png" alt="Vrbo" style="max-width: 400px; width: 25%;">
+</div>
+
+3. **Booking:**
+Es una plataforma que permite a los usuarios reservar alojamiento en hoteles, hostales, apartamentos y otros tipos de alojamiento en todo el mundo. También ofrece la posibilidad de reservar vuelos, alquilar coches y reservar actividades turísticas. Booking.com es una de las mayores plataformas de reserva de alojamiento en línea y ofrece una amplia variedad de opciones para viajeros de todo tipo. Los usuarios pueden buscar alojamientos según sus preferencias y presupuesto, y realizar reservas de manera rápida y conveniente a través de la plataforma.
+<div style="text-align: center;">
+                <img src="assets/images/logos/logo-booking.png" alt="Booking" style="max-width: 400px; width: 25%;">
+</div>
+
+### 2.1.1. Análisis competitivo
+<table>
+  <tr>
+    <th colspan="7" valign="top"><b>Competitive Analysis Landscape</b></th>
+  </tr>
+  <tr>
+    <td colspan="2" rowspan="2">¿Por qué llevar a cabo este análisis?</td>
+    <td colspan="5">Escriba en el recuadro la pregunta que busca responder o el objetivo de este análisis.</td>
+  </tr>
+  <tr>
+    <td colspan="5">Este análisis se realizó con la finalidad de poder identificar a nuestros potenciales competidores e idear estrategias y tácticas para diferenciarnos de estos.</td>
+  </tr>
+  <tr>
+    <td colspan="3">(En la cabecera colocar por cada competidor nombre y logo)</td>
+    <td colspan="1" valign="top" style="font-weight: bold;">
+        AlquilaFácil
+        <br>
+        <div style="text-align: center; margin-top: 10px;">
+                <img src="assets/images/logos/logo-alquilafacil.png" alt="AlquilaFacil" width="60px">
+        </div>
+    <td colspan="1" valign="top" style="font-weight: bold;">
+      Airbnb
+        <div style="text-align: center; margin-top: 10px;">
+                <img src="assets/images/logos/logo-airbnb.jpg" alt="Airbnb" width="60px">
+        </div>
+    </td>
+    <td colspan="1" valign="top" style="font-weight: bold;">
+      Vrbo
+        <div style="text-align: center; margin-top: 10px;">
+                <img src="assets/images/logos/logo-vrbo.png" alt="Vrbo" width="60px">
+            </div>
+        </td>
+    <td colspan="1" valign="top" style="font-weight: bold;" >
+      Booking
+        <div style="text-align: center; margin-top: 10px;">
+                <img src="assets/images/logos/logo-booking.png" alt="Booking" width="60px">
+        </div>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="1" rowspan="2"><p>Perfil</p></td>
+    <td colspan="2">Overview</td>
+    <td colspan="1" valign="top">Es una plataforma en línea que facilita el alquiler de una amplia gama de espacios para eventos, desde salones de eventos hasta casas y alojamientos temporales. Con una interfaz fácil de usar, conecta a propietarios con organizadores, ofreciendo una solución conveniente y eficiente para satisfacer las necesidades de ambos.</td>
+    <td colspan="1" valign="top">Plataforma en línea que revoluciona el alquiler de alojamientos a corto plazo, conectando anfitriones y huéspedes en todo el mundo. Ofrece una amplia variedad de opciones de alojamiento, desde habitaciones individuales hasta casas completas.</td>
+    <td colspan="1" valign="top">Plataforma en línea que permite a los usuarios buscar y reservar alojamientos vacacionales directamente a través de propietarios. Ofrece una variedad de opciones de alojamiento, como casas, apartamentos, cabañas y villas, en diferentes destinos, adaptándose a las necesidades y preferencias de los viajeros.</td>
+    <td colspan="1" valign="top">Booking.com es una plataforma líder para reservar alojamiento y actividades turísticas en todo el mundo. Ofrece una amplia variedad de opciones, desde hoteles hasta apartamentos, y facilita la búsqueda y reserva según las preferencias y presupuesto de los usuarios.</td>
+  </tr>
+  <tr>
+    <td colspan="2">Ventaja competitiva</td>
+    <td colspan="1" valign="top">Proporciona una solución completa para la planificación de eventos, ofreciendo una amplia gama de espacios para eventos y una plataforma intuitiva para gestionar reservas. Con características como registro gratuito de espacios, búsqueda avanzada y servicio al cliente dedicado, Alquila Fácil simplifica el proceso de planificación de eventos para organizadores y propietarios de espacios.</td>
+    <td colspan="1" valign="top">Ofrece una amplia variedad de alojamientos en todo el mundo, desde habitaciones individuales hasta casas completas, junto con experiencias locales únicas organizadas por anfitriones. Esto permite a los viajeros personalizar su experiencia y sumergirse en la cultura local.</td>
+    <td colspan="1" valign="top">Se especializa en alquileres vacacionales directamente a través de propietarios, brindando a los viajeros la oportunidad de disfrutar de una experiencia más auténtica y personalizada. Con una amplia selección de alojamientos vacacionales, Vrbo ofrece opciones para todos los gustos y presupuestos.</td>
+    <td colspan="1" valign="top">Destaca por su amplia oferta de alojamiento y servicios, que incluyen hoteles, vuelos, alquiler de coches y actividades turísticas. La plataforma fácil de usar permite a los usuarios encontrar y reservar alojamiento de manera rápida y sencilla, ofreciendo una solución integral para los viajeros.</td>
+  </tr>
+  <tr>
+    <td colspan="1" rowspan="2"><p>Perfil de Marketing</p></td>
+    <td colspan="2">Mercado objetivo</td>
+    <td colspan="1" valign="top">Dirigido a organizadores de eventos adultos de 18 años en adelante que buscan espacios para eventos sociales, corporativos o especiales, como bodas, conferencias, fiestas de empresa, entre otros. Además, atrae a empresas y organizaciones que buscan espacios para eventos corporativos y reuniones profesionales dirigidas a un público adulto.</td>
+    <td colspan="1" valign="top">Se centra en viajeros adultos de 18 años en adelante, ofreciendo una amplia variedad de alojamientos en todo el mundo, desde habitaciones individuales hasta casas completas, para adaptarse a diferentes necesidades y preferencias de viaje. Además, apunta a grupos de amigos, parejas y familias adultas que buscan opciones de alojamiento que se ajusten a sus requerimientos y presupuestos durante sus vacaciones o escapadas.</td>
+    <td colspan="1" valign="top">Está dirigido a familias y grupos de amigos adultos de 18 años en adelante que buscan alquilar casas, villas o cabañas para vacaciones o escapadas grupales. Además, atrae a parejas y grupos de amigos adultos que buscan alquilar alojamientos vacacionales para eventos especiales, como bodas, reuniones familiares o celebraciones de cumpleaños.</td>
+    <td colspan="1" valign="top">Orientado a viajeros adultos de 18 años en adelante, busca ofrecer una amplia gama de opciones de alojamiento para adaptarse a diversas necesidades y preferencias durante sus viajes. También se dirige a personas que viajan por negocios, parejas en escapadas románticas, grupos de amigos en vacaciones y familias en busca de opciones de alojamiento cómodas y convenientes.</td>
+  </tr>
+  <tr>
+    <td colspan="2">Estrategias de marketing</td>
+    <td colspan="1" valign="top">Alquila Fácil destaca con marketing de contenidos, participación en eventos de la industria y alianzas con proveedores de servicios de eventos para ofrecer soluciones completas a organizadores de eventos.</td>
+    <td colspan="1" valign="top">Airbnb emplea campañas publicitarias en redes sociales y colaboraciones con influencers para promocionar destinos y experiencias únicas. También utiliza programas de referidos para aumentar su base de usuarios.</td>
+    <td colspan="1" valign="top">Vrbo se centra en contenido educativo en su sitio web, colaboraciones con agencias de viajes y ofertas exclusivas para atraer a familias y grupos de amigos a reservar a través de su plataforma.</td>
+    <td colspan="1" valign="top">Booking.com utiliza estrategias de SEO y SEM, junto con programas de fidelización, para atraer tráfico y fomentar la lealtad del cliente a través de una experiencia personalizada.</td>
+  </tr>
+  <tr>
+    <td colspan="1" rowspan="3"><p>Perfil de Producto</p></td>
+    <td colspan="2">Productos & Servicios</td>
+    <td colspan="1" valign="top">Aplicación web que conecta a propietarios de diversos espacios, como salones de eventos, jardines y locales comerciales, con organizadores de eventos que buscan alquilar estos espacios para celebrar eventos sociales, corporativos o especiales. Proporciona una variedad de herramientas y servicios para facilitar la búsqueda, reserva y gestión de espacios para eventos.</td>
+    <td colspan="1" valign="top">Plataforma en línea donde los usuarios pueden alquilar una variedad de alojamientos a corto plazo, desde habitaciones individuales hasta casas completas, en todo el mundo. Además de alojamiento, Airbnb también proporciona experiencias locales únicas organizadas por anfitriones, como recorridos gastronómicos, clases de cocina y excursiones.</td>
+    <td colspan="1" valign="top">Plataforma para alquilar alojamientos vacacionales directamente a través de los propietarios. Los usuarios pueden encontrar y reservar una amplia gama de propiedades, que van desde casas y apartamentos hasta cabañas y villas, para sus vacaciones o escapadas en todo el mundo.</td>
+    <td colspan="1" valign="top">Plataforma en línea que permite a los usuarios reservar una variedad de alojamientos, incluyendo hoteles, hostales, apartamentos y otros tipos de hospedaje en todo el mundo. Además de alojamiento, Booking.com ofrece la posibilidad de reservar vuelos, alquilar coches y reservar actividades turísticas para completar la experiencia de viaje del usuario.</td>
+  </tr>
+  <tr>
+      <td colspan="2">Precios & Costos</td>
+      <td colspan="1" valign="top">Los precios de AlquilaFácil varían dependiendo del lugar, el tamaño de la propiedad, servicios, y el tiempo de uso.</td>
+      <td colspan="1" valign="top">El costo promedio puede variar significativamente dependiendo de varios factores, como la ubicación, el tipo de alojamiento, la época del año y la demanda local.</td>
+      <td colspan="1" valign="top">Los precios en VRBO pueden variar significativamente dependiendo de la ubicación, el tamaño de la propiedad, las comodidades ofrecidas y la temporada del año.</td>
+      <td colspan="1" valign="top">Los precios pueden variar significativamente según la ubicación, la temporada, la demanda y el tipo de alojamiento.</td>
+  </tr>
+  <tr>
+    <td colspan="2">Canales de distribución (Web y/o Móvil)</td>
+    <td colspan="1" valign="top">Redes sociales y aplicación web donde los usuarios pueden poner en renta su espacio o alquilar un espacio para eventos.</td>
+    <td colspan="1" valign="top">Sitio web de Airbnb, aplicación móvil de Airbnb, socios afiliados y asociaciones, redes sociales y marketing digital.</td>
+    <td colspan="1" valign="top">Principalmente su sitio web y su aplicación móvil, así como acuerdos de distribución con otros sitios web de viajes o agencias de viajes en línea.</td>
+    <td colspan="1" valign="top">Sitio web de Booking.com, aplicación móvil de Booking, agencias de viajes en línea, alianzas con compañías de viajes, afiliados y asociados.</td>
+  </tr>
+  <tr>
+    <td colspan="1" rowspan="5"><p>Análisis SWOT</p></td>
+    <td colspan="6">Realice esto para su startup y sus competidores. Sus fortalezas deberían apoyar sus oportunidades y contribuir a lo que ustedes definen como su posible ventaja competitiva.</td>
+  </tr>
+  <tr>
+    <td colspan="2">Fortalezas</td>
+    <td colspan="1" valign="top">Solución completa para la planificación de eventos.</td>
+    <td colspan="1" valign="top">Gran comunidad de anfitriones y usuarios.</td>
+    <td colspan="1" valign="top">Variedad de alojamientos en todo el mundo.</td>
+    <td colspan="1" valign="top">Interfaz fácil de usar y experiencia intuitiva del usuario.</td>
+  </tr>
+  <tr>
+    <td colspan="2">Debilidades</td>
+    <td colspan="1" valign="top">Dependencia de la disponibilidad de espacios para eventos.</td>
+    <td colspan="1" valign="top">Dependencia de la reputación y opiniones de los usuarios.</td>
+    <td colspan="1" valign="top">Posible saturación del mercado de alquiler vacacional.</td>
+    <td colspan="1" valign="top">Competencia intensa con otras plataformas de alquiler de alojamiento.</td>
+  </tr>
+  <tr>
+    <td colspan="2">Oportunidades</td>
+    <td colspan="1" valign="top">Expansión a nuevos mercados y nichos de eventos.</td>
+    <td colspan="1" valign="top">Desarrollo de nuevas características y servicios para mejorar la experiencia del usuario.</td>
+    <td colspan="1" valign="top">Alianzas estratégicas con proveedores de servicios de eventos.</td>
+    <td colspan="1" valign="top">Aprovechamiento de la tendencia creciente del turismo y los viajes.</td>
+  </tr>
+  <tr>
+    <td colspan="2">Amenazas</td>
+    <td colspan="1" valign="top">Cambios en la regulación de alquileres vacacionales y eventos.</td>
+    <td colspan="1" valign="top">Posible disminución de la demanda de viajes debido a crisis económicas o sanitarias.</td>
+    <td colspan="1" valign="top">Innovaciones tecnológicas que podrían ser adoptadas por competidores.</td>
+    <td colspan="1" valign="top">Posible pérdida de confianza del usuario debido a problemas de seguridad o calidad del servicio.</td>
+  </tr>
+</table>
+
+### 2.1.2. Estrategias y tácticas frente a competidores
+
+- **Diferenciación de la plataforma:** Identificaremos y destacaremos las características únicas de AlquilaFácil que la distinguen de otras plataformas de alquiler de espacios para eventos. Esto podría incluir herramientas innovadoras para la gestión de reservas, una interfaz fácil de usar que simplifica el proceso de búsqueda y reserva de espacios, y características adicionales como la personalización de eventos y la integración de servicios de catering o entretenimiento.
+
+- **Comunidad activa:** Fomentaremos una comunidad activa de propietarios de espacios, organizadores de eventos y usuarios en la plataforma de AlquilaFácil. Ofreceremos espacios para que compartan sus experiencias, recomienden espacios y eventos, e interactúen entre sí. Esto no solo aumentará el compromiso de los usuarios, sino que también generará confianza y lealtad hacia la plataforma.
+
+- **Marketing dirigido:** Utilizaremos estrategias de marketing digital dirigidas para llegar a nuestro público objetivo. Esto podría incluir publicidad en redes sociales dirigida a organizadores de eventos y propietarios de espacios, colaboraciones con organizadores de eventos locales e influencers en la industria de eventos, y la participación en ferias comerciales y eventos relevantes para promover la plataforma.
+
+- **Monetización creativa:** Exploraremos diferentes modelos de monetización para diversificar nuestras fuentes de ingresos y ofrecer opciones flexibles a nuestros usuarios. Además de las tarifas estándar por el uso de la plataforma, podríamos ofrecer servicios premium para propietarios de espacios, como la promoción destacada de sus listados o herramientas avanzadas de gestión de reservas. También podríamos considerar la inclusión de servicios adicionales, como la coordinación de catering o la organización de servicios de entretenimiento, con una tarifa adicional. La publicidad no intrusiva y los patrocinios de eventos también podrían ser oportunidades de monetización a explorar.
+
+## 2.2. Entrevistas
+### 2.2.1. Diseño de entrevistas
+
+En esta sección se han definido una cierta cantidad de preguntas para nuestros segmentos objetivos, con la finalidad de obtener información cualitativa como opiniones o descripciones. Esta información nos será de gran ayuda en el desarrollo de nuestra solución.
+
+**Preguntas generales:**
+
+1. ¿Cuál es tu nombre?
+2. ¿Qué edad tienes?
+3. ¿Dónde vives actualmente?
+4. ¿A qué te dedicas?
+
+**Preguntas Segmento 1: Propietarios**
+
+1. ¿Qué desafíos enfrenta actualmente al promocionar y gestionar reservas para su espacio?
+2. ¿Qué tipo de propiedades suele alquilar o publicitar? (apartamentos, casas, locales comerciales, terrenos, etc.)
+3. De tener experiencia en alquilar su propiedad, ¿cómo ha realizado los pagos de los centros en alquiler?
+4. ¿Cómo promociona su espacio para atraer a potenciales clientes? ¿Qué estrategias de marketing ha encontrado más efectivas?
+5. ¿Qué te parece más importante al alquilar una propiedad: la facilidad de uso de la plataforma, la seguridad de las transacciones, la diversidad de opciones disponibles, u otros aspectos?
+6. ¿Cuáles son las principales características que busca en una plataforma de alquiler de espacios para eventos?
+7. ¿Qué incentivos o beneficios podrían motivar a utilizar una plataforma de alquiler de espacios de manera más frecuente? 
+8. ¿Ha tenido alguna experiencia previa con plataformas similares de alquiler de espacios para eventos?¿Qué aspectos le gustaron? 
+9. ¿Estarías dispuesto(a) a pagar una tarifa por utilizar una aplicación que te ayude a publicitar o alquilar tu propiedad de manera más eficiente?
+10. ¿Qué sugerencias o mejoras tendrías para una aplicación de este tipo que aún no estén disponibles en otras plataformas similares?
+
+**Preguntas Segmento 1: Organizadores**
+
+1. ¿Qué tipo de propiedades alquila regularmente para sus reuniones?
+2. ¿Alguna vez has necesitado un lugar de encuentro o festivo de emergencia?
+3. ¿Qué tipo de información te gustaría que viniera en las características del local/propiedad? (ej. licencias de eventos, capacidad máxima de gente, etc.)
+4. Organizando eventos, ¿alguna vez tuvo un problema grave con las políticas de cancelación?
+5. ¿Eres promotor de algún tipo de evento recurrente?
+6. ¿Cada cuanto recurres a alquilar lugares o a usarlos?
+7. ¿Ves necesario una plataforma como Alquilafacil?
+8. ¿De qué maneras ves útil Alquilafacil y cada cuanto lo utilizamos?
+9. ¿Hay alguna otra consideración o solicitud especial que crea que deba adicionarse para hacer un mejor servicio?
+10. ¿Qué tan importante es para ti la flexibilidad de horarios al momento de reservar un espacio para tu evento?
+
+### 2.2.2. Registro de entrevistas
+
+**Segmento propietario:**
+
+**Entrevista 1:**
+
+Nombres: Claudia Cecilia
+
+Apellidos: Cañamero Vivas
+
+Edad: 46
+
+Lugar de residencia: Lima, Perú
+
+Entrevistador: Italo Luna Capuñay
+
+Evidencia de la entrevista: 
+
+<img src="assets/images/entrevistas/entrevista-claudia.png" alt="Entrevista 01 Segmento propietario">
+
+Enlace de entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213375_upc_edu_pe/Ecl6kWhXShZEs4eoqqBltusBdurPIhKjNtqGXOSbDAXZGw?e=bsjJbh&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+Resumen de la entrevista:
+
+Entrevistamos a Claudia Cañamero, una señora de 46 años que es podóloga y propietaria de locales que alquila para distintos eventos. Claudia nos comentó que actualmente alquila su local para diversos eventos recreativos, pero que carece de organización en su proceso de promoción. En la actualidad, utiliza principalmente las redes sociales para promocionar su local y no emplea otras estrategias.
+
+Nos mencionó que le sería muy útil una plataforma para promocionar su local, ya que tiene poco conocimiento sobre las existentes. Aunque mencionó algunas plataformas que conoce, no está muy informada sobre ellas.
+
+En cuanto a la comunicación con sus clientes, que son los organizadores de eventos, Claudia nos comentó que no es muy buena. Tema que pueda haber estafas o malos acuerdos en los contratos, por lo que le gustaría que la plataforma fuera transparente en ese aspecto y que la comunicación con sus clientes fuera eficiente y fluida.
+
+Con respecto a las suscripciones, Claudia nos dijo que estaría dispuesta a pagar por una mejor experiencia en la plataforma.
+mas 
+Por último, en cuanto a la webapp, nos agregó que le gustaría que fuera fácil de usar. No le gustaría entrar y perderse sin saber cómo usarla; preferiría interfaces intuitivas y no demasiado complicadas.
+
+**Entrevista 2:**
+
+Nombres: Brenda Caroline
+
+Apellidos: Baca Acha
+
+Edad: 24
+
+Lugar de residencia: Lima, Perú
+
+Entrevistador: Josten Marc Huaman Bellido 
+
+Evidencia de la entrevista: 
+
+<img src="assets/images/entrevistas/entrevista-brenda.png" alt="Entrevista 01 Segmento propietario">
+
+Enlace de entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201617624_upc_edu_pe/EfjxULWKOjFEp5tenbRadIsBkhKdhPkwuq3cr9CeitgkaA?e=7G0Nhr
+
+Resumen de la entrevista:
+
+Entrevistamos a Brenda Baca, una chica de 24 años que es arquitecta y tiene apartamenos que alquila para vivir o para eventos especiales. Brenda nos comentó que alquila sus apartamentos por un medio común que es a través de un cartel publicitario y el úso de la plataforma Facebook "Marketplace". Nos comenta que le gustaría adquirir un mayor público para obtener mayor número de reservas ya que se encuentra en un mercado competitivo. 
+
+Ella en cuanto los medios de pago que utiliza, realiza el pago por adelantado y en efectivo, no utiliza algún medio de pago. Dado que pueden realizarle estafas o tener incovenientes más adelante.
+
+En base a las suscripciones, si considera pagar una suscripción si le llega a facilitar el proceso de alquilar su espacio y si le brinda la seguridad del sistema de pago. 
+
+Por ultimo, sugirió una aplicación que le sea fácil de usar y poder colocar videos como 'tour' para que los clientes vean como es el espacio, que tenga un diseño intuitivo. 
+
+**Entrevista 3:**
+
+Nombres: Fabio
+
+Apellidos: Huamani Tello
+
+Edad: 25
+
+Lugar de residencia: Chorrillos, Lima
+
+Entrevistador: Angel Cancho Corilla
+
+Evidencia de la entrevista: 
+
+<img src="assets/images/entrevistas/entrevista-FabioH.png" alt="Entrevista 01 Segmento propietario">
+
+Enlace de entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201721995_upc_edu_pe/EX9sJ80cNvpHuJ9SkQZMTsoBYi-1-CnkUUTUJEcjEQRsbg
+
+Resumen de la entrevista:
+
+El entrevistado se menciona como Fabio Huamani Tello, que tiene una propiedad de aproximadamente 30 m2 que le gustaría alquilar de manera más eficaz a través de la plataforma AlquilaFácil. Explica que uno de los principales desafíos que enfrenta al promocionar su espacio es alcanzar a las personas adecuadas para alquilarlo, y que ha tenido dificultades para lograr un flujo constante de alquileres. Ha utilizado canales como Marketplace y Facebook para promocionar su propiedad, así como Instagram para llegar a personas más cercanas. Ha alquilado su espacio unas 10 veces en los últimos 8 meses, con intervalos variables entre alquileres.
+
+Considera útil la aplicación AlquilaFácil debido a su presentación y características, y está dispuesto a pagar por suscripciones que le brinden beneficios adicionales, como destacar su espacio de alquiler. En cuanto a los métodos de pago, Fabio prefiere efectivo o transferencia bancaria, pero estaría dispuesto a utilizar la plataforma de AlquilaFácil si es conveniente.
+
+En cuanto a las características que le gustaría ver en la plataforma, menciona que la facilidad de uso, el alcance a personas adecuadas y la seguridad son aspectos importantes. Sugiere la implementación de un sistema de calificaciones para los propietarios y los clientes, lo que proporcionaría una mayor transparencia y confianza en el proceso de alquiler.
+
+**Entrevista 4:**
+
+Nombres: Jessica
+
+Apellidos: Matallana Hurtado
+
+Edad: 56
+
+Lugar de residencia: San Isidro, Lima
+
+Entrevistador: Augusto Pin
+
+Evidencia de la entrevista: 
+
+<img src="assets/images/entrevistas/entrevista-augusto.png" alt="Entrevista 01 Segmento propietario">
+
+Enlace de entrevista: https://upcedupe-my.sharepoint.com/personal/u202210257_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202210257%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevista%20Augusto%20Pin%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview 
+
+Resumen de la entrevista:
+
+Jessica Matallana, propietaria de varios departamentos en Chiclayo, destacó la importancia de la seguridad y la comodidad en la gestión de alquileres. Antes de usar la aplicación, Jessica enfrentaba problemas relacionados con la seguridad de los pagos y la incertidumbre en la selección de inquilinos. La falta de una plataforma centralizada dificultaba la promoción de sus propiedades y requería un tiempo considerable en la gestión de alquileres.
+
+Considerando la utilidad de una aplicación de alquiler de locales, Jessica expresó que sería una herramienta invaluable para mejorar la seguridad y eficiencia en sus transacciones. Valoró especialmente la capacidad de promocionar sus departamentos en redes sociales de manera más efectiva y la simplificación de los procesos de pago y reserva para los inquilinos.
+
+Cuando se le preguntó sobre sus expectativas para una aplicación de alquiler de locales, Jessica enfatizó la importancia de que fuera un lugar seguro y fácil de usar. Espera que la aplicación ofrezca medidas sólidas de seguridad para proteger tanto a los propietarios como a las acciones que se toman entre ellos, así como una interfaz intuitiva que simplifique la gestión de propiedades y reservas.
+
+**Entrevista 5:**
+
+Nombres: Miguel Ángel Jesús
+
+Apellidos: Carpio Cornejo
+
+Edad: 20
+
+Lugar de residencia: Chorrillos, Lima
+
+Entrevistador: Brenda Gamio Upiachihua
+
+Evidencia de la entrevista: 
+
+<img src="assets/images/entrevistas/entrevista1-miguel.png" alt="Entrevista 05 Segmento propietario">
+
+Enlace de entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120344_upc_edu_pe/ER7eB7piI8xEr9NkQ3A1In8BkKbnt-aDCzBbmal2ln_5iw?e=ErOK9s
+
+Resumen de la entrevista:
+
+Entrevistamos a Miguel Carpio, un joven de 20 años que es estuadiante y es el encargado de alquilar la casa con jardín de dos pisos de su familia en Airbnb. Suele tener dificultades a la hora de entrada y salida de los inquilinos, por no respetar el check-in ni la hora de salida impidiendo la limpieza y entrada de los nuevos inquilinos. 
+
+Tampoco cuenta con una estrategia de marketing que sea, solo deja que el servicio que usa maneje como se vea su publicación de alquiler.
+
+Por último, menciona que le interesa saber más sobre este servicio que ofrece más que solo publicaciones de alquileres de casas y departamentos, sino, además, centros para eventos.
+
+
+**Segmento organizador:**
+
+**Entrevista 1:**
+
+Nombres: Rodrigo Alejandro
+
+Apellidos: Aguilar Castillo
+
+Edad: 19
+
+Lugar de residencia: San Isidro, Lima
+
+Entrevistador: Italo Luna Capuñay
+
+Evidencia de la entrevista: 
+
+<img src="assets/images/entrevistas/entrevista-rodrigo.png" alt="Entrevista 01 Segmento organizador">
+
+Enlace de entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213375_upc_edu_pe/ER2a2fW6t3JFhfh2Ae_n4G8BhjhRjm6abPnbfM_6pqnVSw?e=f2oIVi&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+Resumen de la entrevista:
+
+Entrevistamos a Rodrigo Aguilar, un joven de 19 años que estudia la carrera de Ingeniería de Software. Rodrigo nos comentó que le gusta adquirir espacios para diversos eventos recreativos. En la actualidad, utiliza principalmente las redes sociales y sitios web como Airbnb y otros para encontrar locales.
+
+Rodrigo destacó que una interfaz intuitiva sería excelente para poder utilizar la plataforma. Para él, lo más importante es la comunicación con el propietario, ya que no le gusta tener conflictos en el contrato o malos entendidos.
+
+En cuanto a la variedad de tipos de espacios, nos comentó que mayormente le gustan las casas con piscinas, que utiliza para reuniones familiares, fines de semana con su familia o también con sus amigos. Dice que reserva este tipo de sitios con frecuencia, ya que le gusta pasar tiempo con su familia o amigos.
+
+Con respecto a las suscripciones, Rodrigo nos dijo que estaría dispuesto a pagar por una mejor experiencia en la plataforma.
+
+Por último, en cuanto a la webapp, nos comentó que tendría futuro si hubiera variedad, fuera fácil de reservar y, lo más importante, que fuera una ayuda para poder reservar sus espacios y disfrutar de sus momentos libres.
+
+**Entrevista 2:**
+
+Nombres: Fabio
+
+Apellidos: Carbajal Larios
+
+Edad: 25
+
+Lugar de residencia: Chorrillos, Lima
+
+Entrevistador: Angel Cancho Corilla
+
+Evidencia de la entrevista: 
+
+<img src="assets/images/entrevistas/entrevista-fabio.png" alt="Entrevista 01 Segmento organizador">
+
+Enlace de entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201721995_upc_edu_pe/EYYtHSOgcipIr6XNTxnqZvQB9Ndf5WyLJGXsBfBkFVL4cg?e=xpXbCm 
+
+Resumen de la entrevista:
+
+El entrevistado se presenta como Fabio Carbajal y explica su labor de promotor y la búsqueda de espacios para sus eventos. Fabio expresa que su trabajo como organizador de eventos implica buscar y promover espacios para eventos de diversos tipos, como bodas, conferencias y fiestas. Fabio menciona que una de las dificultades a las que se enfrenta es la necesidad de buscar lugares para eventos constantemente, especialmente cuando surgen emergencias o cambios de último momento. Esto puede generar complicaciones logísticas, como encontrar un nuevo local en poco tiempo o lidiar con cancelaciones repentinas por parte de los propietarios. Por ultimo, menciona que nuestra página web sería una herramienta útil para agilizar la búsqueda y reserva de espacios para eventos de acuerdo con sus necesidades y horarios específicos. Sugiere que tener una plataforma en línea donde los propietarios puedan publicar sus locales disponibles facilitaría su trabajo al permitirle encontrar opciones más rápidamente y bajo sus criterios de selección.
+
+**Entrevista 3:**
+
+Nombres: Stephanie
+
+Apellidos: Zea Odicio
+
+Edad: 19
+
+Lugar de residencia: Chorrillos, Lima
+
+Entrevistador: Augusto Pin
+
+Evidencia de la entrevista: 
+
+<img src="assets/images/entrevistas/entrevista-augusto2.png" alt="Entrevista 02 Segmento organizador">
+
+Enlace de entrevista: https://upcedupe-my.sharepoint.com/personal/u202210257_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202210257%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevista%20Augusto%20Pin%202%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview
+
+Resumen de la entrevista:
+
+Stephanie Zea se presenta como promotora de eventos y destaca su labor de búsqueda y promoción de espacios para diversos tipos de eventos, como bodas, conferencias y fiestas. Ella explica que, como organizadora de eventos, enfrenta constantemente el desafío de encontrar lugares adecuados, especialmente ante emergencias o cambios repentinos. Esta situación puede generar complicaciones logísticas, como la búsqueda rápida de un nuevo lugar o tratar con cancelaciones inesperadas por parte de los propietarios. Stephanie destaca que nuestra página web podría facilitar enormemente su trabajo al proporcionar una plataforma en línea donde los propietarios puedan publicar sus espacios disponibles, permitiéndole encontrar opciones más rápidamente y ajustadas a sus necesidades y horarios específicos.
+
+**Entrevista 4:**
+
+Nombres: Erick Ernesto
+
+Apellidos: Guerrero
+
+Edad: 20
+
+Lugar de residencia: Chorrillos, Lima
+
+Entrevistador: Brenda Gamio Upiachihua
+
+Evidencia de la entrevista:  <img src="assets/images/entrevistas/entrevista2-erick.png" alt="Entrevista 05 Segmento organizador">
+
+Enlace de entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120344_upc_edu_pe/Eeakt8f2BWJKqJu8D5wSkyAByUeX9Z-Qqj47-YMYUY-AuQ?e=Uc5t4O 
+
+Resumen de la entrevista:
+
+Erick Guerrero es un joven trabajador de 20 años que suele hacer reuniones casuales con su grupo de amigos. Si bien no es el que suele organizar eventos grandes como quinciañeros o coferencias en su trabajo, si se encarga de organizar y encontrar las locales en dónde divertirse con sus amigos.
+
+Lo que más le importa saber sobre el local de que va estar utilizando, es la condición del espacio en donde estará. Cómo se encuentran las tuverías y desagüe para evitar poner en peligro a él y sus amigos. Cómo de seguro es la casa debido a antigüedad, etc.
+
+Por último, menciona que estos servicios de alquiler de centros para eventos, suelen ser a través de organizadores. Esto implica transladarse hasta dónde está el organizador y el local, gastanto dinero en pasajes, gasolina. También que requiere esfuerzo y tiempo. Sin embargo, que un servicio web que facilite todo este proceso le parece una idea muy buena.
+
+### 2.2.3. Análisis de entrevistas
+
+Las entrevistas proporcionan una panorámica detallada y matizada sobre las expectativas y requisitos de distintos actores involucrados en el ámbito de las plataformas de alquiler de locales para eventos. Tanto los propietarios como los organizadores de eventos y los usuarios finales destacan la imperatividad de contar con sistemas que aseguren la integridad de las transacciones financieras, la claridad en los acuerdos contractuales y una comunicación fluida y eficaz. La facilidad de navegación y la intuitividad de la interfaz emergen como características esenciales para una experiencia satisfactoria por parte de todos los involucrados, mientras que la disponibilidad de una amplia gama de opciones de espacios para eventos es fundamental para atender las diversas necesidades y preferencias. Además, se aprecia una disposición por parte de algunos usuarios a pagar por servicios premium que brinden ventajas adicionales, como una mayor visibilidad de sus espacios en la plataforma. Los propietarios de espacios para eventos tienen preocupaciones específicas y necesidades particulares al utilizar plataformas de alquiler. Para ellos, la seguridad en las transacciones financieras y la integridad de los contratos son aspectos fundamentales. También valoran la capacidad de promoción efectiva de sus propiedades, buscando una plataforma que les permita llegar a un público amplio y relevante. Además, desean una comunicación clara y fluida con los organizadores de eventos, con el fin de evitar malentendidos y conflictos. Por último, algunos propietarios están dispuestos a invertir en servicios premium que les proporcionen ventajas adicionales, como una mayor visibilidad de sus espacios en la plataforma. En resumen, los propietarios buscan plataformas que les brinden seguridad, visibilidad, comunicación eficiente y opciones para maximizar el rendimiento de sus espacios para eventos. Los organizadores de eventos tienen necesidades específicas al utilizar plataformas de alquiler de locales. Para ellos, la facilidad de encontrar y reservar espacios adecuados es crucial, especialmente en situaciones de emergencia o cambios de último momento. Valorizan la transparencia en los contratos y la comunicación eficiente con los propietarios de los locales para evitar malentendidos y asegurar una experiencia sin contratiempos. Además, buscan plataformas que ofrezcan una amplia variedad de opciones de espacios para eventos, que se ajusten a sus necesidades específicas y horarios. La posibilidad de utilizar herramientas de búsqueda avanzada y filtrado también es importante para encontrar el lugar perfecto. En resumen, los organizadores de eventos buscan plataformas que les brinden facilidad de uso, transparencia en los procesos, comunicación eficiente y una amplia gama de opciones de espacios para eventos.
+
+## 2.3. Needfinding
+
+### 2.3.1. User Personas
+
+**Segmento propietario:**
+
+<img src="assets/images/user-personas/user-persona-propietario.png" alt="Segmento 1 user persona">
+
+**Segmento organizador:**
+
+<img src="assets/images/user-personas/user-persona-organizador.png" alt="Segmento 2 user persona">
+
+### 2.3.2. User Task Matrix
+
+<table align="center" border="1" width="90%" style="text-align:center;">
+    <tr>
+        <td></td>
+        <td colspan=2>
+            <b>User Persona</b>
+        </td>
+    </tr>
+    <tr>
+        <td></td>
+        <td colspan=2>
+            <b>Claudia Cañamero</b> </br>Propietaria de un local para eventos
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Task</b>
+        </td>
+        <td>
+            <b>Frequency</b>
+        </td>
+        <td>
+            <b>Importance</b>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Gestionar reservas y coordinar eventos
+        </td>
+        <td>
+            High
+        </td>
+        <td>
+            High
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Promocionar el local en redes sociales y otros canales de marketing
+        </td>
+        <td>
+            High
+        </td>
+        <td>
+            High
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Mantener el local en óptimas condiciones de limpieza y mantenimiento
+        </td>
+        <td>
+            High
+        </td>
+        <td>
+            High
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Establecer comunicación efectiva con clientes y proveedores
+        </td>
+        <td>
+            High
+        </td>
+        <td>
+            High
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Explorar nuevas oportunidades de negocio y crecimiento
+        </td>
+        <td>
+            Medium
+        </td>
+        <td>
+            Medium
+        </td>
+    </tr>
+</table>
+
+</br></br>
+
+<table align="center" border="1" width="90%" style="text-align:center;">
+    <tr>
+        <td></td>
+        <td colspan=2>
+            <b>User Persona</b>
+        </td>
+    </tr>
+    <tr>
+        <td></td>
+        <td colspan=2>
+            <b>Rodrigo Aguilar</b> </br>Organizador de Eventos
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Task</b>
+        </td>
+        <td>
+            <b>Frequency</b>
+        </td>
+        <td>
+            <b>Importance</b>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Buscar y reservar espacios para eventos
+        </td>
+        <td>
+            High
+        </td>
+        <td>
+            High
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Comunicarse con los propietarios de los espacios
+        </td>
+        <td>
+            High
+        </td>
+        <td>
+            High
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Buscar variedad en los tipos de espacios disponibles
+        </td>
+        <td>
+            High
+        </td>
+        <td>
+            High
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Reservar espacios para diferentes tipos de eventos
+        </td>
+        <td>
+            High
+        </td>
+        <td>
+            High
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Estar dispuesto a pagar por una mejor experiencia en la plataforma
+        </td>
+        <td>
+            Medium
+        </td>
+        <td>
+            Medium
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Utilizar una plataforma fácil de usar e intuitiva
+        </td>
+        <td>
+            High
+        </td>
+        <td>
+            High
+        </td>
+    </tr>
+</table>
+
+### 2.3.3. User Journey Mapping
+
+**Segmento propietario:**
+
+<img src="assets/images/user-jorney-mapping/user-journey-mapping-propietario.png" alt="Segmento objetivo propietario"> 
+
+**Segmento organizador:**
+
+<img src="assets/images/user-jorney-mapping/user-journey-mapping-organizador.png" alt="Segmento objetivo propietario"> 
+
+### 2.3.4. Empathy Mapping
+
+A continuación se pueden apreciar los Empathy Mapping de los segmentos objetivos.
+
+**Segmento propietario:**
+
+<img src="assets/images/emphaty-map/emphaty-map-propietario.png" alt="Segmento objetivo propietario">
+
+**Segmento organizador:**
+
+<img src="assets/images/emphaty-map/emphaty-map-organizador.png" alt="Segmento objetivo organizador">
+
+### 2.3.5. As-is Scenario Mapping
+
+**Segmento propietario:**
+
+<img src="assets/images/as-is-scenario/as-is-scenario-propietario.jpg" alt="Segmento objetivo propietario">
+
+**Segmento organizador:**
+
+<img src="assets/images/as-is-scenario/as-is-scenario-organizador.jpg" alt="Segmento objetivo organizador">
+
+## 2.4. Ubiquitous Language
+
+- **Landing Page:** La página web inicial a la que llegan los usuarios cuando visitan el sitio de reserva de viajes. En el lenguaje ubicuo, podría ser simplemente "Página de Inicio" o "Página Principal".
+
+- **Plataforma:** Se refiere a la infraestructura tecnológica sobre la cual se construye el servicio de reserva de viajes. En el lenguaje ubicuo, podría simplemente llamarse "Sistema" o "Plataforma de Reservas".
+
+- **Perfil**: La información personal y las preferencias de un usuario registrado en la plataforma de reserva de viajes. En el lenguaje ubicuo, podría ser simplemente "Cuenta de Usuario" o "Perfil de Usuario".
+
+- **Itinerario:** La lista de actividades o eventos planificados para un viaje específico. En el lenguaje ubicuo, podría ser simplemente "Plan de Viaje" o "Ruta".
+
+- **Tarifa:** El costo asociado con un servicio de viaje, como un boleto de avión, un hotel o un alquiler de automóvil. En el lenguaje ubicuo, podría ser "Precio" o "Costo".
+
+- **Disponibilidad:** La cantidad de espacios o servicios disponibles para reservar en un momento dado. En el lenguaje ubicuo, podría ser "Capacidad" o "Disponibilidad de Servicio".
+
+- **Confirmación:** El proceso de validar una reserva y asegurar que se haya completado correctamente. En el lenguaje ubicuo, podría ser "Confirmación de Reserva" o "Confirmar Viaje".
+
+- **Cancelación:** La acción de anular una reserva existente. En el lenguaje ubicuo, podría ser "Cancelar Reserva" o "Anular Viaje".
+
+- **Destino:** El lugar al que se planea viajar o donde se encuentra un servicio específico, como un hotel. En el lenguaje ubicuo, podría ser simplemente "Lugar de Destino" o "Ubicación".
+
+- **Calendario:** Una herramienta para visualizar fechas y horarios disponibles para reservas. En el lenguaje ubicuo, podría ser "Agenda" o "Calendario de Disponibilidad".
+
+- **Pago:** La transacción financiera necesaria para confirmar una reserva. En el lenguaje ubicuo, podría ser simplemente "Pago" o "Transacción".
