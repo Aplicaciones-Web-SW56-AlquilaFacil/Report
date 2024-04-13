@@ -419,7 +419,22 @@ El equipo creó el landing page utilizando el modelo de gitflow, el cual implica
 | Augusto Pin   | Implementación de los lugares                               |
 | Brenda Gamio  | Implementación del banner 3                                 |
 
-GitFlow:
+**GitFlow:**
 <div align=center>
    <img src="/assets/Gitflow-AF.png" alt="carrusel"></img>
 </div>
+
+**Nethwork Graphs del repositorio del Landing Page**
+<div align=center>
+   <img src="/assets/NethworkGraph1.png" alt="insights"></img>
+</div>
+<div align=center>
+   <img src="/assets/NethworkGraph2.png" alt="insights"></img>
+</div>
+<div align=center>
+   <img src="/assets/NethworkGraph3.png" alt="insights"></img>
+</div>
+<div align=center>
+   <img src="/assets/NethworkGraph4.png" alt="insights"></img>
+</div>
+
