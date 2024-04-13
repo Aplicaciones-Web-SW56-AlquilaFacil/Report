@@ -221,6 +221,13 @@ esto facilitará la lectura y comprensión de la información por parte de todos
 
 #### 5.2.1.2. Sprint Backlog 1
 
+<div align=center>
+   <img src="/assets/trelloAF.png" alt="carrusel"></img>
+</div>
+
+Link del trello:
+https://trello.com/b/aRpjb6j9/alquilafacil
+
 </br>
 
 <table align="center" border="1" width="90%" style="text-align:center">
