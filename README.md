@@ -421,10 +421,10 @@ El equipo creó el landing page utilizando el modelo de gitflow, el cual implica
 
 **GitFlow:**
 <div align=center>
-   <img src="/assets/Gitflow-AF.jpg" alt="carrusel"></img>
+   <img src="/assets/Gitflow-AF2.jpg" alt="carrusel"></img>
 </div>
 <div align=center>
-   <img src="/assets/Gitflow-AF2.jpg" alt="carrusel"></img>
+   <img src="/assets/Gitflow-AF1.jpg" alt="carrusel"></img>
 </div>
 
 **Nethwork Graphs del repositorio del Landing Page**
