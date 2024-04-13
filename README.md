@@ -102,6 +102,37 @@ TB1: Participé generando las guías para los estilos tanto generales, como los 
 
 </td>
     <td>TB1: Durante esta fase del proyecto, se llevaron a cabo exhaustivos análisis de las preferencias de los escritores, ilustradores y lectores a través de entrevistas. Se aplicó un diseño UX/UI apropiado para atender las necesidades de los usuarios. Además, se empleó la metodología de Domain Driven Design (DDD) para identificar los distintos dominios de la aplicación, desarrollando diagramas de clase que representaran la arquitectura del modelo backend. Se diseñaron diagramas de flujo tanto de usuario como de trabajo para mejorar la experiencia global del usuario, y se implementó la estructura de la base de datos. Finalmente, se documentó todo el proceso utilizando metodologías ágiles.<tr>
+
+<td align = "center">Conoce al menos un sector
+empresarial o dominio de
+aplicación de soluciones de
+software.</td>
+            <td> 
+
+Luna Capuñay, Italo D'Alessandro <br>
+TB1 <br>
+En esta fase de entrega, se llevó a cabo un análisis de las preferencias de los segmentos de escritores, ilustradores y lectores mediante la realización y evaluación de entrevistas. Además, se implementó un diseño UX/UI adecuado que se adapta tanto a la versión de escritorio como a la versión responsive, tomando en cuenta las necesidades de los usuarios. También se realizó una exhaustiva investigación de la competencia para identificar cómo nuestra aplicación puede diferenciarse de otras en el mercado, teniendo en cuenta los antecedentes relacionados con la problemática que buscamos abordar.
+
+ALUMNO <br>
+TB1 <br>
+
+
+ALUMNO <br>
+TB1 <br>
+
+
+ALUMNO <br>
+TB1<br>
+
+
+ALUMNO <br>
+TB1 <br>
+
+
+</td>
+            <td>TB1: En esta etapa del proyecto, se realizaron análisis detallados de las preferencias de los escritores, ilustradores y lectores a través de entrevistas. Se aplicó un diseño UX/UI adecuado para satisfacer las necesidades de los usuarios. Además, se utilizó el enfoque de Domain Driven Design (DDD) para identificar los dominios de la aplicación y se desarrollaron diagramas de clase para representar la arquitectura del modelo backend. Se crearon diagramas de flujo de usuario y de trabajo para mejorar la experiencia del usuario y se implementó el modelado de la base de datos. Finalmente, se documentó el trabajo realizado utilizando metodologías ágiles.
+       <tr>
+
 </table>
 <br>
 
