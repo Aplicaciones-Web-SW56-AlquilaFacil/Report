@@ -29,8 +29,8 @@
             <td>U202210257</td>
         </tr>
         <tr>
-            <td></td>
-            <td></td>
+            <td>Cancho Corilla, Angel Antonio</td>
+            <td>U201721995</td>
         </tr>
         <tr>
             <td></td>
