@@ -94,8 +94,8 @@ TB1: Llevé a cabo la sección Domain-Driven Software Architecture, Software Obj
 Huamán Bellido, Josten Marc <br>
 TB1: Participé activamente en la definición del StartUp, la arquitectura de software orientada a objetos y el diseño de la base de datos. Además, contribuí al proceso Lean UX, incluyendo la formulación de declaraciones de problemas, supuestos e hipótesis, así como en la elaboración del Lean UX Canvas. Esto garantizó una comprensión clara de los desafíos y objetivos del proyecto, proporcionando una base sólida para el desarrollo de las especificaciones de requisitos y el backlog de productos.<br>
 
-ALUMNO <br>
-TB1: <br>
+Pin Matallana, Augusto Jose <br>
+TB1: Participe activamente realizando los mock ups y wireframes tanto de la landing page como del web application, tambien contribui con el contenido del capitulo 5 y software deployment configurantion, tambien ayude a coordinar el equipo y asiganar tareas a los demas para un completo desarrollo del informe junto a, como a su vez complete mis 2 entrevistas para los 2 segmentos objetivos y realizando el analisis de entrevistas general para llegar a una conclusion sobre los datos recolectados en las entrevistas.<br>
 
 Gamio Upiachihua, Brenda Lucía <br>
 TB1: Participé generando las guías para los estilos tanto generales, como los de la web aplicación. Además de definir cuidadosamente la arquitectura de la información que iría en la applcation web para poder generar bien los wireframes y mock ups del servicio. Por último, participé en el desarrollo de los wireframes y wkreflows del web application.<br>
