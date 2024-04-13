@@ -2799,7 +2799,19 @@ Con una visión ambiciosa de convertirse en la principal plataforma global en su
 
 # Bibliografía
 
+- Atlassian Git Tutorial: Comparación de flujos de trabajo (https://www.atlassian.com/git/tutorials/comparing-workflows)
 
+- ¿Qué es Gitflow? (https://www.excentia.es/que-es-git-flow)
+
+- Gitflow: Flujo de trabajo en Git (https://www.kodetop.com/gitflow-flujo-de-trabajo-en-git/)
+
+- Airbnb Perú (https://www.airbnb.com.pe/?ref=lapaninja&_set_bev_on_new_domain=1712680684_MzM2MzkzMjE5YTFj)
+
+- Vrbo México (https://www.vrbo.com/es-mx/?msclkid=5c1bda3cfb781caff03abc315b95a7fc&pwaDialog=customer-notification-centered-sheet-dialog&semcid=VRBO-MX.B.BING.BT-c-ES.GT&semdtl=a1602055059.b11170981025192783.g1kwd-73186994201912%3Aloc-148.e1c.m15c1bda3cfb781caff03abc315b95a7fc.r16d798fde923e57fdd680dee0e0c3e618d8325af837da3e6a45dbc1fed1de0360.c1wOk31Z_zWVZ3paeHY-9OkA.j1148.k1.d173186541510196.h1e.i1.l1.n1.o1.p1.q1.s1.t1.x1.f1.u1.v1.w1)
+
+- Booking.com España (https://www.booking.com/index.es.html)
+
+- Inmuebles de Lima (https://inmueblesdelima.com.pe/)
 
 # Anexos
 | Sección | Enlace al video |
