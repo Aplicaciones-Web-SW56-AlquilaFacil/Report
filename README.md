@@ -305,10 +305,27 @@ el tamaño de la pantalla.</td>
 <img src="assets/LandingPage-wireframe-mobile.png">
 
 ### 4.3.2. Landing Page Mock-up
+
+![MockUps](assets/landingAFMockUp1.png)
+![MockUps](assets/landingAFMockUp2.png)
+
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
+
+![Wireframe](assets/WebAppWireframes1.png)
+![Wireframe](assets/WebAppWireframes2.png)
+![Wireframe](assets/WebAppWireframes3.png)
+![Wireframe](assets/WebAppWireframes4.png)
+
 ### 4.4.2. Web Applications Wireflow Diagrams
 ### 4.4.3. Web Applications Mock-ups
+
+![MockUps](assets/WebAppMockUp1.png)
+![MockUps](assets/WebAppMockUp2.png)
+![MockUps](assets/WebAppMockUp3.png)
+![MockUps](assets/WebAppMockUp4.png)
+![MockUps](assets/WebAppMockUp5.png)
+
 ### 4.4.4. Web Applications User Flow Diagrams
 ## 4.5. Web Applications Prototyping
 ## 4.6. Domain-Driven Software Architecture
