@@ -28,11 +28,6 @@ Un **Style Guideline** es un conjunto de reglas y normas que definen cómo se de
 <img src="assets/Colors-stylesheet.png" alt="AlquilaFacil">
 
 ### 4.1.2. Web Style Guidelines
-<td>AlquilaFacil se diseñará como plataforma web, por lo tanto, aplicaremos un diseño adaptable (Web Responsive Design) con el objetivo de presentar la información de manera óptima en cualquier dispositivo, asegurando que el contenido permanezca intacto para mejorar la experiencia del usuario.</td>
-<br><br>
-<td>Además, como equipo, hemos elegido implementar el patrón de diseño en forma de Z en el sitio web. Esta técnica de diseño web resulta efectiva para mejorar la experiencia del usuario al dirigir su atención hacia los elementos clave y potenciar la eficacia del contenido en la página. Por lo general, colocamos el logotipo en la esquina superior izquierda para que sea lo primero que capte la atención del usuario. Justo en frente, en la esquina superior derecha, ubicamos la barra de navegación, acompañado de un llamado a la acción que se destaca.</td>
-
-## 4.2. Information Architecture
 <td>Esta sección se basa principalmente del contenido visual, los estilos, los tags y más que se tomarán en cuenta para nuestra web y landing page de AquilaFacil. Se verá los tópicos de Organization Systems, Labeling Systemes, SEO and Meta Tags y Searching y Navigation Systems.</td>
 
 ### 4.2.1. Organization Systems
@@ -45,10 +40,6 @@ Un **Style Guideline** es un conjunto de reglas y normas que definen cómo se de
         </tr>
     </thead>
     <body>
-        <tr>
-            <td>Inicio</td>
-            <td style="text-align: left">La página de inicio puede mostrar una vista general del servicio y destacar las características clave.</td>
-        </tr>
         <tr>
             <td>Tarifas</td>
             <td style="text-align: left">La página que ofrece los planes de suscripción para beneficios específicos con diferentes costos para cualquier tipo de presupuesto.</td>
@@ -70,8 +61,8 @@ Un **Style Guideline** es un conjunto de reglas y normas que definen cómo se de
             <td style="text-align: left">En la misma página principal se muestra una barra para poder buscar centros a través de distritos.</td>
         </tr>
          <tr>
-            <td>Lista de centros destacados</td>
-            <td style="text-align: left">La página principal te mostrará todo una lista de los centros más usados y populares que el público ha usado para sus eventos.</td>
+            <td>Lista de ciudades destacadas</td>
+            <td style="text-align: left">La página principal te mostrará todo una lista de las ciudades más populares que el público ha alquilado para sus eventos.</td>
         </tr>
     </body>
 </table>
@@ -211,28 +202,32 @@ el tamaño de la pantalla.</td>
     </thead>
     <body>
         <tr>
-            <td>Inicio</td>
-            <td style="text-align: left">Sección principal a la cual llegará el usuario al entrar al link de la aplicación web.</td>
+            <td>Lugares</td>
+            <td style="text-align: left">Sección principal que mostrará los centros más populares y los de mejor calificación apenas el usuario entre al link.</td>
         </tr>
         <tr>
-            <td>Acerca de</td>
-            <td style="text-align: left">En esta sección proporcionaremos a los usuarios la información necesaria para comprender el propósito de nuestra startup y los servicios que ofrecemos.</td>
+            <td>Publica</td>
+            <td style="text-align: left">En esta sección proporcionaremos a los usuarios la información necesaria que tiene que informar sobre su propiedad para poder ser publicado.</td>
         </tr>
         <tr>
-            <td>Nosotros</td>
-            <td style="text-align: left">Aquí el usuario podrá conocer quienes son los integrantes del proyecto y una descripción de ellos.</td>
+            <td>Variedad</td>
+            <td style="text-align: left">Aquí el usuario podrá elegir que tipo de espacio va a querer para su evento.</td>
         </tr>
         <tr>
-            <td>Precios</td>
+            <td>Premium</td>
             <td style="text-align: left">En esta sección, se podrán ver los planes y tarifas disponibles con los cuales contamos.</td>
         </tr>
         <tr>
-            <td>Testimonios</td>
-            <td style="text-align: left">Aquí los clientes pondrán sus reseñas y comentarios acerca del servicio que se les brindó.</td>
+            <td>Iniciar Sesión</td>
+            <td style="text-align: left">Aquí los clientes pondrán iniciar sesión a su cuenta, en caso de no tener desde esta misma sección puede pasar a registrarse.</td>
         </tr>
         <tr>
-            <td>Contacto</td>
-            <td style="text-align: left">Esta es la sección en la cual se le brindará al usuario todos los canales por los cuales nos puede contactar.</td>
+            <td>Registrarse</td>
+            <td style="text-align: left">Aquí los clientes pondrán registrarse como nuevo usuario, en caso de ta tener una cuenta desde esta misma sección puede pasar a registrarse.</td>
+        </tr>
+        <tr>
+            <td>Barra de búsqueda</td>
+            <td style="text-align: left">Esta es la sección en la cual el usuario puede buscar los centros para evento de la manera que él desee.</td>
         </tr>
     </body>
 </table>
@@ -288,13 +283,14 @@ el tamaño de la pantalla.</td>
 
 **Estructura de navegación:** <td> El Sistema de Navegación constará de las siguientes secciones principales en la barra de navegación</td>
 
-- Inicio
-- Tarifas
-- Publicar centro
+- Lugares
+- Publica
+- Variedad
+- Premium
 - Iniciar sesión
+- Registrarse
   
-<td>Luego la vista del usuario va a la opción "Alquilar centro" para al final ir a un panel con centros destacados.</td>
-
+<td>Luego la vista del usuario va a la opción "Alquilar centro" para al final ir a un panel con ciudades destacadas.</td>
 
 ## 4.3. Landing Page UI Design
 ### 4.3.1. Landing Page Wireframe
