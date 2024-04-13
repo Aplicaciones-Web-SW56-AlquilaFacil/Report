@@ -111,23 +111,24 @@ software.</td>
 
 Luna Capuñay, Italo D'Alessandro <br>
 TB1 <br>
-En esta fase de entrega, se llevó a cabo un análisis de las preferencias de los segmentos de escritores, ilustradores y lectores mediante la realización y evaluación de entrevistas. Además, se implementó un diseño UX/UI adecuado que se adapta tanto a la versión de escritorio como a la versión responsive, tomando en cuenta las necesidades de los usuarios. También se realizó una exhaustiva investigación de la competencia para identificar cómo nuestra aplicación puede diferenciarse de otras en el mercado, teniendo en cuenta los antecedentes relacionados con la problemática que buscamos abordar.
+En esta fase de entrega, se llevó a cabo un análisis de las preferencias de los segmentos de propietarios y organizadores mediante la realización y evaluación de entrevistas. Además, se implementó un diseño UX/UI adecuado que se adapta tanto a la versión de escritorio como a la versión responsive, tomando en cuenta las necesidades de los usuarios. También se realizó una exhaustiva investigación de la competencia para identificar cómo nuestra aplicación puede diferenciarse de otras en el mercado, teniendo en cuenta los antecedentes relacionados con la problemática que buscamos abordar.
 
-ALUMNO <br>
+Cancho Corilla, Angel Antonio <br>
 TB1 <br>
+Durante esta fase de desarrollo de la arquitectura del software, se llevó a cabo un análisis exhaustivo de las preferencias de los segmentos de propietarios y organizadores mediante la realización y evaluación de entrevistas. Además, se elaboraron diagramas C4 para representar la arquitectura del sistema, detallando las relaciones entre los distintos componentes y sus interacciones.  Asimismo, se realizó una investigación detallada de la competencia para identificar cómo nuestra aplicación puede diferenciarse en el mercado, teniendo en cuenta los antecedentes relacionados con la problemática que buscamos abordar.
 
 
-ALUMNO <br>
+Huamán Bellido, Josten Marc <br>
 TB1 <br>
+Durante esta fase de desarrollo, se realizó un análisis exhaustivo de las preferencias de los segmentos de propietarios y organizadores mediante la realización y evaluación de entrevistas. Además, se elaboró un backlog de producto y se definieron historias de usuario que reflejan las necesidades y expectativas de los usuarios. También se llevó a cabo una investigación detallada de la competencia para identificar cómo nuestra aplicación puede diferenciarse en el mercado, teniendo en cuenta los antecedentes relacionados con la problemática que buscamos abordar.
 
-
-ALUMNO <br>
+Pin Matallana, Augusto Jose <br>
 TB1<br>
+Durante esta fase de configuración del entorno de desarrollo de software, se llevó a cabo un análisis exhaustivo de las preferencias de los segmentos de propietarios y organizadores mediante la realización y evaluación de entrevistas. Además, se elaboró expectativas de los usuarios para incluir en los sprints de desarrollo. También se llevó a cabo una investigación detallada de la competencia para identificar cómo nuestra aplicación puede diferenciarse en el mercado, teniendo en cuenta los antecedentes relacionados con la problemática que buscamos abordar.
 
-
-ALUMNO <br>
+Gamio Upiachihua, Brenda Lucía <br>
 TB1 <br>
-
+Durante esta etapa de desarrollo, se llevó a cabo un análisis detallado de las preferencias de los segmentos de propietarios y organizadores mediante la realización y evaluación de entrevistas. Asimismo, se diseñó una interfaz de usuario (UI/UX) que se adapta tanto a la versión de escritorio como a la versión responsive, teniendo en cuenta las necesidades y expectativas de los usuarios. Se llevó a cabo una investigación exhaustiva de la competencia para identificar cómo nuestra aplicación puede destacarse en el mercado, considerando los antecedentes relacionados con la problemática que buscamos abordar.
 
 </td>
             <td>TB1: En esta etapa del proyecto, se realizaron análisis detallados de las preferencias de los escritores, ilustradores y lectores a través de entrevistas. Se aplicó un diseño UX/UI adecuado para satisfacer las necesidades de los usuarios. Además, se utilizó el enfoque de Domain Driven Design (DDD) para identificar los dominios de la aplicación y se desarrollaron diagramas de clase para representar la arquitectura del modelo backend. Se crearon diagramas de flujo de usuario y de trabajo para mejorar la experiencia del usuario y se implementó el modelado de la base de datos. Finalmente, se documentó el trabajo realizado utilizando metodologías ágiles.
