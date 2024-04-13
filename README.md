@@ -21,29 +21,25 @@
             <th style="text-align:center;">Code</th>
         </tr>
         <tr>
+            <td>Cancho Corilla, Angel Antonio</td>
+            <td>U201721995</td>
+        </tr>
+        <tr>
+            <td>Gamio Upiachihua, Brenda Lucía</td>
+            <td>U202120344</td>
+        </tr>
+        <tr>
+            <td>Huaman Bellido, Josten Marc</td>
+            <td>u201617624</td>
+        </tr>
+        <tr>
             <td>Luna Capuñay, Italo D'Alessandro</td>
             <td>U202213375</td>
         </tr>
         <tr>
             <td>Pin Matallana, Augusto Jose</td>
             <td>U202210257</td>
-        </tr>
-        <tr>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td></td>
-        </tr>
-         <tr>
-            <td></td>
-            <td></td>
-        </tr>
-          <tr>
-            <td>Gamio Upiachihua, Brenda Lucía</td>
-            <td>U202120344</td>
-        </tr>
+        </tr>                
     </table>
 </div>
 <p align="center">
@@ -92,14 +88,17 @@ TB1:
             TB1: <br>
             El proyecto se llevó a cabo con la colaboración de todo el equipo, distribuyendo equitativamente las responsabilidades entre sus miembros. Además, trabajamos en conjunto en diferentes áreas, como la realización de entrevistas, la creación de la página principal y las secciones de evidencia de desarrollo y conjunto de pruebas, asegurando un enfoque integral y de colaboración en todas las fases del proyecto.
 
+<br>Cancho Corilla, Angel Antonio <br>
+TB1: Llevé a cabo la sección Domain-Driven Software Architecture, Software Object-Oriented Design y Database Design. <br>
+
+Huamán Bellido, Josten Marc <br>
+TB1: Participé activamente en la definición del StartUp, la arquitectura de software orientada a objetos y el diseño de la base de datos. Además, contribuí al proceso Lean UX, incluyendo la formulación de declaraciones de problemas, supuestos e hipótesis, así como en la elaboración del Lean UX Canvas. Esto garantizó una comprensión clara de los desafíos y objetivos del proyecto, proporcionando una base sólida para el desarrollo de las especificaciones de requisitos y el backlog de productos.<br>
+
 ALUMNO <br>
 TB1: <br>
-ALUMNO <br>
-TB1: <br>
-ALUMNO <br>
-TB1: <br>
-ALUMNO <br>
-TB1: <br>
+
+Gamio Upiachihua, Brenda Lucía <br>
+TB1: Participé generando las guías para los estilos tanto generales, como los de la web aplicación. Además de definir cuidadosamente la arquitectura de la información que iría en la applcation web para poder generar bien los wireframes y mock ups del servicio. Por último, participé en el desarrollo de los wireframes y wkreflows del web application.<br>
 
 </td>
     <td>TB1: Durante esta fase del proyecto, se llevaron a cabo exhaustivos análisis de las preferencias de los escritores, ilustradores y lectores a través de entrevistas. Se aplicó un diseño UX/UI apropiado para atender las necesidades de los usuarios. Además, se empleó la metodología de Domain Driven Design (DDD) para identificar los distintos dominios de la aplicación, desarrollando diagramas de clase que representaran la arquitectura del modelo backend. Se diseñaron diagramas de flujo tanto de usuario como de trabajo para mejorar la experiencia global del usuario, y se implementó la estructura de la base de datos. Finalmente, se documentó todo el proceso utilizando metodologías ágiles.<tr>
