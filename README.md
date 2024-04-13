@@ -389,21 +389,25 @@ El entrevistado se presenta como Fabio Carbajal y explica su labor de promotor y
 
 **Entrevista 3:**
 
-Nombres:
+Nombres: Stephanie
 
-Apellidos:
+Apellidos: Zea Odicio
 
-Edad: 
+Edad: 19
 
-Lugar de residencia:
+Lugar de residencia: Chorrillos, Lima
 
-Entrevistador:
+Entrevistador: Augusto Pin
 
 Evidencia de la entrevista: 
 
-Enlace de entrevista:
+<img src="assets/images/entrevistas/entrevista-augusto2.png" alt="Entrevista 02 Segmento organizador">
+
+Enlace de entrevista: https://upcedupe-my.sharepoint.com/personal/u202210257_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202210257%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevista%20Augusto%20Pin%202%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview
 
 Resumen de la entrevista:
+
+Stephanie Zea se presenta como promotora de eventos y destaca su labor de búsqueda y promoción de espacios para diversos tipos de eventos, como bodas, conferencias y fiestas. Ella explica que, como organizadora de eventos, enfrenta constantemente el desafío de encontrar lugares adecuados, especialmente ante emergencias o cambios repentinos. Esta situación puede generar complicaciones logísticas, como la búsqueda rápida de un nuevo lugar o tratar con cancelaciones inesperadas por parte de los propietarios. Stephanie destaca que nuestra página web podría facilitar enormemente su trabajo al proporcionar una plataforma en línea donde los propietarios puedan publicar sus espacios disponibles, permitiéndole encontrar opciones más rápidamente y ajustadas a sus necesidades y horarios específicos.
 
 **Entrevista 4:**
 
