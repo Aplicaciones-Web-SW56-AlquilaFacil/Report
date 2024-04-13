@@ -318,6 +318,20 @@ el tamaño de la pantalla.</td>
 ![Wireframe](assets/WebAppWireframes4.png)
 
 ### 4.4.2. Web Applications Wireflow Diagrams
+**User goal: Hipervínculo en el encabezado**
+<img src="assets/wireflow1.png" alt="wireflow1">
+
+**User goal: Búsqueda y filtrado de espacios**
+<img src="assets/wireflow2.png" alt="wireflow1">
+
+**User goal: Calificaciones y comentarios sobre espacios**
+<img src="assets/wireflow3.png" alt="wireflow1">
+
+**User goal: Comunicación directa con propietarios**
+<img src="assets/wireflow4.png" alt="wireflow1">
+
+**User goal: Registro de espacio sencillo**
+<img src="assets/wireflow5.jpeg" alt="wireflow1">
 ### 4.4.3. Web Applications Mock-ups
 
 ![MockUps](assets/WebAppMockUp1.png)
