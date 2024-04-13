@@ -41,8 +41,8 @@
             <td></td>
         </tr>
           <tr>
-            <td></td>
-            <td></td>
+            <td>Gamio Upiachihua, Brenda Lucía</td>
+            <td>U202120344</td>
         </tr>
     </table>
 </div>
