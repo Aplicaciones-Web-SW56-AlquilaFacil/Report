@@ -96,8 +96,9 @@ TB1: Participé activamente en la definición del StartUp, la arquitectura de so
 
 ALUMNO <br>
 TB1: <br>
-ALUMNO <br>
-TB1: <br>
+
+Gamio Upiachihua, Brenda Lucía <br>
+TB1: Participé generando las guías para los estilos tanto generales, como los de la web aplicación. Además de definir cuidadosamente la arquitectura de la información que iría en la applcation web para poder generar bien los wireframes y mock ups del servicio. Por último, participé en el desarrollo de los wireframes y wkreflows del web application.<br>
 
 </td>
     <td>TB1: Durante esta fase del proyecto, se llevaron a cabo exhaustivos análisis de las preferencias de los escritores, ilustradores y lectores a través de entrevistas. Se aplicó un diseño UX/UI apropiado para atender las necesidades de los usuarios. Además, se empleó la metodología de Domain Driven Design (DDD) para identificar los distintos dominios de la aplicación, desarrollando diagramas de clase que representaran la arquitectura del modelo backend. Se diseñaron diagramas de flujo tanto de usuario como de trabajo para mejorar la experiencia global del usuario, y se implementó la estructura de la base de datos. Finalmente, se documentó todo el proceso utilizando metodologías ágiles.<tr>
