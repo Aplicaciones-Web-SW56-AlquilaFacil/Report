@@ -2816,5 +2816,5 @@ Con una visión ambiciosa de convertirse en la principal plataforma global en su
 # Anexos
 | Sección | Enlace al video |
 | ------------ | ------------ |
-| Video grupal del TB1 |  |
+| Video grupal del TB1 | https://upcedupe-my.sharepoint.com/personal/u202210257_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202210257%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre202401%2D%20si730%2Dsw56%2DAlquilaFacil%2Dexpo%2Dtb1%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview |
 
