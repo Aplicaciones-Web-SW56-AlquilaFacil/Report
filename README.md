@@ -21,29 +21,25 @@
             <th style="text-align:center;">Code</th>
         </tr>
         <tr>
+            <td>Cancho Corilla, Angel Antonio</td>
+            <td>U201721995</td>
+        </tr>
+        <tr>
+            <td>Gamio Upiachihua, Brenda Lucía</td>
+            <td>U202120344</td>
+        </tr>
+        <tr>
+            <td>Huaman Bellido, Josten Marc</td>
+            <td>u201617624</td>
+        </tr>
+        <tr>
             <td>Luna Capuñay, Italo D'Alessandro</td>
             <td>U202213375</td>
         </tr>
         <tr>
             <td>Pin Matallana, Augusto Jose</td>
             <td>U202210257</td>
-        </tr>
-        <tr>
-            <td>Cancho Corilla, Angel Antonio</td>
-            <td>U201721995</td>
-        </tr>
-        <tr>
-            <td></td>
-            <td></td>
-        </tr>
-         <tr>
-            <td></td>
-            <td></td>
-        </tr>
-          <tr>
-            <td>Gamio Upiachihua, Brenda Lucía</td>
-            <td>U202120344</td>
-        </tr>
+        </tr>                
     </table>
 </div>
 <p align="center">
@@ -95,8 +91,9 @@ TB1:
 <br>Cancho Corilla, Angel Antonio <br>
 TB1: Llevé a cabo la sección Domain-Driven Software Architecture, Software Object-Oriented Design y Database Design. <br>
 
-ALUMNO <br>
-TB1: <br>
+Huamán Bellido, Josten Marc <br>
+TB1: Participé activamente en la definición del StartUp, la arquitectura de software orientada a objetos y el diseño de la base de datos. Además, contribuí al proceso Lean UX, incluyendo la formulación de declaraciones de problemas, supuestos e hipótesis, así como en la elaboración del Lean UX Canvas. Esto garantizó una comprensión clara de los desafíos y objetivos del proyecto, proporcionando una base sólida para el desarrollo de las especificaciones de requisitos y el backlog de productos.<br>
+
 ALUMNO <br>
 TB1: <br>
 ALUMNO <br>
