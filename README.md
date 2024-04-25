@@ -179,7 +179,7 @@ En esta sección se han definido una cierta cantidad de preguntas para nuestros 
 9. ¿Estarías dispuesto(a) a pagar una tarifa por utilizar una aplicación que te ayude a publicitar o alquilar tu propiedad de manera más eficiente?
 10. ¿Qué sugerencias o mejoras tendrías para una aplicación de este tipo que aún no estén disponibles en otras plataformas similares?
 
-**Preguntas Segmento 1: Organizadores**
+**Preguntas Segmento 2: Organizadores**
 
 1. ¿Qué tipo de propiedades alquila regularmente para sus reuniones?
 2. ¿Alguna vez has necesitado un lugar de encuentro o festivo de emergencia?
@@ -409,25 +409,8 @@ Resumen de la entrevista:
 
 Stephanie Zea se presenta como promotora de eventos y destaca su labor de búsqueda y promoción de espacios para diversos tipos de eventos, como bodas, conferencias y fiestas. Ella explica que, como organizadora de eventos, enfrenta constantemente el desafío de encontrar lugares adecuados, especialmente ante emergencias o cambios repentinos. Esta situación puede generar complicaciones logísticas, como la búsqueda rápida de un nuevo lugar o tratar con cancelaciones inesperadas por parte de los propietarios. Stephanie destaca que nuestra página web podría facilitar enormemente su trabajo al proporcionar una plataforma en línea donde los propietarios puedan publicar sus espacios disponibles, permitiéndole encontrar opciones más rápidamente y ajustadas a sus necesidades y horarios específicos.
 
+
 **Entrevista 4:**
-
-Nombres:
-
-Apellidos:
-
-Edad: 
-
-Lugar de residencia:
-
-Entrevistador:
-
-Evidencia de la entrevista: 
-
-Enlace de entrevista:
-
-Resumen de la entrevista:
-
-**Entrevista 5:**
 
 Nombres: Erick Ernesto
 
@@ -648,7 +631,7 @@ Las entrevistas proporcionan una panorámica detallada y matizada sobre las expe
 
 **Segmento propietario:**
 
-<img src="assets/images/user-jorney-mapping/user-journey-mapping-propietario.png" alt="Segmento objetivo propietario"> 
+<img src="assets/images/user-jorney-mapping/user-journey-mapping-propietario.png" alt="Segmento objetivo propietario">
 
 **Segmento organizador:**
 
