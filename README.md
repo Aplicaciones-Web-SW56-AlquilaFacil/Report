@@ -296,7 +296,7 @@ Evidencia de la entrevista:
 
 <img src="assets/images/entrevistas/entrevista-augusto.png" alt="Entrevista 01 Segmento propietario">
 
-Enlace de entrevista: https://upcedupe-my.sharepoint.com/personal/u202210257_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202210257%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevista%20Augusto%20Pin%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview 
+Enlace de entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210257_upc_edu_pe/EQIDqUKifWJNtKrreX38wbEBS9QMIOL189r2LGES5iM4dg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=il0VQ4
 
 Resumen de la entrevista:
 
@@ -403,7 +403,7 @@ Evidencia de la entrevista:
 
 <img src="assets/images/entrevistas/entrevista-augusto2.png" alt="Entrevista 02 Segmento organizador">
 
-Enlace de entrevista: https://upcedupe-my.sharepoint.com/personal/u202210257_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202210257%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevista%20Augusto%20Pin%202%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview
+Enlace de entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210257_upc_edu_pe/EWrYlhtH7I9MhfeAVQzn5vMBTHLVTzuStHWBx5rwjHxTTA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=ukhDRU
 
 Resumen de la entrevista:
 
