@@ -1823,7 +1823,119 @@ A continuación se pueden apreciar los Empathy Mapping de los segmentos objetivo
         <strong>Entonces</strong> el propietario recibe notificaciones automáticas para mantenerlo informado sobre el estado actual de sus reservas.
         </td>
         <td>EPIC-001</td>
-        </tr>        
+        </tr>         
+        <tr style="text-align:center">
+        <td>TS001</td>
+        <td>Crear Usuario</td>
+        <td>
+        <strong>Como</strong> desarrollador backend en AlquilaFácil,
+        <strong>quiero</strong> implementar una funcionalidad para crear nuevos usuarios en la base de datos
+        <strong>para</strong> permitir que los usuarios se registren en la plataforma.
+        </td>
+        <td>
+        <h5>Escenario 01:</h5>
+        <strong>Dado</strong> que recibo una solicitud de registro de un nuevo usuario,
+        <strong>cuando</strong> los datos del usuario son válidos y únicos,
+        <strong>entonces</strong> creo un nuevo registro de usuario en la base de datos y retorno un mensaje de éxito.
+        <h5>Escenario 02:</h5>
+        <strong>Dado</strong> que recibo una solicitud de registro de un nuevo usuario,
+        <strong>cuando</strong> los datos del usuario son inválidos o ya existen en la base de datos,
+        <strong>entonces</strong> retorno un mensaje de error indicando la razón del fallo en el registro.
+    </td>
+    <td>
+    <tr style="text-align:center">
+    <td>TS002</td>
+    <td>Autenticación de Usuario</td>
+    <td>
+        <strong>Como</strong> desarrollador backend en AlquilaFácil,
+        <strong>quiero</strong> implementar un sistema de autenticación de usuario
+        <strong>para</strong> garantizar la seguridad de la plataforma y la privacidad de los usuarios.
+    </td>
+    <td>
+        <h5>Escenario 01:</h5>
+        <strong>Dado</strong> que un usuario intenta iniciar sesión con credenciales válidas,
+        <strong>cuando</strong> las credenciales son correctas y coinciden con un usuario registrado,
+        <strong>entonces</strong> se le otorga acceso a su cuenta y se genera un token de autenticación.
+        <h5>Escenario 02:</h5>
+        <strong>Dado</strong> que un usuario intenta iniciar sesión con credenciales inválidas,
+        <strong>cuando</strong> las credenciales son incorrectas o no coinciden con ningún usuario registrado,
+        <strong>entonces</strong> se le niega el acceso y se muestra un mensaje de error.
+    </td>
+    <td><tr style="text-align:center">
+    <td>TS003</td>
+    <td>Crear Espacio</td>
+    <td>
+        <strong>Como</strong> desarrollador backend en AlquilaFácil,
+        <strong>quiero</strong> implementar una funcionalidad para que los propietarios puedan crear nuevos espacios
+        <strong>para</strong> ampliar la oferta de espacios disponibles en la plataforma.
+    </td>
+    <td>
+        <h5>Escenario 01:</h5>
+        <strong>Dado</strong> que un propietario envía una solicitud para crear un nuevo espacio,
+        <strong>cuando</strong> los datos del espacio son válidos y únicos,
+        <strong>entonces</strong> creo un nuevo registro de espacio en la base de datos y retorno un mensaje de éxito.
+        <h5>Escenario 02:</h5>
+        <strong>Dado</strong> que un propietario envía una solicitud para crear un nuevo espacio,
+        <strong>cuando</strong> los datos del espacio son inválidos o ya existen en la base de datos,
+        <strong>entonces</strong> retorno un mensaje de error indicando la razón del fallo en la creación del espacio.
+    </td>
+    <td><tr style="text-align:center">
+    <td>TS004</td>
+    <td>Actualizar Espacio</td>
+    <td>
+        <strong>Como</strong> desarrollador backend en AlquilaFácil,
+        <strong>quiero</strong> implementar una funcionalidad para que los propietarios puedan actualizar la información de sus espacios
+        <strong>para</strong> mantener la precisión y actualización de los listados de espacios en la plataforma.
+    </td>
+    <td>
+        <h5>Escenario 01:</h5>
+        <strong>Dado</strong> que un propietario envía una solicitud para actualizar la información de un espacio existente,
+        <strong>cuando</strong> los datos proporcionados son válidos y el espacio existe en la base de datos,
+        <strong>entonces</strong> actualizo la información del espacio y retorno un mensaje de éxito.
+        <h5>Escenario 02:</h5>
+        <strong>Dado</strong> que un propietario envía una solicitud para actualizar la información de un espacio existente,
+        <strong>cuando</strong> los datos proporcionados son inválidos o el espacio no existe en la base de datos,
+        <strong>entonces</strong> retorno un mensaje de error indicando la razón del fallo en la actualización del espacio.
+    </td>
+    <td><tr style="text-align:center">
+    <td>TS005</td>
+    <td>Eliminar Espacio</td>
+    <td>
+        <strong>Como</strong> desarrollador backend en AlquilaFácil,
+        <strong>quiero</strong> implementar una funcionalidad para que los propietarios puedan eliminar espacios existentes
+        <strong>para</strong> mantener la integridad de la plataforma y la calidad de los listados de espacios.
+    </td>
+    <td>
+        <h5>Escenario 01:</h5>
+        <strong>Dado</strong> que un propietario envía una solicitud para eliminar un espacio existente,
+        <strong>cuando</strong> el espacio existe en la base de datos y la solicitud es válida,
+        <strong>entonces</strong> elimino el espacio de la base de datos y retorno un mensaje de éxito.
+        <h5>Escenario 02:</h5>
+        <strong>Dado</strong> que un propietario envía una solicitud para eliminar un espacio existente,
+        <strong>cuando</strong> el espacio no existe en la base de datos o la solicitud es inválida,
+        <strong>entonces</strong> retorno un mensaje de error indicando la razón del fallo en la eliminación del espacio.
+    </td>
+    </tr> 
+    <tr style="text-align:center">
+    <td>TS006</td>
+    <td>Buscar Espacios</td>
+    <td>
+        <strong>Como</strong> desarrollador backend en AlquilaFácil,
+        <strong>quiero</strong> implementar una funcionalidad de búsqueda de espacios
+        <strong>para</strong> permitir a los usuarios encontrar espacios disponibles que se ajusten a sus necesidades y preferencias.
+    </td>
+    <td>
+        <h5>Escenario 01:</h5>
+        <strong>Dado</strong> que un usuario realiza una búsqueda de espacios con criterios específicos,
+        <strong>cuando</strong> los criterios de búsqueda son válidos y existen espacios que coinciden en la base de datos,
+        <strong>entonces</strong> retorno una lista de espacios que cumplen con los criterios de búsqueda.
+        <h5>Escenario 02:</h5>
+        <strong>Dado</strong> que un usuario realiza una búsqueda de espacios con criterios específicos,
+        <strong>cuando</strong> no hay espacios que coincidan con los criterios de búsqueda o los criterios son inválidos,
+        <strong>entonces</strong> retorno un mensaje indicando que no se encontraron resultados.
+    </td>
+    <td></td>
+</tr>      
     </body>
 
 </table>
@@ -1908,6 +2020,72 @@ Utilizamos la escala de Fibonacci para la estimación de los Story Points
             <td>Como visitante de la plataforma AlquilaFácil, quiero que las opciones del menú de navegación me dirijan a las diferentes secciones de la plataforma para poder acceder rápidamente a la información que necesito.</td>
             <td>1</td>
         </tr>
+        <tr>
+        <td>9</td>
+        <td>TS001</td>
+        <td>Crear Usuario</td>
+        <td>
+            Como desarrollador backend en AlquilaFácil,
+            quiero implementar una funcionalidad para crear nuevos usuarios en la base de datos
+            para permitir que los usuarios se registren en la plataforma.
+        </td>
+        <td>5</td>
+    </tr>
+    <tr>
+        <td>10</td>
+        <td>TS002</td>
+        <td>Autenticación de Usuario</td>
+        <td>
+            Como desarrollador backend en AlquilaFácil,
+            quiero implementar un sistema de autenticación de usuario
+            para garantizar la seguridad de la plataforma y la privacidad de los usuarios.
+        </td>
+    <td>5</td>
+    </tr>
+    <tr>
+    <td>11</td>
+    <td>TS003</td>
+    <td>Crear Espacio</td>
+    <td>
+        Como desarrollador backend en AlquilaFácil,
+        quiero implementar una funcionalidad para que los propietarios puedan crear nuevos espacios
+        para ampliar la oferta de espacios disponibles en la plataforma.
+    </td>
+    <td>5</td>
+    </tr>
+    <tr>
+    <td>12</td>
+    <td>TS004</td>
+    <td>Actualizar Espacio</td>
+    <td>
+        Como desarrollador backend en AlquilaFácil,
+        quiero implementar una funcionalidad para que los propietarios puedan actualizar la información de sus espacios
+        para mantener la precisión y actualización de los listados de espacios en la plataforma.
+    </td>
+    <td>3</td>
+    </tr>
+    <tr>
+    <td>13</td>
+    <td>TS005</td>
+    <td>Eliminar Espacio</td>
+    <td>
+        Como desarrollador backend en AlquilaFácil,
+        quiero implementar una funcionalidad para que los propietarios puedan eliminar espacios existentes
+        para mantener la integridad de la plataforma y la calidad de los listados de espacios.
+    </td>
+    <td>3</td>
+</tr>
+<tr>
+    <td>14</td>
+    <td>TS006</td>
+    <td>Buscar Espacios</td>
+    <td>
+        <strong>Como</strong> desarrollador backend en AlquilaFácil,
+        <strong>quiero</strong> implementar una funcionalidad de búsqueda de espacios
+        <strong>para</strong> permitir a los usuarios encontrar espacios disponibles que se ajusten a sus necesidades y preferencias.
+    </td>
+    <td>5</td>
+</tr>
         </tbody>
 </table>
 
