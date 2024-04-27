@@ -2465,7 +2465,7 @@ En este diagrama se presenta de forma detallada las conexiones entre controllers
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
 
-![diagramClass](assets/diagramClass.png)
+![diagramClass](assets/classDiagram.png)
 
 ### 4.7.2. Class Dictionary
 
