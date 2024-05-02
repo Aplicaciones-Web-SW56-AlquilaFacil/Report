@@ -29,10 +29,6 @@
             <td>U202120344</td>
         </tr>
         <tr>
-            <td>Huaman Bellido, Josten Marc</td>
-            <td>u201617624</td>
-        </tr>
-        <tr>
             <td>Luna Capuñay, Italo D'Alessandro</td>
             <td>U202213375</td>
         </tr>
