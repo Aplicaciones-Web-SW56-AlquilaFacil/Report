@@ -3292,26 +3292,19 @@ El equipo creó el landing page utilizando el modelo de gitflow, el cual implica
 | Augusto Pin   | Implementación subscription                                 |
 | Brenda Gamio  | Implementación create space                                 |
 
-**GitFlow:**
-<div align=center>
-   <img src="assets/Gitflow-AF3.jpg" alt="carrusel"></img>
-</div>
-<div align=center>
-   <img src="assets/Gitflow-AF4.jpg" alt="carrusel"></img>
-</div>
 
-**Nethwork Graphs del repositorio del Landing Page**
+**Nethwork Graphs del repositorio del Frontend Web Application**
 <div align=center>
-   <img src="assets/NethworkGraph5.png" alt="insights"></img>
+   <img src="assets/nt-git-sp2.png" alt="insights"></img>
 </div>
 <div align=center>
-   <img src="assets/NethworkGraph6.png" alt="insights"></img>
+   <img src="assets/nt2-git-sp2.png" alt="insights"></img>
 </div>
 <div align=center>
-   <img src="assets/NethworkGraph7.png" alt="insights"></img>
+   <img src="assets/nt3-git-sp2.png" alt="insights"></img>
 </div>
 <div align=center>
-   <img src="assets/NethworkGraph8.png" alt="insights"></img>
+   <img src="assets/-sp2.png" alt="insights"></img>
 </div>
 
 # Conclusiones
