@@ -2427,11 +2427,11 @@ el tamaño de la pantalla.</td>
 <img src="assets/wireflow5.jpeg" alt="wireflow1">
 ### 4.4.3. Web Applications Mock-ups
 
-![MockUps](assets/WebAppMockUp1.png)
-![MockUps](assets/WebAppMockUp2.png)
-![MockUps](assets/WebAppMockUp3.png)
-![MockUps](assets/WebAppMockUp4.png)
-![MockUps](assets/WebAppMockUp5.png)
+![MockUps](assets/WebAppMockUp1.PNG)
+![MockUps](assets/WebAppMockUp2.PGN)
+![MockUps](assets/WebAppMockUp3.PGN)
+![MockUps](assets/WebAppMockUp4.PNG)
+![MockUps](assets/WebAppMockUp5.PNG)
 
 ### 4.4.4. Web Applications User Flow Diagrams
 ## 4.5. Web Applications Prototyping
