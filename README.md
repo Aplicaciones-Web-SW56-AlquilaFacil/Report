@@ -58,6 +58,13 @@
             <td>12/04/2024</td>
             <td>Luna Capuñay, Italo D'Alessandro<br><br>Augusto Jose Pin Matallana<br><br>Brenda Lucía Gamio Upiachihua<br><br>Angel Antonio Cancho Corilla<br>
             <td>Se agregó el contenido del capítulo 1, apartados 1.1, 1.2 y 1.3; el contenido del capítulo 2, apartados 2.1, 2.2, 2.3, 2.4; el contenido del capítulo 3, apartados 3.1, 3.2, 3.3 y 3.4; el contenido del capítulo 4, apartados 4.1, 4.2, 4.3, 4.4, 4.5, 4.6, 4.7 y 4.8; y el contenido del capítulo 5, apartados 5.1, 5.2, 5.3 y 5.4</td>
+        </tr>
+        <tr>
+            <td align = "center">TP</td>
+            <td>12/04/2024</td>
+            <td>Luna Capuñay, Italo D'Alessandro<br><br>Augusto Jose Pin Matallana<br><br>Brenda Lucía Gamio Upiachihua<br><br>Angel Antonio Cancho Corilla<br>
+            <td>Se modificó los errores que se enontraron en el TB1, y la implementación del Sprint 2; por ende se comenzó el desarrollo del front end de la aplicación web.</td>
+        </tr>
 <table>
 
 ---
@@ -83,18 +90,30 @@ TB1:
             <td> Luna Capuñay, Italo D'Alessandro <br>
             TB1: <br>
             El proyecto se llevó a cabo con la colaboración de todo el equipo, distribuyendo equitativamente las responsabilidades entre sus miembros. Además, trabajamos en conjunto en diferentes áreas, como la realización de entrevistas, la creación de la página principal y las secciones de evidencia de desarrollo y conjunto de pruebas, asegurando un enfoque integral y de colaboración en todas las fases del proyecto.
+            TP: <br>
+            Todo el equipo cooperó conjuntamente para desarrollar el proyecto, distribuyendo de forma equitativa las responsabilidades entre sus miembros. También trabajamos juntos en diferentes áreas. A lo largo de todas las fases del proyecto, se mantuvo este enfoque integral y colaborativo. Durante el desarrollo de una aplicación web, la colaboración resultó ser esencial en particular. Colaboramos para establecer los requisitos, desarrollar la arquitectura, integrar funciones y llevar a cabo pruebas exhaustivas. Gracias a la comunicación constante y la sinergia entre los miembros del equipo, se logró crear una aplicación sólida y efectiva.
+
 
 <br>Cancho Corilla, Angel Antonio <br>
 TB1: Llevé a cabo la sección Domain-Driven Software Architecture, Software Object-Oriented Design y Database Design. <br>
 
+TP: El proyecto fue fruto de un esfuerzo conjunto y colaborativo por parte de todo el equipo, donde cada miembro asumió responsabilidades de forma equitativa. La colaboración se extendió a diversos ámbitos, incluyendo la realización de entrevistas, la creación de la página principal, y la elaboración de las secciones de evidencias de desarrollo y conjunto de pruebas. Este enfoque integral y colaborativo se mantuvo constante a lo largo de todas las fases del proyecto. <br>
+
 Pin Matallana, Augusto Jose <br>
 TB1: Participe activamente realizando los mock ups y wireframes tanto de la landing page como del web application, tambien contribui con el contenido del capitulo 5 y software deployment configurantion, tambien ayude a coordinar el equipo y asiganar tareas a los demas para un completo desarrollo del informe junto a, como a su vez complete mis 2 entrevistas para los 2 segmentos objetivos y realizando el analisis de entrevistas general para llegar a una conclusion sobre los datos recolectados en las entrevistas.<br>
+<br>
+TP: El desarrollo del proyecto fue el resultado de una colaboración estrecha y equitativa entre todos los miembros del equipo. Cada integrante asumió responsabilidades en diferentes áreas, desde la realización de entrevistas hasta la creación de la página principal y la elaboración de secciones como evidencias de desarrollo y conjunto de pruebas. Esta mentalidad de trabajo conjunto y colaborativo se mantuvo presente en todas las etapas del proyecto, garantizando un enfoque integral y cohesivo en cada aspecto del mismo.<br>
+
 
 Gamio Upiachihua, Brenda Lucía <br>
 TB1: Participé generando las guías para los estilos tanto generales, como los de la web aplicación. Además de definir cuidadosamente la arquitectura de la información que iría en la applcation web para poder generar bien los wireframes y mock ups del servicio. Por último, participé en el desarrollo de los wireframes y wkreflows del web application.<br>
+<br>
+TP: Todos los miembros del equipo colaboraron estrecha y equitativamente para desarrollar el proyecto. Cada miembro tomó responsabilidades en áreas distintas, desde realizar entrevistas hasta crear la página principal y desarrollar secciones como pruebas de desarrollo y conjunto de evidencias. Se mantuvo presente en todas las etapas del proyecto una mentalidad de trabajo conjunto y colaborativo, garantizando un enfoque integral y cohesivo en cada aspecto del mismo.<br>
+
+
 
 </td>
-    <td>TB1: Durante esta fase del proyecto, se llevaron a cabo exhaustivos análisis de las preferencias de los escritores, ilustradores y lectores a través de entrevistas. Se aplicó un diseño UX/UI apropiado para atender las necesidades de los usuarios. Además, se empleó la metodología de Domain Driven Design (DDD) para identificar los distintos dominios de la aplicación, desarrollando diagramas de clase que representaran la arquitectura del modelo backend. Se diseñaron diagramas de flujo tanto de usuario como de trabajo para mejorar la experiencia global del usuario, y se implementó la estructura de la base de datos. Finalmente, se documentó todo el proceso utilizando metodologías ágiles.<tr>
+    <td>TP: Durante esta fase del proyecto, se aplicó un diseño la metodología de Domain Driven Design (DDD) para identificar los distintos dominios de la aplicación, y comenzar a codificar el el front end del aplicativo web.<tr>
 
 <td align = "center">Conoce al menos un sector
 empresarial o dominio de
@@ -105,25 +124,35 @@ software.</td>
 Luna Capuñay, Italo D'Alessandro <br>
 TB1 <br>
 En esta fase de entrega, se llevó a cabo un análisis de las preferencias de los segmentos de propietarios y organizadores mediante la realización y evaluación de entrevistas. Además, se implementó un diseño UX/UI adecuado que se adapta tanto a la versión de escritorio como a la versión responsive, tomando en cuenta las necesidades de los usuarios. También se realizó una exhaustiva investigación de la competencia para identificar cómo nuestra aplicación puede diferenciarse de otras en el mercado, teniendo en cuenta los antecedentes relacionados con la problemática que buscamos abordar.
+TP <br>
+Durante esta fase de desarrollo, se llevó a cabo una investigación exhaustiva de la competencia para identificar cómo nuestra aplicación web puede diferenciarse en el mercado, tomando en cuenta los antecedentes relacionados con la problemática que pretendemos abordar. Estas acciones sentaron las bases para la codificación conjunta de la aplicación web utilizando la metodología de Desarrollo Dirigido por Dominio (DDD).
 
 Cancho Corilla, Angel Antonio <br>
 TB1 <br>
 Durante esta fase de desarrollo de la arquitectura del software, se llevó a cabo un análisis exhaustivo de las preferencias de los segmentos de propietarios y organizadores mediante la realización y evaluación de entrevistas. Además, se elaboraron diagramas C4 para representar la arquitectura del sistema, detallando las relaciones entre los distintos componentes y sus interacciones.  Asimismo, se realizó una investigación detallada de la competencia para identificar cómo nuestra aplicación puede diferenciarse en el mercado, teniendo en cuenta los antecedentes relacionados con la problemática que buscamos abordar.
+TP <br>
+El progreso del proyecto se construyó sobre una colaboración cercana y equitativa entre todos los miembros del equipo. Cada uno tomó responsabilidades en diversas áreas, desde conducir entrevistas hasta desarrollar la página principal y elaborar secciones como las evidencias de desarrollo y el conjunto de pruebas. Esta mentalidad de trabajo en equipo y colaboración se mantuvo constante a lo largo de todas las etapas del proyecto, asegurando un enfoque completo y unificado en cada aspecto del mismo.
 
 Pin Matallana, Augusto Jose <br>
 TB1<br>
 Durante esta fase de configuración del entorno de desarrollo de software, se llevó a cabo un análisis exhaustivo de las preferencias de los segmentos de propietarios y organizadores mediante la realización y evaluación de entrevistas. Además, se elaboró expectativas de los usuarios para incluir en los sprints de desarrollo. También se llevó a cabo una investigación detallada de la competencia para identificar cómo nuestra aplicación puede diferenciarse en el mercado, teniendo en cuenta los antecedentes relacionados con la problemática que buscamos abordar.
+TP<br>
+La ejecución del proyecto surgió como producto de una colaboración estrecha y equitativa entre todos los integrantes del equipo. Cada miembro se involucró en diversas áreas, desde la conducción de entrevistas hasta la concepción de la página principal y la elaboración de secciones como evidencias de desarrollo y conjunto de pruebas. Este enfoque de trabajo colaborativo y conjunto perduró a lo largo de todas las etapas del proyecto, asegurando un abordaje integral y coherente en cada uno de sus aspectos.
 
 Gamio Upiachihua, Brenda Lucía <br>
 TB1 <br>
 Durante esta etapa de desarrollo, se llevó a cabo un análisis detallado de las preferencias de los segmentos de propietarios y organizadores mediante la realización y evaluación de entrevistas. Asimismo, se diseñó una interfaz de usuario (UI/UX) que se adapta tanto a la versión de escritorio como a la versión responsive, teniendo en cuenta las necesidades y expectativas de los usuarios. Se llevó a cabo una investigación exhaustiva de la competencia para identificar cómo nuestra aplicación puede destacarse en el mercado, considerando los antecedentes relacionados con la problemática que buscamos abordar.
+TP <br>
+Se construyó el progreso del proyecto sobre una colaboración cercana y equitativa entre todos los miembros del equipo. Cada persona asumió responsabilidades en varios ámbitos, desde llevar a cabo entrevistas hasta crear la página principal y diseñar secciones como pruebas de desarrollo y conjunto de pruebas. Durante todas las etapas del proyecto, se mantuvo una constante mentalidad de trabajo en equipo y colaboración, asegurando un enfoque completo y unificado en cada aspecto del mismo.
+
 
 </td>
-            <td>TB1: En esta etapa del proyecto, se realizaron análisis detallados de las preferencias de los escritores, ilustradores y lectores a través de entrevistas. Se aplicó un diseño UX/UI adecuado para satisfacer las necesidades de los usuarios. Además, se utilizó el enfoque de Domain Driven Design (DDD) para identificar los dominios de la aplicación y se desarrollaron diagramas de clase para representar la arquitectura del modelo backend. Se crearon diagramas de flujo de usuario y de trabajo para mejorar la experiencia del usuario y se implementó el modelado de la base de datos. Finalmente, se documentó el trabajo realizado utilizando metodologías ágiles.
+            <td>TP: En esta etapa del proyecto, se realizaron análisis detallados de las preferencias de los escritores, ilustradores y lectores a través de entrevistas. Se aplicó un diseño UX/UI adecuado para satisfacer las necesidades de los usuarios. Además, se utilizó el enfoque de Domain Driven Design (DDD) para identificar los dominios de la aplicación y se desarrollaron diagramas de clase para representar la arquitectura del modelo backend. Se crearon diagramas de flujo de usuario y de trabajo para mejorar la experiencia del usuario y se implementó el modelado de la base de datos. Finalmente, se documentó el trabajo realizado utilizando metodologías ágiles.
        <tr>
 
 </table>
 <br>
+
 
 ---
 
