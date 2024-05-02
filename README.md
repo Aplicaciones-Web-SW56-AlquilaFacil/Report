@@ -3100,11 +3100,11 @@ esto facilitará la lectura y comprensión de la información por parte de todos
 #### 5.2.1.2. Sprint Backlog 2
 
 <div align=center>
-   <img src="assets/trelloAF.png" alt="carrusel"></img>
+   <img src="assets/sprint-bl-2.png" alt="carrusel"></img>
 </div>
 
 Link del trello:
-https://trello.com/b/aRpjb6j9/alquilafacil
+https://trello.com/invite/b/ItvMKaLE/ATTI7156bcc6b5642cda7f0abe5ebff9185a109B5CD3/alquilafacil-sprint-2
 
 </br>
 
