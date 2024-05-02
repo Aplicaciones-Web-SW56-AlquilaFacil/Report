@@ -60,7 +60,7 @@
         <tr>
             <td align = "center">TB1</td>
             <td>12/04/2024</td>
-            <td>Luna Capuñay, Italo D'Alessandro<br><br>Augusto Jose Pin Matallana<br><br>Brenda Lucía Gamio Upiachihua<br><br>Angel Antonio Cancho Corilla<br><br>Josten Marc Huaman Bellido<br>
+            <td>Luna Capuñay, Italo D'Alessandro<br><br>Augusto Jose Pin Matallana<br><br>Brenda Lucía Gamio Upiachihua<br><br>Angel Antonio Cancho Corilla<br>
             <td>Se agregó el contenido del capítulo 1, apartados 1.1, 1.2 y 1.3; el contenido del capítulo 2, apartados 2.1, 2.2, 2.3, 2.4; el contenido del capítulo 3, apartados 3.1, 3.2, 3.3 y 3.4; el contenido del capítulo 4, apartados 4.1, 4.2, 4.3, 4.4, 4.5, 4.6, 4.7 y 4.8; y el contenido del capítulo 5, apartados 5.1, 5.2, 5.3 y 5.4</td>
 <table>
 
@@ -91,9 +91,6 @@ TB1:
 <br>Cancho Corilla, Angel Antonio <br>
 TB1: Llevé a cabo la sección Domain-Driven Software Architecture, Software Object-Oriented Design y Database Design. <br>
 
-Huamán Bellido, Josten Marc <br>
-TB1: Participé activamente en la definición del StartUp, la arquitectura de software orientada a objetos y el diseño de la base de datos. Además, contribuí al proceso Lean UX, incluyendo la formulación de declaraciones de problemas, supuestos e hipótesis, así como en la elaboración del Lean UX Canvas. Esto garantizó una comprensión clara de los desafíos y objetivos del proyecto, proporcionando una base sólida para el desarrollo de las especificaciones de requisitos y el backlog de productos.<br>
-
 Pin Matallana, Augusto Jose <br>
 TB1: Participe activamente realizando los mock ups y wireframes tanto de la landing page como del web application, tambien contribui con el contenido del capitulo 5 y software deployment configurantion, tambien ayude a coordinar el equipo y asiganar tareas a los demas para un completo desarrollo del informe junto a, como a su vez complete mis 2 entrevistas para los 2 segmentos objetivos y realizando el analisis de entrevistas general para llegar a una conclusion sobre los datos recolectados en las entrevistas.<br>
 
@@ -116,11 +113,6 @@ En esta fase de entrega, se llevó a cabo un análisis de las preferencias de lo
 Cancho Corilla, Angel Antonio <br>
 TB1 <br>
 Durante esta fase de desarrollo de la arquitectura del software, se llevó a cabo un análisis exhaustivo de las preferencias de los segmentos de propietarios y organizadores mediante la realización y evaluación de entrevistas. Además, se elaboraron diagramas C4 para representar la arquitectura del sistema, detallando las relaciones entre los distintos componentes y sus interacciones.  Asimismo, se realizó una investigación detallada de la competencia para identificar cómo nuestra aplicación puede diferenciarse en el mercado, teniendo en cuenta los antecedentes relacionados con la problemática que buscamos abordar.
-
-
-Huamán Bellido, Josten Marc <br>
-TB1 <br>
-Durante esta fase de desarrollo, se realizó un análisis exhaustivo de las preferencias de los segmentos de propietarios y organizadores mediante la realización y evaluación de entrevistas. Además, se elaboró un backlog de producto y se definieron historias de usuario que reflejan las necesidades y expectativas de los usuarios. También se llevó a cabo una investigación detallada de la competencia para identificar cómo nuestra aplicación puede diferenciarse en el mercado, teniendo en cuenta los antecedentes relacionados con la problemática que buscamos abordar.
 
 Pin Matallana, Augusto Jose <br>
 TB1<br>
@@ -246,17 +238,6 @@ Convertirnos en la principal plataforma global de alquiler de espacios para even
         </tr>
     </thead>
     <body>
-        <tr>
-            <!-- DATOS del integrante 1-->
-            <td> 
-            <img src="assets/Josten-Huaman-Bellido.jpg" alt ="Josten Huaman" height="120">
-            <br>Josten Marc Huaman Bellido
-            </td>
-            <!-- DESCRIPCIÓN del integrante 1-->
-            <td>Estudiante de la carrera de Ingeniería de Software, cursando el 5to ciclo. Soy una persona responsable, autodidacta. Me gusta trabajar en equipo, aportar ideas y adquirir nuevos conocimientos de parte de mis compañeros. </td>
-            <!-- CONOCIMIENTOS del integrante 1-->
-            <td>Conocimiento de Front en lenguaje HTML, CSS, JavaScript. Conocimiento básico de C++, python, base de datos. Habilidades en programas de diseño web. </td>
-        </tr>
         <tr>
             <!-- DATOS del integrante 2-->
             <td> 
@@ -2764,7 +2745,6 @@ El equipo creó el landing page utilizando el modelo de gitflow, el cual implica
 | Alumno        | Actividad                                                   | 
 |---------------|-------------------------------------------------------------|
 | Angel Cancho  | Implementación del banner 1                                 |
-| Josten Huaman | Implementación del banner 2                                 |
 | Italo Luna    | Implementación del responsive y características del website |
 | Augusto Pin   | Implementación de los lugares                               |
 | Brenda Gamio  | Implementación del banner 3                                 |
