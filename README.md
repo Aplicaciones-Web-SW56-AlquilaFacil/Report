@@ -3226,42 +3226,43 @@ https://trello.com/invite/b/ItvMKaLE/ATTI7156bcc6b5642cda7f0abe5ebff9185a109B5CD
   </tr>
 </table>
 
+
 #### 5.2.1.5. Execution Evidence for Sprint Review
 
-1. Sección  banner de presentacion, donde se puede visualizar un paisaje con nuestras funcionalidades.
+1. Sección de presentacion donde se ven las cards principales y el home.
 
 <div align=center>
-   <img src="assets/Web-App-1.png" alt="carrusel"></img>
+   <img src="assets/Web-App-1.PNG" alt="carrusel"></img>
 </div>
 
-2. Sección de ciudades donde se puede ver donde opera AlquilaFacil.
+2. Sección de subscripciones a AlquilaFacil.
 
 <div align=center>
-   <img src="assets/Web-App-2.png" alt="carrusel"></img>
+   <img src="assets/Web-App-2.PNG" alt="carrusel"></img>
 </div>
 
-3. Sección sabe mas donde damos mas explicacion de detalle de AlquilaFacil.
+3. Seccion donde esta el iniciar sesion AlquilaFacil.
 
 <div align=center>
-   <img src="assets/Web-App-3.png" alt="carrusel"></img>
+   <img src="assets/Web-App-3.PNG" alt="carrusel"></img>
 </div>
 
-4. Sección  donde llamamos a los usuarios que tienen propiedades a que tenga una cuenta en AlquilaFacil.
+4. Sección donde se ve mas a detalle las cards del home.
 
 <div align=center>
-   <img src="assets/Web-App-4.png" alt="carrusel"></img>
+   <img src="assets/Web-App-4.PNG" alt="carrusel"></img>
 </div>
 
-5. Sección donde mostramos que clase de locales hay en AlquilaFacil.
+5. Sección empiezas a poner tu local en AlquilaFacil.
 
 <div align=center>
-   <img src="assets/Web-App-5.png" alt="carrusel"></img>
+   <img src="assets/Web-App-5.PNG" alt="carrusel"></img>
 </div>
 
-6. Sección  del footer donde se muestra nuestro logo y el objetivo que tenemos como aplicacion.
+6. Sección donde ya puedes visualizar tu espacio ya publicado.
 
 <div align=center>
-   <img src="assets/Web-App-6.png" alt="carrusel"></img>
+   <img src="assets/Web-App-6.PNG" alt="carrusel"></img>
 </div>
 
 
