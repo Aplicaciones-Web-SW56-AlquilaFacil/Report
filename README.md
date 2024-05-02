@@ -2427,11 +2427,11 @@ el tamaño de la pantalla.</td>
 <img src="assets/wireflow5.jpeg" alt="wireflow1">
 ### 4.4.3. Web Applications Mock-ups
 
-![MockUps](assets/WebAppMockUp1.PNG)
-![MockUps](assets/WebAppMockUp2.PGN)
-![MockUps](assets/WebAppMockUp3.PGN)
-![MockUps](assets/WebAppMockUp4.PNG)
-![MockUps](assets/WebAppMockUp5.PNG)
+![MockUps](assets/WebAppMockUp1.png)
+![MockUps](assets/WebAppMockUp2.png)
+![MockUps](assets/WebAppMockUp3.png)
+![MockUps](assets/WebAppMockUp4.png)
+![MockUps](assets/WebAppMockUp5.png)
 
 ### 4.4.4. Web Applications User Flow Diagrams
 ## 4.5. Web Applications Prototyping
@@ -3100,11 +3100,11 @@ esto facilitará la lectura y comprensión de la información por parte de todos
 #### 5.2.1.2. Sprint Backlog 1
 
 <div align=center>
-   <img src="assets/trelloAF.png" alt="carrusel"></img>
+   <img src="assets/sprint-bl-2.png" alt="carrusel"></img>
 </div>
 
 Link del trello:
-https://trello.com/b/aRpjb6j9/alquilafacil
+https://trello.com/invite/b/ItvMKaLE/ATTI7156bcc6b5642cda7f0abe5ebff9185a109B5CD3/alquilafacil-sprint-2
 
 </br>
 
