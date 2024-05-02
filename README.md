@@ -3280,7 +3280,7 @@ Para el presente sprint, se ha desarrollado el landing page. Para el desarrollo 
 
 - GitHub: Plataforma que facilitó la colaboración en equipo para almacenar las versiones de nuestro proyecto. GitHub es un servicio web que utiliza Git para alojar repositorios remotos y fomentar la colaboración entre programadores. Con GitHub, podemos cargar nuestro código en la nube, compartirlo con otros usuarios, recibir comentarios y sugerencias, hacer seguimiento de tareas y problemas, y acceder a una amplia gama de proyectos de código abierto.
 
-- GitHub Pages: Servicio que nos permitió publicar nuestro landing page directamente desde nuestro repositorio de GitHub. GitHub Pages ofrece una manera sencilla de crear sitios web estáticos para nuestros proyectos, utilizando temas prediseñados o personalizados. Con GitHub Pages, podemos mostrar nuestro landing page al mundo sin la necesidad de adquirir un servidor o un dominio.
+- FireBase: Firebase es una plataforma de desarrollo de aplicaciones móviles y web creada por Google. Ofrece una amplia gama de servicios y herramientas para ayudar a los desarrolladores a construir y mejorar sus aplicaciones de manera rápida y eficiente. Firebase incluye características como base de datos en tiempo real, autenticación de usuarios, almacenamiento en la nube, hosting web, mensajería en la nube, análisis, informes de fallos, y funciones de aprendizaje automático. En resumen, Firebase proporciona una solución integral para el desarrollo y la mejora de aplicaciones, abordando áreas como la autenticación de usuarios, el almacenamiento de datos, la entrega de contenido, el análisis y la mejora de la calidad.
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
