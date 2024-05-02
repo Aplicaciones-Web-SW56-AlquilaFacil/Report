@@ -29,10 +29,6 @@
             <td>U202120344</td>
         </tr>
         <tr>
-            <td>Huaman Bellido, Josten Marc</td>
-            <td>u201617624</td>
-        </tr>
-        <tr>
             <td>Luna Capuñay, Italo D'Alessandro</td>
             <td>U202213375</td>
         </tr>
@@ -755,6 +751,8 @@ En esta sección se han definido una cierta cantidad de preguntas para nuestros 
 
 ### 2.2.2. Registro de entrevistas
 
+## Link del video con todas las entrevistas: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120344_upc_edu_pe/EXNPFKACaqhMrla_7xjSCtMBgAHuLpWOdgslbhB_tDvdow?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=LujiaK 
+
 **Segmento propietario:**
 
 **Entrevista 1:**
@@ -773,7 +771,7 @@ Evidencia de la entrevista:
 
 <img src="assets/images/entrevistas/entrevista-claudia.png" alt="Entrevista 01 Segmento propietario">
 
-Enlace de entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213375_upc_edu_pe/Ecl6kWhXShZEs4eoqqBltusBdurPIhKjNtqGXOSbDAXZGw?e=bsjJbh&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+Minuto de la entrevista: 0:00
 
 Resumen de la entrevista:
 
@@ -803,7 +801,7 @@ Evidencia de la entrevista:
 
 <img src="assets/images/entrevistas/entrevista-brenda.png" alt="Entrevista 01 Segmento propietario">
 
-Enlace de entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201617624_upc_edu_pe/EfjxULWKOjFEp5tenbRadIsBkhKdhPkwuq3cr9CeitgkaA?e=7G0Nhr
+Minuto de la entrevista: 7:27
 
 Resumen de la entrevista:
 
@@ -831,7 +829,7 @@ Evidencia de la entrevista:
 
 <img src="assets/images/entrevistas/entrevista-FabioH.png" alt="Entrevista 01 Segmento propietario">
 
-Enlace de entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201721995_upc_edu_pe/EX9sJ80cNvpHuJ9SkQZMTsoBYi-1-CnkUUTUJEcjEQRsbg
+Minuto de la entrevista: 11:52
 
 Resumen de la entrevista:
 
@@ -857,7 +855,7 @@ Evidencia de la entrevista:
 
 <img src="assets/images/entrevistas/entrevista-augusto.png" alt="Entrevista 01 Segmento propietario">
 
-Enlace de entrevista: https://upcedupe-my.sharepoint.com/personal/u202210257_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202210257%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevista%20Augusto%20Pin%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview 
+Minuto de la entrevista: 17:49
 
 Resumen de la entrevista:
 
@@ -883,7 +881,7 @@ Evidencia de la entrevista:
 
 <img src="assets/images/entrevistas/entrevista1-miguel.png" alt="Entrevista 05 Segmento propietario">
 
-Enlace de entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120344_upc_edu_pe/ER7eB7piI8xEr9NkQ3A1In8BkKbnt-aDCzBbmal2ln_5iw?e=ErOK9s
+Minuto de la entrevista: 26:50
 
 Resumen de la entrevista:
 
@@ -912,7 +910,7 @@ Evidencia de la entrevista:
 
 <img src="assets/images/entrevistas/entrevista-rodrigo.png" alt="Entrevista 01 Segmento organizador">
 
-Enlace de entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213375_upc_edu_pe/ER2a2fW6t3JFhfh2Ae_n4G8BhjhRjm6abPnbfM_6pqnVSw?e=f2oIVi&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+Minuto de la entrevista: 33:10
 
 Resumen de la entrevista:
 
@@ -942,7 +940,7 @@ Evidencia de la entrevista:
 
 <img src="assets/images/entrevistas/entrevista-fabio.png" alt="Entrevista 01 Segmento organizador">
 
-Enlace de entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201721995_upc_edu_pe/EYYtHSOgcipIr6XNTxnqZvQB9Ndf5WyLJGXsBfBkFVL4cg?e=xpXbCm 
+Minuto de la entrevista: 37:47
 
 Resumen de la entrevista:
 
@@ -964,7 +962,7 @@ Evidencia de la entrevista:
 
 <img src="assets/images/entrevistas/entrevista-augusto2.png" alt="Entrevista 02 Segmento organizador">
 
-Enlace de entrevista: https://upcedupe-my.sharepoint.com/personal/u202210257_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202210257%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevista%20Augusto%20Pin%202%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview
+Minuto de la entrevista: 44:57
 
 Resumen de la entrevista:
 
@@ -984,7 +982,7 @@ Entrevistador: Brenda Gamio Upiachihua
 
 Evidencia de la entrevista:  <img src="assets/images/entrevistas/entrevista2-erick.png" alt="Entrevista 05 Segmento organizador">
 
-Enlace de entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120344_upc_edu_pe/Eeakt8f2BWJKqJu8D5wSkyAByUeX9Z-Qqj47-YMYUY-AuQ?e=Uc5t4O 
+Minuto de la entrevista: 52:42
 
 Resumen de la entrevista:
 
