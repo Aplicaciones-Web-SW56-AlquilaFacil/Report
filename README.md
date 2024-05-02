@@ -3197,13 +3197,11 @@ https://trello.com/invite/b/ItvMKaLE/ATTI7156bcc6b5642cda7f0abe5ebff9185a109B5CD
 #### 5.2.1.3. Development Evidence for Sprint Review.
 | Repository                                                      | Branch   | Commit id | Commit Message                                    | Commit Message Body                               | Commited on (Date) |
 |-----------------------------------------------------------------|----------|-----------|---------------------------------------------------|---------------------------------------------------|-------------------- 
-|https://github.com/Aplicaciones-Web-SW56-AlquilaFacil/Frontend   | variety  | 2b4f926   | feat: added section variety and design responsive | feat: added section variety and design responsive | 11/04/2024         | 
-|                                                                 | banner-1 | c867f51   | feat: added banner #1 for landing page            | feat: added banner #1 for landing page            | 11/04/2024         | 
-|                                                                 | banner-2 | 4c6f4c5   | feat(section): added banner and button            | feat(section): added banner and button            | 12/04/2024         | 
-|                                                                 | banner-3 | c867f51   | feat: Added banner #3 for Landing page            | feat: Added banner #3 for Landing page            | 11/04/2024         | 
-|                                                                 | places   | f82e444   | feat: add places for landing page                 | feat: add places for landing page                 | 11/04/2024         | 
-|                                                                 | nav      | c9516af   | feat: Added nav partial                           | feat: Added nav partial                           | 11/04/2024         | 
-|                                                                 | footer   | 951d833   | feat: added footer                                | feat: added footer                                | 12/04/2024         | 
+|https://github.com/Aplicaciones-Web-SW56-AlquilaFacil/Frontend   | main  | 62053d1   | feat: added deployment | feat: added deployment | 02/05/2024         | 
+|                                                                 | feature/bounded-content | f89b305   | fix: implemented DDD in bounded create space            | fix: implemented DDD in bounded create space            | 01/05/2024         | 
+|                                                                 | feature/bounded-create-space | 583842b   | fix: addded implementation in navbar            | fix: addded implementation in navbar            | 30/04/2024         | 
+|                                                                 | feature/bounded-subscription | b4275f2   | feat: added footer and navbar            | feat: added footer and navbar            | 29/04/2024         | 
+|                                                                 | feature/bounded-user   | ee785fd   | feat: add content for confirm direction component                 | feat: add content for confirm direction component                 | 01/05/2024         | 
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
 
