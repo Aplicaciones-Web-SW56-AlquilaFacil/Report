@@ -3097,7 +3097,7 @@ esto facilitará la lectura y comprensión de la información por parte de todos
 
 
 
-#### 5.2.1.2. Sprint Backlog 1
+#### 5.2.1.2. Sprint Backlog 2
 
 <div align=center>
    <img src="assets/trelloAF.png" alt="carrusel"></img>
