@@ -63,7 +63,6 @@
             <td align = "center">TP1</td>
             <td>02/05/2024</td>
             <td>Luna Capuñay, Italo D'Alessandro<br><br>Augusto Jose Pin Matallana<br><br>Brenda Lucía Gamio Upiachihua<br><br>Angel Antonio Cancho Corilla<br>
-            <td>
             <td>Se agregó el contenido del capítulo 5, apartados 5.2.2, 5.2.2.1, 5.2.2.2, 5.2.2.3, 5.2.2.4, 5.2.2.5, 5.2.2.6, 5.2.2.7, 5.2.2.8 </td>
         </tr>
 <table>
