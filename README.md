@@ -123,7 +123,8 @@ Todos los miembros del equipo colaboraron estrecha y equitativamente para desarr
 
 
 </td>
-    <td>TP: Durante esta fase del proyecto, se llevaron a cabo exhaustivos análisis de las preferencias de los escritores, ilustradores y lectores a través de entrevistas. Se aplicó un diseño UX/UI apropiado para atender las necesidades de los usuarios. Además, se empleó la metodología de Domain Driven Design (DDD) para identificar los distintos dominios de la aplicación, desarrollando diagramas de clase que representaran la arquitectura del modelo backend. Se diseñaron diagramas de flujo tanto de usuario como de trabajo para mejorar la experiencia global del usuario, y se implementó la estructura de la base de datos. Finalmente, se documentó todo el proceso utilizando metodologías ágiles.<tr>
+    <td>TB1: El proyecto se llevó a cabo con la colaboración de todo el equipo, distribuyendo equitativamente las responsabilidades entre sus miembros. Además, trabajamos en conjunto en diferentes áreas, como la realización de entrevistas, la creación de la página principal y las secciones de evidencia de desarrollo y conjunto de pruebas, asegurando un enfoque integral y de colaboración en todas las fases del proyecto.<br>
+        TP: Durante esta fase del proyecto, se llevaron a cabo exhaustivos análisis de las preferencias de los escritores, ilustradores y lectores a través de entrevistas. Se aplicó un diseño UX/UI apropiado para atender las necesidades de los usuarios. Además, se empleó la metodología de Domain Driven Design (DDD) para identificar los distintos dominios de la aplicación, desarrollando diagramas de clase que representaran la arquitectura del modelo backend. Se diseñaron diagramas de flujo tanto de usuario como de trabajo para mejorar la experiencia global del usuario, y se implementó la estructura de la base de datos. Finalmente, se documentó todo el proceso utilizando metodologías ágiles.<tr>
 
 <td align = "center">Conoce al menos un sector
 empresarial o dominio de
@@ -160,7 +161,9 @@ TP <br>
 Se construyó el progreso del proyecto sobre una colaboración cercana y equitativa entre todos los miembros del equipo. Cada persona asumió responsabilidades en varios ámbitos, desde llevar a cabo entrevistas hasta crear la página principal y diseñar secciones como pruebas de desarrollo y conjunto de pruebas. Durante todas las etapas del proyecto, se mantuvo una constante mentalidad de trabajo en equipo y colaboración, asegurando un enfoque completo y unificado en cada aspecto del mismo.
 
 </td>
-            <td>TP: En esta etapa del proyecto, se realizaró un avance del aplicativo web. Se utilizó el enfoque de Domain Driven Design (DDD) para desarrollar los dominios de la aplicación y se desarrollaron diagramas de clase para representar la arquitectura del modelo backend.
+            <td>TB1: En esta etapa del proyecto, se realizaron análisis detallados de las preferencias de los escritores, ilustradores y lectores a través de entrevistas. Se aplicó un diseño UX/UI adecuado para satisfacer las necesidades de los usuarios. Además, se utilizó el enfoque de Domain Driven Design (DDD) para identificar los dominios de la aplicación y se desarrollaron diagramas de clase para representar la arquitectura del modelo backend. Se crearon diagramas de flujo de usuario y de trabajo para mejorar la experiencia del usuario y se implementó el modelado de la base de datos. Finalmente, se documentó el trabajo realizado utilizando metodologías ágiles.
+ <br>
+                TP: En esta etapa del proyecto, se realizaró un avance del aplicativo web. Se utilizó el enfoque de Domain Driven Design (DDD) para desarrollar los dominios de la aplicación y se desarrollaron diagramas de clase para representar la arquitectura del modelo backend.
        <tr>
 
 </table>
