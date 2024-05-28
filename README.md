@@ -1291,7 +1291,7 @@ A continuación se pueden apreciar los Empathy Mapping de los segmentos objetivo
     </thead>
     <tbody>
         <tr>
-            <td>EPIC-001</td>
+            <td>EP01</td>
             <td>Registro y Gestión de Espacios</td>
             <td>
                 <strong>Como</strong> propietario de un espacio para eventos en AlquilaFácil, 
@@ -1302,7 +1302,7 @@ A continuación se pueden apreciar los Empathy Mapping de los segmentos objetivo
             <td>N/A</td>         
         </tr>
         <tr>
-            <td>EPIC-002</td>
+            <td>EP02</td>
             <td>Búsqueda y Reserva de Espacios</td>
             <td>
                 <strong>Como</strong> organizador de eventos en AlquilaFácil, 
@@ -1313,7 +1313,7 @@ A continuación se pueden apreciar los Empathy Mapping de los segmentos objetivo
             <td>N/A</td>
         </tr>
         <tr>
-            <td>EPIC-003</td>
+            <td>EP03</td>
             <td>Interacción y Comunicación Directa</td>
             <td>
                 <strong>Como</strong> usuario de AlquilaFácil, 
@@ -1324,7 +1324,7 @@ A continuación se pueden apreciar los Empathy Mapping de los segmentos objetivo
             <td>N/A</td>
         </tr> 
         <tr>
-            <td>EPIC-004</td>
+            <td>EP04</td>
             <td>Calificaciones y Comentarios</td>
             <td>
                 <strong>Como</strong> usuario de AlquilaFácil, 
@@ -1335,7 +1335,7 @@ A continuación se pueden apreciar los Empathy Mapping de los segmentos objetivo
             <td>N/A</td>
         </tr> 
         <tr>
-            <td>EPIC-005</td>
+            <td>EP05</td>
             <td>Gestión de Reservas</td>
             <td>
                 <strong>Como</strong> usuario de AlquilaFácil, 
@@ -1346,7 +1346,7 @@ A continuación se pueden apreciar los Empathy Mapping de los segmentos objetivo
             <td>N/A</td>       
         </tr>   
         <tr>
-            <td>EPIC-006</td>
+            <td>EP06</td>
             <td>Seguridad y Confianza</td>
             <td>
                 <strong>Como</strong> usuario de AlquilaFácil, 
@@ -1371,7 +1371,7 @@ A continuación se pueden apreciar los Empathy Mapping de los segmentos objetivo
     </thead>
     <body>
         <tr style="text-align:center">
-            <td>UH01</td>
+            <td>US01</td>
             <td>Hipervínculos en el encabezado</td>
             <!-- Descripción -->
             <td> 
@@ -1393,10 +1393,10 @@ A continuación se pueden apreciar los Empathy Mapping de los segmentos objetivo
             <strong>Cuando</strong> el usuario hace clic en una opción del menú de navegación.
             <strong>Entonces</strong> la página se desplaza suavemente a la sección correspondiente, adaptándose al tamaño de la pantalla del dispositivo.
             </td> 
-            <td>EPIC-001</td>           
+            <td>EP01</td>           
         </tr>
         <tr style="text-aling:center">
-            <td>UH02</td>
+            <td>US02</td>
             <td>Registro de Propietario</td>
             <!-- Descripción -->
             <td> 
@@ -1417,10 +1417,10 @@ A continuación se pueden apreciar los Empathy Mapping de los segmentos objetivo
             <strong>Cuando</strong> el propietario envía el formulario.
             <strong>Entonces</strong> los datos proporcionados se validan para garantizar la precisión y la autenticidad.
             </td>
-            <td>EPIC-001</td>
+            <td>EP01</td>
         </tr>
         <tr style="text-aling:center">
-            <td>UH03</td>
+            <td>US03</td>
             <td>Búsqueda y Filtrado de Espacios</td>
             <!-- Descripción -->
             <td> 
@@ -1441,10 +1441,10 @@ A continuación se pueden apreciar los Empathy Mapping de los segmentos objetivo
             <strong>Cuando</strong> el organizador aplica un filtro de capacidad en la búsqueda.
             <strong>Entonces</strong> se muestran solo los espacios que cumplen con ese criterio.
             </td>
-            <td>EPIC-002</td>
+            <td>EP02</td>
         </tr>
         <tr style="text-aling:center">
-            <td>UH04</td>
+            <td>US04</td>
             <td>Reservas de Espacios</td>
             <!-- Descripción -->
             <td> 
@@ -1465,10 +1465,10 @@ A continuación se pueden apreciar los Empathy Mapping de los segmentos objetivo
             <strong>Cuando</strong> el organizador envía la solicitud de reserva.
             <strong>Entonces</strong> recibe una confirmación de reserva y los detalles se actualizan en su cuenta.
             </td>
-            <td>EPIC-002</td>
+            <td>EP02</td>
         </tr>
         <tr style="text-aling:center">
-            <td>UH05</td>
+            <td>US05</td>
             <td>Calificaciones y Comentarios sobre Espacios</td>
             <!-- Descripción -->
             <td> 
@@ -1489,10 +1489,10 @@ A continuación se pueden apreciar los Empathy Mapping de los segmentos objetivo
             <strong>Cuando</strong> el evento ha concluido.
             <strong>Entonces</strong> el organizador puede dejar un comentario y una calificación sobre su experiencia en ese espacio.
             </td>
-            <td>EPIC-005</td>
+            <td>EP05</td>
         </tr>
         <tr style="text-aling:center">
-            <td>UH06</td>
+            <td>US06</td>
             <td>Notificaciones de Disponibilidad</td>
             <!-- Descripción -->
             <td> 
@@ -1513,10 +1513,10 @@ A continuación se pueden apreciar los Empathy Mapping de los segmentos objetivo
             <strong>Cuando</strong> se acerca la fecha del evento.
             <strong>Entonces</strong> el propietario recibe recordatorios automáticos para gestionar las reservas.
             </td>
-            <td>EPIC-005</td>
+            <td>EP05</td>
         </tr>
         <tr style="text-aling:center">
-            <td>UH07</td>
+            <td>US07</td>
             <td>Soporte al Cliente</td>
             <!-- Descripción -->
             <td> 
@@ -1537,10 +1537,10 @@ A continuación se pueden apreciar los Empathy Mapping de los segmentos objetivo
             <strong>Cuando</strong> el usuario visita el Centro de Ayuda en AlquilaFácil.
             <strong>Entonces</strong> encuentra respuestas claras y detalladas a sus preguntas frecuentes.
             </td>
-            <td>EPIC-006</td>
+            <td>EP06</td>
         </tr>
         <tr style="text-aling:center">
-            <td>UH08</td>
+            <td>US08</td>
             <td>Calendario de Disponibilidad</td>
             <!-- Descripción -->
             <td> 
@@ -1561,10 +1561,10 @@ A continuación se pueden apreciar los Empathy Mapping de los segmentos objetivo
             <strong>Cuando</strong> realiza cambios en su calendario externo.
             <strong>Entonces</strong> esos cambios se reflejan automáticamente en su calendario de disponibilidad en AlquilaFácil.
             </td>
-            <td>EPIC-005</td>
+            <td>EP05</td>
         </tr>
         <tr style="text-aling:center">
-            <td>UH09</td>
+            <td>US09</td>
             <td>Promoción de Espacios Destacados</td>
             <!-- Descripción -->
             <td> 
@@ -1585,10 +1585,10 @@ A continuación se pueden apreciar los Empathy Mapping de los segmentos objetivo
             <strong>Cuando</strong> realiza una búsqueda.
             <strong>Entonces</strong> los espacios destacados aparecen en los primeros resultados de búsqueda, aumentando su visibilidad.
             </td>   
-            <td>EPIC-002</td>
+            <td>EP02</td>
         </tr>
         <tr style="text-aling:center">
-            <td>UH10</td>
+            <td>US10</td>
             <td>Reseñas Recompensadas</td>
             <!-- Descripción -->
             <td> 
@@ -1609,10 +1609,10 @@ A continuación se pueden apreciar los Empathy Mapping de los segmentos objetivo
             <strong>Cuando</strong> su reseña es validada por el sistema.
             <strong>Entonces</strong> el usuario recibe una recompensa, como descuentos en futuras reservas o puntos de fidelidad.
             </td>
-            <td>EPIC-004</td>
+            <td>EP04</td>
         </tr>
         <tr style="text-aling:center">
-            <td>UH11</td>
+            <td>US11</td>
             <td>Calidad de Servicio Garantizada</td>
             <!-- Descripción -->
             <td> 
@@ -1633,10 +1633,10 @@ A continuación se pueden apreciar los Empathy Mapping de los segmentos objetivo
             <strong>Cuando</strong> concluye el evento.
             <strong>Entonces</strong> tiene la opción de dejar una reseña y calificación sobre la calidad del servicio recibido.
             </td>
-            <td>EPIC-006</td>
+            <td>EP06</td>
         </tr>
         <tr style="text-aling:center">
-            <td>UH12</td>
+            <td>US12</td>
             <td>Acceso a Espacios Exclusivos</td>
             <!-- Descripción -->
             <td> 
@@ -1657,10 +1657,10 @@ A continuación se pueden apreciar los Empathy Mapping de los segmentos objetivo
             <strong>Cuando</strong> realiza la reserva.
             <strong>Entonces</strong> recibe confirmación inmediata y acceso prioritario al espacio seleccionado.
             </td>
-            <td>EPIC-002</td>
+            <td>EP02</td>
         </tr>
         <tr style="text-aling:center">
-            <td>UH13</td>
+            <td>US13</td>
             <td>Flexibilidad en Reservas</td>
             <!-- Descripción -->
             <td> 
@@ -1681,10 +1681,10 @@ A continuación se pueden apreciar los Empathy Mapping de los segmentos objetivo
             <strong>Cuando</strong> solicita cancelar la reserva.
             <strong>Entonces</strong> recibe orientación sobre el proceso de cancelación y cualquier reembolso aplicable.
             </td>
-            <td>EPIC-002</td>
+            <td>EP02</td>
         </tr>
         <tr style="text-aling:center">
-            <td>UH14</td>
+            <td>US14</td>
             <td>Experiencia de Reserva Transparente</td>
             <!-- Descripción -->
             <td> 
@@ -1705,10 +1705,10 @@ A continuación se pueden apreciar los Empathy Mapping de los segmentos objetivo
             <strong>Cuando</strong> revisa el resumen de costos antes de finalizar la reserva.
             <strong>Entonces</strong> no hay sorpresas, y todos los costos adicionales, como tarifas de servicio o impuestos, están claramente indicados.
             </td>
-            <td>EPIC-002</td>
+            <td>EP02</td>
         </tr>
         <tr style="text-aling:center">
-            <td>UH15</td>
+            <td>US15</td>
             <td>Comunicación Directa con Propietarios</td>
             <!-- Descripción -->
             <td> 
@@ -1729,10 +1729,10 @@ A continuación se pueden apreciar los Empathy Mapping de los segmentos objetivo
             <strong>Cuando</strong> envía un mensaje al propietario.
             <strong>Entonces</strong> recibe una respuesta oportuna y personalizada para abordar sus inquietudes.
             </td>
-            <td>EPIC-003</td>
+            <td>EP03</td>
         </tr>
         <tr style="text-aling:center">
-            <td>UH16</td>
+            <td>US16</td>
             <td>Registro de Espacio Sencillo</td>
             <!-- Descripción -->
             <td> 
@@ -1753,10 +1753,10 @@ A continuación se pueden apreciar los Empathy Mapping de los segmentos objetivo
             <strong>Cuando</strong> carga imágenes de alta calidad que muestren el espacio y sus características.
             <strong>Entonces</strong> las fotos se muestran correctamente en el perfil del espacio, ayudando a atraer a posibles organizadores de eventos.
             </td>
-            <td>EPIC-001</td>
+            <td>EP01</td>
         </tr>
         <tr style="text-aling:center">
-            <td>UH17</td>
+            <td>US17</td>
             <td>Gestión Flexible de Disponibilidad</td>
             <!-- Descripción -->
             <td> 
@@ -1777,10 +1777,10 @@ A continuación se pueden apreciar los Empathy Mapping de los segmentos objetivo
             <strong>Cuando</strong> revisa la solicitud y necesita ajustar la disponibilidad del espacio.
             <strong>Entonces</strong> puede hacer cambios rápidos y comunicarse con el organizador del evento según sea necesario.
             </td>
-            <td>EPIC-001</td>
+            <td>EP01</td>
         </tr>
         <tr style="text-aling:center">
-            <td>UH18</td>
+            <td>US18</td>
             <td>Comunicación Directa con Organizadores</td>
             <!-- Descripción -->
             <td> 
@@ -1801,10 +1801,10 @@ A continuación se pueden apreciar los Empathy Mapping de los segmentos objetivo
             <strong>Cuando</strong> necesitan confirmar los detalles finales y asegurar la reserva.
             <strong>Entonces</strong> pueden comunicarse directamente para coordinar y confirmar la reserva de manera efectiva.
             </td>
-            <td>EPIC-003</td>
+            <td>EP03</td>
         </tr>
         <tr style="text-aling:center">
-            <td>UH19</td>
+            <td>US19</td>
             <td>Perfil Personalizado de Espacio</td>
             <!-- Descripción -->
             <td> 
@@ -1825,10 +1825,10 @@ A continuación se pueden apreciar los Empathy Mapping de los segmentos objetivo
             <strong>Cuando</strong> actualiza la descripción, agrega nuevas fotos o modifica los servicios disponibles.
             <strong>Entonces</strong> los cambios se reflejan instantáneamente en el perfil del espacio, manteniendo la información actualizada y precisa.
             </td>
-            <td>EPIC-001</td>
+            <td>EP01</td>
         </tr>
         <tr style="text-aling:center">
-            <td>UH20</td>
+            <td>US20</td>
         <td>Recibir Notificaciones de Reservas</td>
         <!-- Descripción -->
         <td> 
@@ -1849,10 +1849,10 @@ A continuación se pueden apreciar los Empathy Mapping de los segmentos objetivo
         <strong>Cuando</strong> hay cambios en el estado de una reserva, como confirmación o cancelación.
         <strong>Entonces</strong> el propietario recibe notificaciones automáticas para mantenerlo informado sobre el estado actual de sus reservas.
         </td>
-        <td>EPIC-001</td>
+        <td>EP01</td>
         </tr>         
         <tr style="text-align:center">
-        <td>TS001</td>
+        <td>TS01</td>
         <td>Crear Usuario</td>
         <td>
         <strong>Como</strong> desarrollador backend en AlquilaFácil,
@@ -1871,7 +1871,7 @@ A continuación se pueden apreciar los Empathy Mapping de los segmentos objetivo
     </td>
     <td>
     <tr style="text-align:center">
-    <td>TS002</td>
+    <td>TS02</td>
     <td>Autenticación de Usuario</td>
     <td>
         <strong>Como</strong> desarrollador backend en AlquilaFácil,
@@ -1889,7 +1889,7 @@ A continuación se pueden apreciar los Empathy Mapping de los segmentos objetivo
         <strong>entonces</strong> se le niega el acceso y se muestra un mensaje de error.
     </td>
     <td><tr style="text-align:center">
-    <td>TS003</td>
+    <td>TS03</td>
     <td>Crear Espacio</td>
     <td>
         <strong>Como</strong> desarrollador backend en AlquilaFácil,
@@ -1907,7 +1907,7 @@ A continuación se pueden apreciar los Empathy Mapping de los segmentos objetivo
         <strong>entonces</strong> retorno un mensaje de error indicando la razón del fallo en la creación del espacio.
     </td>
     <td><tr style="text-align:center">
-    <td>TS004</td>
+    <td>TS04</td>
     <td>Actualizar Espacio</td>
     <td>
         <strong>Como</strong> desarrollador backend en AlquilaFácil,
@@ -1925,7 +1925,7 @@ A continuación se pueden apreciar los Empathy Mapping de los segmentos objetivo
         <strong>entonces</strong> retorno un mensaje de error indicando la razón del fallo en la actualización del espacio.
     </td>
     <td><tr style="text-align:center">
-    <td>TS005</td>
+    <td>TS05</td>
     <td>Eliminar Espacio</td>
     <td>
         <strong>Como</strong> desarrollador backend en AlquilaFácil,
@@ -1944,7 +1944,7 @@ A continuación se pueden apreciar los Empathy Mapping de los segmentos objetivo
     </td>
     </tr> 
     <tr style="text-align:center">
-    <td>TS006</td>
+    <td>TS06</td>
     <td>Buscar Espacios</td>
     <td>
         <strong>Como</strong> desarrollador backend en AlquilaFácil,
