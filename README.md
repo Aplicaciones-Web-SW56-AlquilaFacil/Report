@@ -1961,10 +1961,8 @@ A continuación se pueden apreciar los Empathy Mapping de los segmentos objetivo
         <strong>cuando</strong> no hay espacios que coincidan con los criterios de búsqueda o los criterios son inválidos,
         <strong>entonces</strong> retorno un mensaje indicando que no se encontraron resultados.
     </td>
-    <td></td>
-</tr>      
+    </tr>      
     </body>
-
 </table>
 
 ## 3.3. Impact Mapping
@@ -1979,142 +1977,188 @@ A continuación se pueden apreciar los Empathy Mapping de los segmentos objetivo
 ## 3.4. Product Backlog
 
 Utilizamos la escala de Fibonacci para la estimación de los Story Points 
+<table>
+    <thead>
+        <tr>
+            <th>Sprint #</th>
+            <th>Título</th>
+            <th>Descripción</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1</td>
+            <td>Experiencia de usuario</td>
+            <td>Este sprint se centra en elementos de la interfaz de usuario, como la reserva de espacios y la configuración personalizada. Buscamos mejorar la experiencia del usuario.</td>    
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>Funcionalidades avanzadas - clientes</td>
+            <td>En este sprint, introduciremos características más complejas, como notificaciones directas de reservas y promoción de espacios. Estamos avanzando en las capacidades del proyecto.</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>Funcionalidades avanzadas - propietarios</td>
+            <td>En este sprint, mejoraremos las funcionalidades existentes, como la gestión directa de espacios y la calidad del servicio.</td>
+        </tr>  
+    </tbody>
+</table>
+
 
 <table>
         <thead>
             <tr>
-                <th>Orden</th>
+                <th>Sprint</th>
                 <th>User Story Id</th>
                 <th>Título</th>
                 <th>Descripción</th>
-                <th>Story Points (1/2/3/5/8)</th>
+                <th>Story Points (1/2/3/5)</th>
             </tr>
         </thead>
         <tbody>
-        <tr>
-            <td>1</td>
-            <td>UH18</td>
-            <td>Comunicación Directa con Organizadores</td>
-            <td>Como propietario de un espacio para eventos en AlquilaFácil, quiero poder comunicarme directamente con los organizadores de eventos interesados para aclarar dudas, discutir detalles y confirmar reservas de manera efectiva.</td>
-            <td>8</td>
-        </tr>
-        <tr>
-            <td>2</td>
-            <td>UH12</td>
-            <td>Acceso a Espacios Exclusivos</td>
-            <td>Como organizador de eventos en AlquilaFácil, quiero poder acceder a espacios exclusivos y populares para destacar mi evento y ofrecer una experiencia única a mis invitados.</td>
-            <td>5</td>
-        </tr>
-        <tr>
-            <td>3</td>
-            <td>UH15</td>
-            <td>Comunicación Directa con Propietarios</td>
-            <td>Como organizador de eventos en AlquilaFácil, quiero poder comunicarme directamente con los propietarios de los espacios para aclarar dudas, coordinar detalles y resolver cualquier problema de manera rápida y efectiva.</td>
-            <td>8</td>
-        </tr>
-        <tr>
-            <td>4</td>
-            <td>UH10</td>
-            <td>Reseñas Recompensadas</td>
-            <td>Como usuario de AlquilaFácil, quiero poder dejar reseñas sobre los espacios que he utilizado para compartir mi experiencia con otros usuarios y ganar recompensas por mi participación.</td>
-            <td>5</td>
-        </tr>
-        <tr>
-            <td>5</td>
-            <td>UH05</td>
-            <td>Calificaciones y Comentarios sobre Espacios</td>
-            <td>Como organizador de eventos, quiero poder ver las calificaciones y comentarios de otros usuarios sobre los espacios en AlquilaFácil para tomar una decisión informada al seleccionar un espacio para mi evento.</td>
-            <td>3</td>
-        </tr>
-        <tr>
-            <td>6</td>
-            <td>UH17</td>
-            <td>Gestión Flexible de Disponibilidad</td>
-            <td>Como propietario de un espacio para eventos en AlquilaFácil, quiero tener la capacidad de gestionar la disponibilidad de mi espacio de manera flexible para adaptarme a cambios de horarios y necesidades de reserva.</td>
-            <td>8</td>
-        </tr>
-        <tr>
-            <td>7</td>
-            <td>UH03</td>
-            <td>Búsqueda y Filtrado de Espacios</td>
-            <td>Como organizador de eventos, quiero poder buscar y filtrar fácilmente espacios disponibles en AlquilaFácil para encontrar el lugar perfecto para mi evento, según mis criterios específicos.</td>
-            <td>2</td>
-        </tr>
-        <tr>
-            <td>8</td>
-            <td>UH01</td>
-            <td>Hipervínculos en el Encabezado</td>
-            <td>Como visitante de la plataforma AlquilaFácil, quiero que las opciones del menú de navegación me dirijan a las diferentes secciones de la plataforma para poder acceder rápidamente a la información que necesito.</td>
-            <td>1</td>
-        </tr>
-        <tr>
-        <td>9</td>
-        <td>TS001</td>
-        <td>Crear Usuario</td>
-        <td>
-            Como desarrollador backend en AlquilaFácil,
-            quiero implementar una funcionalidad para crear nuevos usuarios en la base de datos
-            para permitir que los usuarios se registren en la plataforma.
-        </td>
-        <td>5</td>
-    </tr>
-    <tr>
-        <td>10</td>
-        <td>TS002</td>
-        <td>Autenticación de Usuario</td>
-        <td>
-            Como desarrollador backend en AlquilaFácil,
-            quiero implementar un sistema de autenticación de usuario
-            para garantizar la seguridad de la plataforma y la privacidad de los usuarios.
-        </td>
-    <td>5</td>
-    </tr>
-    <tr>
-    <td>11</td>
-    <td>TS003</td>
-    <td>Crear Espacio</td>
-    <td>
-        Como desarrollador backend en AlquilaFácil,
-        quiero implementar una funcionalidad para que los propietarios puedan crear nuevos espacios
-        para ampliar la oferta de espacios disponibles en la plataforma.
-    </td>
-    <td>5</td>
-    </tr>
-    <tr>
-    <td>12</td>
-    <td>TS004</td>
-    <td>Actualizar Espacio</td>
-    <td>
-        Como desarrollador backend en AlquilaFácil,
-        quiero implementar una funcionalidad para que los propietarios puedan actualizar la información de sus espacios
-        para mantener la precisión y actualización de los listados de espacios en la plataforma.
-    </td>
-    <td>3</td>
-    </tr>
-    <tr>
-    <td>13</td>
-    <td>TS005</td>
-    <td>Eliminar Espacio</td>
-    <td>
-        Como desarrollador backend en AlquilaFácil,
-        quiero implementar una funcionalidad para que los propietarios puedan eliminar espacios existentes
-        para mantener la integridad de la plataforma y la calidad de los listados de espacios.
-    </td>
-    <td>3</td>
-</tr>
-<tr>
-    <td>14</td>
-    <td>TS006</td>
-    <td>Buscar Espacios</td>
-    <td>
-        <strong>Como</strong> desarrollador backend en AlquilaFácil,
-        <strong>quiero</strong> implementar una funcionalidad de búsqueda de espacios
-        <strong>para</strong> permitir a los usuarios encontrar espacios disponibles que se ajusten a sus necesidades y preferencias.
-    </td>
-    <td>5</td>
-</tr>
+            <tr>
+                <td>1</td>
+                <td>EP01/US01</td>
+                <td>Hipervínculos en el encabezado</td>
+                <td>Como visitante de la plataforma AlquilaFácil, quiero que las opciones del menú de navegación me dirijan a las diferentes secciones de la plataforma para poder acceder rápidamente a la información que necesito.</td>
+                <td>1</td>
+            </tr>
+            <tr>
+                <td>1</td>
+                <td>EP01/US02</td>
+                <td>Registro de propietario</td>
+                <td>Como propietario de un espacio para eventos, quiero poder registrarme fácilmente en AlquilaFácil para ofrecer mi espacio en alquiler y llegar a más clientes potenciales.</td>
+                <td>1</td>
+            </tr>
+            <tr>
+                <td>1</td>
+                <td>EP02/US03</td>
+                <td>Búsqueda y filtrado de espacios</td>
+                <td>Como organizador de eventos, quiero poder buscar y filtrar fácilmente espacios disponibles en AlquilaFácil para encontrar el lugar perfecto para mi evento, según mis criterios específicos.</td>
+                <td>2</td>
+            </tr>
+            <tr>
+                <td>1</td>
+                <td>EP02/US04</td>
+                <td>Reservas de espacios</td>
+                <td>Como organizador de eventos, quiero poder reservar un espacio para mi evento en AlquilaFácil para garantizar su disponibilidad en la fecha deseada.</td>
+                <td>1</td>
+            </tr>
+            <tr>
+                <td>1</td>
+                <td>EP01/US16</td>
+                <td>Registro de espacio sencillo</td>
+                <td>Como propietario de un espacio para eventos en AlquilaFácil, quiero poder registrar mi espacio de manera rápida y sencilla para comenzar a recibir solicitudes de reserva lo antes posible.</td>
+                <td>2</td>
+            </tr>
+            <tr>
+                <td>1</td>
+                <td>EP01/US19</td>
+                <td>Perfil personalizado de espacio</td>
+                <td>Como propietario de un espacio para eventos en AlquilaFácil, quiero tener un perfil personalizado para mi espacio para destacar sus características únicas y atraer a posibles organizadores de eventos.</td>
+                <td>1</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>EP05/US05</td>
+                <td>Calificaciones y comentarios sobre espacios</td>
+                <td>Como organizador de eventos, quiero poder ver las calificaciones y comentarios de otros usuarios sobre los espacios en AlquilaFácil para tomar una decisión informada al seleccionar un espacio para mi evento.</td>
+                <td>3</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>EP06/US07</td>
+                <td>Soporte al cliente</td>
+                <td>Como usuario de AlquilaFácil, quiero tener acceso a un servicio de soporte eficiente y amigable para resolver cualquier consulta o problema que pueda surgir durante el uso de la plataforma.</td>
+                <td>3</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>EP04/US10</td>
+                <td>Reseñas recompensadas</td>
+                <td>Como usuario de AlquilaFácil, quiero poder dejar reseñas sobre los espacios que he utilizado para compartir mi experiencia con otros usuarios y ganar recompensas por mi participación.</td>
+                <td>2</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>EP06/US11</td>
+                <td>Calidad de servicio garantizada</td>
+                <td>Como organizador de eventos en AlquilaFácil, quiero tener la certeza de que los espacios disponibles cumplen con altos estándares de calidad y seguridad para garantizar una experiencia positiva para mis invitados.</td>
+                <td>3</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>EP02/US12</td>
+                <td>Acceso a espacios exclusivos</td>
+                <td>Como organizador de eventos en AlquilaFácil, quiero poder acceder a espacios exclusivos y populares para destacar mi evento y ofrecer una experiencia única a mis invitados.</td>
+                <td>3</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>EP02/US13</td>
+                <td>Flexibilidad en reservas</td>
+                <td>Como organizador de eventos en AlquilaFácil, quiero tener opciones flexibles de reserva para adaptarme a cambios de última hora en la planificación de mi evento.</td>
+                <td>5</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>EP02/US14</td>
+                <td>Experiencia de reserva transparente</td>
+                <td>Como organizador de eventos en AlquilaFácil, quiero tener acceso a información transparente sobre tarifas, políticas y términos de reserva para tomar decisiones informadas y evitar sorpresas desagradables.</td>
+                <td>3</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>EP03/US15</td>
+                <td>Comunicación directa con propietarios</td>
+                <td>Como organizador de eventos en AlquilaFácil, quiero poder comunicarme directamente con los propietarios de los espacios para aclarar dudas, coordinar detalles y resolver cualquier problema de manera rápida y efectiva.</td>
+                <td>5</td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>EP05/US06</td>
+                <td>Notificaciones de disponibilidad</td>
+                <td>Como propietario de un espacio para eventos en AlquilaFácil, quiero recibir notificaciones cuando mi espacio esté disponible para reservar para estar al tanto de las solicitudes de reserva y gestionarlas eficientemente.</td>
+                <td>3</td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>EP05/US08</td>
+                <td>Calendario de disponibilidad</td>
+                <td>Como propietario de un espacio en AlquilaFácil, quiero poder gestionar fácilmente mi calendario de disponibilidad para evitar conflictos de reservas y mantener mi agenda organizada.</td>
+                <td>3</td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>EP02/US09</td>
+                <td>Promoción de espacios destacados</td>
+                <td>Como propietario de un espacio en AlquilaFácil, quiero poder destacar mi espacio para aumentar su visibilidad y atraer más clientes para aumentar las posibilidades de reserva.</td>
+                <td>3</td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>EP01/US17</td>
+                <td>Gestión flexible de disponibilidad</td>
+                <td>Como propietario de un espacio para eventos en AlquilaFácil, quiero tener la capacidad de gestionar la disponibilidad de mi espacio de manera flexible para adaptarme a cambios de horarios y necesidades de reserva.</td>
+                <td>5</td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>EP03/US18</td>
+                <td>Comunicación directa con organizadores</td>
+                <td>Como propietario de un espacio para eventos en AlquilaFácil, quiero poder comunicarme directamente con los organizadores de eventos interesados para aclarar dudas, discutir detalles y confirmar reservas de manera efectiva.</td>
+                <td>5</td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>EP01/US20</td>
+                <td>Recibir Notificaciones de Reservas</td>
+                <td>Como propietario de un espacio para eventos en AlquilaFácil, quiero recibir notificaciones instantáneas sobre nuevas solicitudes de reserva y actualizaciones en el estado de mis reservas para estar al tanto de las actividades relacionadas con mi espacio en todo momento.</td>
+                <td>3</td>
+            </tr>
         </tbody>
 </table>
+
 
 # Capítulo IV: Product Design
 ## 4.1. Style Guidelines.
