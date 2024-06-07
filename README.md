@@ -3619,7 +3619,7 @@ La documentación se ha enriquecido con la expansión de la visión de negocio y
             y colaboración en pos de la excelencia en nuestros proyectos.
 
 Para garantizar un progreso continuo en nuestros proyectos, es esencial que perfeccionemos la estimación del desarrollo 
-de los wireframes y mockups. Esto evitará posibles desajustes en nuestro calendario y garantizará un flujo de trabajo más estable.
+del despliegue del backend y la conexión a la base de datos. Esto evitará posibles desajustes en nuestro calendario y garantizará un flujo de trabajo más estable.
 
 Debemos hacer un uso más frecuente y consistente del formato Markdown en nuestra documentación y comunicaciones, ya que 
 esto facilitará la lectura y comprensión de la información por parte de todos los miembros del equipo.  
@@ -3635,7 +3635,7 @@ esto facilitará la lectura y comprensión de la información por parte de todos
             <b>Sprint 2 Velocity</b>
         </td>
         <td>
-            8
+            6
         </td>
     </tr>
        <tr align="left">
@@ -3650,21 +3650,21 @@ esto facilitará la lectura y comprensión de la información por parte de todos
 
 
 
-#### 5.2.2.2. Sprint Backlog 2
+#### 5.2.3.2. Sprint Backlog 3
 
 <div align=center>
-   <img src="assets/sprint-bl-2.png" alt="carrusel"></img>
+   <img src="assets/sprint3.png" alt="carrusel"></img>
 </div>
 
 Link del trello:
-https://trello.com/invite/b/ItvMKaLE/ATTI7156bcc6b5642cda7f0abe5ebff9185a109B5CD3/alquilafacil-sprint-2
+https://trello.com/invite/b/eOg2zWv9/ATTId65f84c9493caa33856147ff3e4a01e8CA9B3701/alquilafacil-sprint-3
 
 </br>
 
 <table align="center" border="1" width="90%" style="text-align:center">
     <tr>
        <td colspan="1"><b>Sprint #</b></td>
-       <td colspan="7"><b>Sprint 2</b></td>
+       <td colspan="7"><b>Sprint 3</b></td>
      </tr>
      <tr>
        <td colspan="2"><b>User Story</b></td>
@@ -3681,77 +3681,128 @@ https://trello.com/invite/b/ItvMKaLE/ATTI7156bcc6b5642cda7f0abe5ebff9185a109B5CD
        <td><b>Status(To-do/ In-Process/ To-Review/ Done)</b></td>
      </tr>
      <tr>
-       <td rowspan="3">US01</td>
-       <td rowspan="3">Implementación del user content</td>
+       <td rowspan="3">TS07</td>
+       <td rowspan="3">Acceder a Endpoints</td>
        <td>T01</td>
-       <td>Agregar feature/user</td>
-       <td>Agregar el frontend para login y register</td>
-       <td>6</td>
+       <td>Agregar feature/users</td>
+       <td>Agregar el aggregate de user</td>
+       <td>4</td>
        <td>Italo Luna</td>
        <td>Done</td>
     </tr>
     <tr>
        <td>T02</td>
-       <td>Agregar login frontend</td>
-       <td>Dar formato y estilo a la sección principal</td>
+       <td>Agregar feature/properties</td>
+       <td>Agregar el aggregate de propertie</td>
        <td>4</td>
-       <td>Italo Luna</td>
+       <td>Augusto Plin</td>
        <td>Done</td>
     </tr>
      <tr>
        <td>T03</td>
-       <td>Agregar register frontend</td>
-       <td>Dar formato y estilo al pie de página </td>
+       <td>Agregar feature/subscriptions</td>
+       <td>Agregar el aggregate de subscription</td>
        <td>4</td>
-       <td>Antonio</td>
+       <td>Angel Cancho y Brenda Gamio</td>
        <td>Done</td>
     </tr>
     <tr>
-       <td rowspan="2">US02</td>
-       <td rowspan="2">Implementación de feature/create-space</td>
+       <td>TS08</td>
+       <td>Registrar User</td>
        <td>T04</td>
-       <td>Agregar frontend para agregar locales</td>
-       <td>Poner procesos de registro de local</td>
-       <td>4</td>
-       <td>Brenda Gamio</td>
-       <td>Done</td>
-    </tr>
-    <tr>
-       <td>T05</td>
-       <td>Agregar CSS footer (media queries)</td>
-       <td>Hacer responsive al pie de página
-    </td>
+       <td>Agregar aggregate para agregar usuarios</td>
+       <td>Poner procesos de registro de usuarios</td>
        <td>4</td>
        <td>Italo Luna</td>
        <td>Done</td>
     </tr>
-   <tr>
-       <td>US03</td>
-       <td>Implementación de subscription</td>
+    <tr>
+       <td rowspan="3">TS09</td>
+       <td rowspan="3">Registrar Spaces</td>
+       <td>T05</td>
+       <td>Agregar aggregate para agregar espacios</td>
+       <td>Poner procesos de registro de espacios</td>
+       <td>4</td>
+       <td>Augusto Plin</td>
+       <td>Done</td>
+    </tr>
+    <tr>
        <td>T06</td>
-       <td>Agregar de subscripciones y planes</td>
-       <td>Agregar comportamientos dinámicos al botón y mostrar tarjetas</td>
-       <td>6</td>
-       <td>Augusto Pin</td>
+       <td>Creación de persistencia de la entidad Space</td>
+       <td>Agregar la entidad Space</td>
+       <td>2</td>
+       <td>Augusto Plin</td>
+       <td>Done</td>
+    </tr>
+     <tr>
+       <td>T07</td>
+       <td>Creación de resource de la entidad Space</td>
+       <td>Agregar servicios para obtener y mandar recursos</td>
+       <td>2</td>
+       <td>Augusto Plin</td>
        <td>Done</td>
     </tr>
    <tr>
-       <td>US04</td>
-       <td>Implementación de content</td>
-       <td>T07</td>
+       <td rowspan="4">TS10</td>
+       <td rowspan="4">Registrar Subscriptions</td>
+       <td>T08</td>
+       <td>Agregar aggregate para agregar subscripciones</td>
+       <td>Poner procesos de registro de subscripciones</td>
+       <td>4</td>
+       <td>Angel Cancho</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T09</td>
+       <td>Creación de la entidad Plan</td>
+       <td>Agregar la entidad Plan</td>
+       <td>2</td>
+       <td>Brenda Gamio</td>
+       <td>Done</td>
+    </tr>
+     <tr>
+       <td>T10</td>
+       <td>Creación de resource de la entidad Subscription</td>
+       <td>Agregar servicios para obtener y mandar recursos</td>
+       <td>2</td>
+       <td>Angel Cancho</td>
+       <td>Done</td>
+    </tr>
+     <tr>
+       <td>T11</td>
+       <td>Creación de resource de la entidad Plan</td>
+       <td>Agregar servicios para obtener y mandar recursos</td>
+       <td>2</td>
+       <td>Brenda Gamio</td>
+       <td>Done</td>
+    </tr>
+   <tr>
+       <td>TS11</td>
+       <td>Creación de resource de la entidad User</td>
+       <td>T12</td>
+       <td>Agregar la entidad User</td>
+       <td>Agregar comportamientos dinámicos al botón y mostrar tarjetas</td>
+       <td>2</td>
+       <td>Italo Luna</td>
+       <td>Done</td>
+    </tr>
+   <tr>
+       <td>TS12</td>
+       <td>Creación de resource de la entidad User</td>
+       <td>T13</td>
        <td>Agregar home de la app</td>
-       <td>Diseñar una portada atractiva y un detail util</td>
-       <td>6</td>
-       <td>Augusto Pin</td>
+       <td>Agregar servicios para obtener y mandar recursos</td>
+       <td>2</td>
+       <td>Italo Luna</td>
        <td>Done</td>
     </tr>
 </table>
 
-#### 5.2.2.3. Development Evidence for Sprint Review.
+#### 5.2.3.3. Development Evidence for Sprint Review.
 | Repository                                                      | Branch   | Commit id | Commit Message                                    | Commit Message Body                               | Commited on (Date) |
 |-----------------------------------------------------------------|----------|-----------|---------------------------------------------------|---------------------------------------------------|-------------------- 
-|https://github.com/Aplicaciones-Web-SW56-AlquilaFacil/Frontend   | main  | 62053d1   | feat: added deployment | feat: added deployment | 02/05/2024         | 
-|                                                                 | feature/bounded-content | f89b305   | fix: implemented DDD in bounded create space            | fix: implemented DDD in bounded create space            | 01/05/2024         | 
+|https://github.com/Aplicaciones-Web-SW56-AlquilaFacil/Backend   | master  | f2cd543 | chore: initial commit | chore: initial commit | 29/05/2024         | 
+|                                                                 | feature/profiles | f89b305   | fix: implemented DDD in bounded create space            | fix: implemented DDD in bounded create space            | 01/05/2024         | 
 |                                                                 | feature/bounded-create-space | 583842b   | fix: addded implementation in navbar            | fix: addded implementation in navbar            | 30/04/2024         | 
 |                                                                 | feature/bounded-subscription | b4275f2   | feat: added footer and navbar            | feat: added footer and navbar            | 29/04/2024         | 
 |                                                                 | feature/bounded-user   | ee785fd   | feat: add content for confirm direction component                 | feat: add content for confirm direction component                 | 01/05/2024         | 
