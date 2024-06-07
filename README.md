@@ -251,6 +251,15 @@ Se construyó el progreso del proyecto sobre una colaboración cercana y equitat
     - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
     - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
     - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+  - [5.2.2. Sprint 2](#522-sprint-2)
+    - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)
+    - [5.2.2.2. Sprint Backlog 2](#5222-sprint-backlog-2)
+    - [5.2.2.3. Development Evidence for Sprint Review](#5223-development-evidence-for-sprint-review)
+    - [5.2.2.4. Testing Suite Evidence for Sprint Review](#5224-testing-suite-evidence-for-sprint-review)
+    - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
+    - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
+    - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
+    - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
  
 ## [Conclusiones](#conclusiones)
 ## [Bibliografía](#bibliografía)
@@ -1961,7 +1970,99 @@ A continuación se pueden apreciar los Empathy Mapping de los segmentos objetivo
         <strong>cuando</strong> no hay espacios que coincidan con los criterios de búsqueda o los criterios son inválidos,
         <strong>entonces</strong> retorno un mensaje indicando que no se encontraron resultados.
     </td>
-    </tr>      
+    </tr>
+    <tr style="text-align:center">
+    <td>TS07</td>
+    <td>Acceder a Endpoints</td>
+    <td>
+        <strong>Como</strong> desarrollador backend en AlquilaFácil,
+        <strong>quiero</strong> tener acceso a los endpoints de la aplicación 
+        <strong>para</strong> poder interactuar con ella.
+    </td>
+    <td>
+        <h5>Escenario 01:</h5>
+        <strong>Dado</strong> que el Developer hace uso del endpoint para interactuar con la aplicación
+        <strong>y</strong> la solicitud es correcta
+        <strong>cuando</strong> se realiza la solicitud al API
+        <strong>entonces</strong> el API devuelve un response con toda la data solicitada.
+    </td>
+    </tr>    
+    <tr style="text-align:center">
+    <td>TS08</td>
+    <td>Registrar User</td>
+    <td>
+        <strong>Como</strong> desarrollador backend en AlquilaFácil,
+        <strong>quiero</strong> contar con un endpoint
+        <strong>para</strong> poder registrar a un usuario.
+    </td>
+    <td>
+        <h5>Escenario 01:</h5>
+        <strong>Dado</strong> que se recibe la data del exterior y esta se valida correctamente
+        <strong>cuando</strong> se registra al organizador de eventos en la base de datos
+        <strong>entonces</strong> se recibe el código de respuesta 200 del API rest.
+    </td>
+    </tr> 
+    <tr style="text-align:center">
+    <td>TS09</td>
+    <td>Registrar Spaces</td>
+    <td>
+        <strong>Como</strong> desarrollador backend en AlquilaFácil,
+        <strong>quiero</strong> contar con un endpoint
+        <strong>para</strong> poder registrar a un espacio.
+    </td>
+    <td>
+        <h5>Escenario 01:</h5>
+        <strong>Dado</strong> que se reciben los datos necesarios para la creación de un evento y son validados correctamente
+        <strong>cuando</strong> se realiza el registro del evento
+        <strong>entonces</strong> se registra el evento en la base de datos.
+    </td>
+    </tr>  
+    <tr style="text-align:center">
+    <td>TS10</td>
+    <td>Registrar Subscriptions</td>
+    <td>
+        <strong>Como</strong> desarrollador backend en AlquilaFácil,
+        <strong>quiero</strong> contar con un endpoint
+        <strong>para</strong> realizar una suscripción.
+    </td>
+    <td>
+        <h5>Escenario 01:</h5>
+        <strong>Dado</strong> que se reciben los datos necesarios para la creación de una suscripción y son validados correctamente
+        <strong>cuando</strong> se realiza el registro de la suscripción
+        <strong>entonces</strong> se registra la suscripción en la base de datos.
+    </td>
+    </tr> 
+    <tr style="text-align:center">
+    <td>TS11</td>
+    <td>Creación de persistencia de la entidad User</td>
+    <td>
+        <strong>Como</strong> desarrollador backend en AlquilaFácil,
+        <strong>quiero</strong> implementar la persistencia de la información de la entidad User
+        <strong>para</strong> asegurar que los datos de los asistentes se almacenen de manera segura y estén disponibles cuando sea necesario.
+    </td>
+    <td>
+        <h5>Escenario 01:</h5>
+        <strong>Dado</strong> que se recibe la data del exterior
+        <strong>y</strong> esta data se valida correctamente
+        <strong>cuando</strong> se realiza el registro de la data en la tabla de datos de la entidad User
+        <strong>entonces</strong> se recibe una respuesta exitosa indicando que la data se ha registrado con éxito en la base de datos.
+    </td>
+    </tr>    
+    <tr style="text-align:center">
+    <td>TS12</td>
+    <td>Creación de resource de la entidad User</td>
+    <td>
+        <strong>Como</strong> desarrollador backend en AlquilaFácil,
+        <strong>quiero</strong> devolver un resource de la información de la entidad User
+        <strong>para</strong> realizar consultas.
+    </td>
+    <td>
+        <h5>Escenario 01:</h5>
+        <strong>Dado</strong> que se recibe una consulta del exterior
+        <strong>y</strong> esta se procesa correctamente
+        <strong>entonces</strong> se devuelve el resource correspondiente a la consulta realizada a la tabla de datos de la entidad Users.
+    </td>
+    </tr>           
     </body>
 </table>
 
@@ -3162,7 +3263,7 @@ esto facilitará la lectura y comprensión de la información por parte de todos
 
 
 
-#### 5.2.1.2. Sprint Backlog 2
+#### 5.2.2.2. Sprint Backlog 2
 
 <div align=center>
    <img src="assets/sprint-bl-2.png" alt="carrusel"></img>
@@ -3259,7 +3360,7 @@ https://trello.com/invite/b/ItvMKaLE/ATTI7156bcc6b5642cda7f0abe5ebff9185a109B5CD
     </tr>
 </table>
 
-#### 5.2.1.3. Development Evidence for Sprint Review.
+#### 5.2.2.3. Development Evidence for Sprint Review.
 | Repository                                                      | Branch   | Commit id | Commit Message                                    | Commit Message Body                               | Commited on (Date) |
 |-----------------------------------------------------------------|----------|-----------|---------------------------------------------------|---------------------------------------------------|-------------------- 
 |https://github.com/Aplicaciones-Web-SW56-AlquilaFacil/Frontend   | main  | 62053d1   | feat: added deployment | feat: added deployment | 02/05/2024         | 
@@ -3268,7 +3369,7 @@ https://trello.com/invite/b/ItvMKaLE/ATTI7156bcc6b5642cda7f0abe5ebff9185a109B5CD
 |                                                                 | feature/bounded-subscription | b4275f2   | feat: added footer and navbar            | feat: added footer and navbar            | 29/04/2024         | 
 |                                                                 | feature/bounded-user   | ee785fd   | feat: add content for confirm direction component                 | feat: add content for confirm direction component                 | 01/05/2024         | 
 
-#### 5.2.1.4. Testing Suite Evidence for Sprint Review
+#### 5.2.2.4. Testing Suite Evidence for Sprint Review
 
 <table align="left" border="1" width="100%">
   <tr>
@@ -3290,7 +3391,7 @@ https://trello.com/invite/b/ItvMKaLE/ATTI7156bcc6b5642cda7f0abe5ebff9185a109B5CD
 </table>
 
 
-#### 5.2.1.5. Execution Evidence for Sprint Review
+#### 5.2.2.5. Execution Evidence for Sprint Review
 
 1. Sección de presentacion donde se ven las cards principales y el home.
 
@@ -3329,11 +3430,11 @@ https://trello.com/invite/b/ItvMKaLE/ATTI7156bcc6b5642cda7f0abe5ebff9185a109B5CD
 </div>
 
 
-#### 5.2.1.6. Services Documentation Evidence for Sprint Review
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
 Durante el segundo sprint, se ha creado la app web como segundo paso paso del proyecto, con la ayuda de un fake API creado por nosotros.
 
-#### 5.2.1.7. Software Deployment Evidence for Sprint Review
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
 Para el presente sprint, se ha desarrollado el landing page. Para el desarrollo del landing page se ha utilizado las siguientes herramientas:
 
@@ -3345,7 +3446,333 @@ Para el presente sprint, se ha desarrollado el landing page. Para el desarrollo 
 
 - FireBase: Firebase es una plataforma de desarrollo de aplicaciones móviles y web creada por Google. Ofrece una amplia gama de servicios y herramientas para ayudar a los desarrolladores a construir y mejorar sus aplicaciones de manera rápida y eficiente. Firebase incluye características como base de datos en tiempo real, autenticación de usuarios, almacenamiento en la nube, hosting web, mensajería en la nube, análisis, informes de fallos, y funciones de aprendizaje automático. En resumen, Firebase proporciona una solución integral para el desarrollo y la mejora de aplicaciones, abordando áreas como la autenticación de usuarios, el almacenamiento de datos, la entrega de contenido, el análisis y la mejora de la calidad.
 
-#### 5.2.1.8. Team Collaboration Insights during Sprint
+#### 5.2.2.8. Team Collaboration Insights during Sprint
+
+El equipo creó el landing page utilizando el modelo de gitflow, el cual implica utilizar distintas ramas para abordar cada parte del proyecto, optimizarlo y mantenerlo actualizado. La ventaja de adoptar este enfoque es que simplifica la tarea de actualizar y realizar modificaciones, permitiendo luego mostrar y comprobar la integración sin problemas en la rama principal.
+
+| Alumno        | Actividad                                                   | 
+|---------------|-------------------------------------------------------------|
+| Angel Cancho  | Implementación create space                                 |
+| Italo Luna    | Implementación user and content                             |
+| Augusto Pin   | Implementación subscription                                 |
+| Brenda Gamio  | Implementación create space                                 |
+
+
+**Nethwork Graphs del repositorio del Frontend Web Application**
+<div align=center>
+   <img src="assets/nt-git-sp2.png" alt="insights"></img>
+</div>
+<div align=center>
+   <img src="assets/nt2-git-sp2.png" alt="insights"></img>
+</div>
+<div align=center>
+   <img src="assets/nt3-git-sp2.png" alt="insights"></img>
+</div>
+<div align=center>
+   <img src="assets/-sp2.png" alt="insights"></img>
+</div>
+
+
+### 5.2.3. Sprint 3
+#### 5.2.3.1. Sprint Planning 3
+En esta sección se especifican los detalles del Sprint Planning Meeting, que es una reunión que se lleva a cabo al inicio de cada sprint con la finalidad de establecer las tareas que se realizarán durante el período determinado.
+
+<table align="center"  border="1" width="70%" style="text-align:center;">
+    <tr align="left">
+        <td>
+            <b>Sprint #</b>
+        </td>
+        <td>
+            <b>Sprint 3</b>           
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan="2">
+            <b>Sprint Planning Background</b>
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Date</b>
+        </td>
+        <td>
+            29/05/24         
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Time</b>
+        </td>
+        <td>
+            3:00 pm         
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Location</b>
+        </td>
+        <td>
+            Modalidad remota y coordinacion a traves de Whastapp   
+        </td>
+    </tr>
+     </tr>
+       <tr align="left">
+        <td>
+            <b>Prepared By</b>
+        </td>
+        <td>
+            AlquilaFacil   
+        </td>
+    </tr>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Attendess (to planning meeting)</b>
+        </td>
+        <td>
+            Todos los miembros del grupo AlquilaFacil 
+        </td>
+    </tr>
+      </tr>
+       <tr align="left">
+        <td>
+            <b>Sprint 3 - 0</b>
+            <b>Review Summary</b>
+        </td>
+        <td>
+            Se implementarion los features dentro del backend de ALquilaFacil todo lo que seria el rest api.
+            </br></br>
+Se cumplió con éxito el despliegue del backend dentro del plazo acordado.
+
+La documentación se ha enriquecido con la expansión de la visión de negocio y la incorporación de los artefactos correspondientes.   
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Sprint 3 - 1</b>
+            <b>Retrospective Summary</b>
+        </td>
+        <td>
+            En líneas generales, hemos logrado mantener una excelente organización y comunicación como equipo, gracias 
+            al uso de plataformas como Google Meet. Sin embargo, siempre hay margen para mejorar aún más nuestra coordinación 
+            y colaboración en pos de la excelencia en nuestros proyectos.
+
+Para garantizar un progreso continuo en nuestros proyectos, es esencial que perfeccionemos la estimación del desarrollo 
+de los wireframes y mockups. Esto evitará posibles desajustes en nuestro calendario y garantizará un flujo de trabajo más estable.
+
+Debemos hacer un uso más frecuente y consistente del formato Markdown en nuestra documentación y comunicaciones, ya que 
+esto facilitará la lectura y comprensión de la información por parte de todos los miembros del equipo.  
+        </td>
+    </tr>
+     <tr align="left">
+        <td colspan="2">
+            <b>Sprint Goal & User Stories</b>
+        </td>
+    </tr>
+      <tr align="left">
+        <td>
+            <b>Sprint 2 Velocity</b>
+        </td>
+        <td>
+            8
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Sum of Story Points</b>
+        </td>
+        <td>
+            18  
+        </td>
+    </tr>
+</table>
+
+
+
+#### 5.2.2.2. Sprint Backlog 2
+
+<div align=center>
+   <img src="assets/sprint-bl-2.png" alt="carrusel"></img>
+</div>
+
+Link del trello:
+https://trello.com/invite/b/ItvMKaLE/ATTI7156bcc6b5642cda7f0abe5ebff9185a109B5CD3/alquilafacil-sprint-2
+
+</br>
+
+<table align="center" border="1" width="90%" style="text-align:center">
+    <tr>
+       <td colspan="1"><b>Sprint #</b></td>
+       <td colspan="7"><b>Sprint 2</b></td>
+     </tr>
+     <tr>
+       <td colspan="2"><b>User Story</b></td>
+       <td colspan="6"><b>Work-Item / Task</b></td>
+     </tr>
+     <tr>
+       <td><b>Id</b></td>
+       <td><b>Title</b></td>
+       <td><b>Id</b></td>
+       <td><b>Title</b></td>
+       <td><b>Description</b></td>
+       <td><b>Estimation(Hours)</b></td>
+       <td><b>Assigned To</b></td>
+       <td><b>Status(To-do/ In-Process/ To-Review/ Done)</b></td>
+     </tr>
+     <tr>
+       <td rowspan="3">US01</td>
+       <td rowspan="3">Implementación del user content</td>
+       <td>T01</td>
+       <td>Agregar feature/user</td>
+       <td>Agregar el frontend para login y register</td>
+       <td>6</td>
+       <td>Italo Luna</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T02</td>
+       <td>Agregar login frontend</td>
+       <td>Dar formato y estilo a la sección principal</td>
+       <td>4</td>
+       <td>Italo Luna</td>
+       <td>Done</td>
+    </tr>
+     <tr>
+       <td>T03</td>
+       <td>Agregar register frontend</td>
+       <td>Dar formato y estilo al pie de página </td>
+       <td>4</td>
+       <td>Antonio</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td rowspan="2">US02</td>
+       <td rowspan="2">Implementación de feature/create-space</td>
+       <td>T04</td>
+       <td>Agregar frontend para agregar locales</td>
+       <td>Poner procesos de registro de local</td>
+       <td>4</td>
+       <td>Brenda Gamio</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T05</td>
+       <td>Agregar CSS footer (media queries)</td>
+       <td>Hacer responsive al pie de página
+    </td>
+       <td>4</td>
+       <td>Italo Luna</td>
+       <td>Done</td>
+    </tr>
+   <tr>
+       <td>US03</td>
+       <td>Implementación de subscription</td>
+       <td>T06</td>
+       <td>Agregar de subscripciones y planes</td>
+       <td>Agregar comportamientos dinámicos al botón y mostrar tarjetas</td>
+       <td>6</td>
+       <td>Augusto Pin</td>
+       <td>Done</td>
+    </tr>
+   <tr>
+       <td>US04</td>
+       <td>Implementación de content</td>
+       <td>T07</td>
+       <td>Agregar home de la app</td>
+       <td>Diseñar una portada atractiva y un detail util</td>
+       <td>6</td>
+       <td>Augusto Pin</td>
+       <td>Done</td>
+    </tr>
+</table>
+
+#### 5.2.2.3. Development Evidence for Sprint Review.
+| Repository                                                      | Branch   | Commit id | Commit Message                                    | Commit Message Body                               | Commited on (Date) |
+|-----------------------------------------------------------------|----------|-----------|---------------------------------------------------|---------------------------------------------------|-------------------- 
+|https://github.com/Aplicaciones-Web-SW56-AlquilaFacil/Frontend   | main  | 62053d1   | feat: added deployment | feat: added deployment | 02/05/2024         | 
+|                                                                 | feature/bounded-content | f89b305   | fix: implemented DDD in bounded create space            | fix: implemented DDD in bounded create space            | 01/05/2024         | 
+|                                                                 | feature/bounded-create-space | 583842b   | fix: addded implementation in navbar            | fix: addded implementation in navbar            | 30/04/2024         | 
+|                                                                 | feature/bounded-subscription | b4275f2   | feat: added footer and navbar            | feat: added footer and navbar            | 29/04/2024         | 
+|                                                                 | feature/bounded-user   | ee785fd   | feat: add content for confirm direction component                 | feat: add content for confirm direction component                 | 01/05/2024         | 
+
+#### 5.2.2.4. Testing Suite Evidence for Sprint Review
+
+<table align="left" border="1" width="100%">
+  <tr>
+    <th>Repository</th>
+    <th>Branch</th>
+    <th>Commit</th>
+    <th>Author</th>
+    <th>Message</th>
+    <th>Date</th>
+  </tr>
+  <tr>
+    <td>Web-Application-AF</td>
+    <td>feature/aceptance_test</td>
+    <td>71084fd</td>
+    <td>Augusto Pin</td>
+    <td>doc: add acceptance tests</td>
+    <td>12/04/2024</td>
+  </tr>
+</table>
+
+
+#### 5.2.2.5. Execution Evidence for Sprint Review
+
+1. Sección de presentacion donde se ven las cards principales y el home.
+
+<div align=center>
+   <img src="assets/Web-App-1.PNG" alt="carrusel"></img>
+</div>
+
+2. Sección de subscripciones a AlquilaFacil.
+
+<div align=center>
+   <img src="assets/Web-App-2.PNG" alt="carrusel"></img>
+</div>
+
+3. Seccion donde esta el iniciar sesion AlquilaFacil.
+
+<div align=center>
+   <img src="assets/Web-App-3.PNG" alt="carrusel"></img>
+</div>
+
+4. Sección donde se ve mas a detalle las cards del home.
+
+<div align=center>
+   <img src="assets/Web-App-4.PNG" alt="carrusel"></img>
+</div>
+
+5. Sección empiezas a poner tu local en AlquilaFacil.
+
+<div align=center>
+   <img src="assets/Web-App-5.PNG" alt="carrusel"></img>
+</div>
+
+6. Sección donde ya puedes visualizar tu espacio ya publicado.
+
+<div align=center>
+   <img src="assets/Web-App-6.PNG" alt="carrusel"></img>
+</div>
+
+
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review
+
+Durante el segundo sprint, se ha creado la app web como segundo paso paso del proyecto, con la ayuda de un fake API creado por nosotros.
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review
+
+Para el presente sprint, se ha desarrollado el landing page. Para el desarrollo del landing page se ha utilizado las siguientes herramientas:
+
+- Git: Herramienta de gestión de versiones que facilitó la colaboración en equipo durante la creación del landing page. Git es un sistema que permite a los programadores registrar y seguir los cambios realizados en el código fuente de un proyecto. Con Git, podemos crear ramas para trabajar en diferentes partes del código sin interferir con el trabajo de los demás, integrar los cambios cuando estén listos y revertirlos si es necesario.
+
+- GitFlow: Método de trabajo que contribuyó al seguimiento del progreso individual de cada miembro del equipo en la creación del landing page. GitFlow es un modelo de flujo de trabajo con ramificaciones en Git que establece una estructura estándar para organizar las diferentes versiones y características del código. Con GitFlow, podemos mantener una rama principal (master o main) con el código más estable y seguro, una rama de desarrollo (develop) con el código en proceso, y varias ramas auxiliares (feature, release, hotfix) que se utilizan para desarrollar nuevas funcionalidades, preparar lanzamientos y solucionar errores urgentes, respectivamente.
+
+- GitHub: Plataforma que facilitó la colaboración en equipo para almacenar las versiones de nuestro proyecto. GitHub es un servicio web que utiliza Git para alojar repositorios remotos y fomentar la colaboración entre programadores. Con GitHub, podemos cargar nuestro código en la nube, compartirlo con otros usuarios, recibir comentarios y sugerencias, hacer seguimiento de tareas y problemas, y acceder a una amplia gama de proyectos de código abierto.
+
+- FireBase: Firebase es una plataforma de desarrollo de aplicaciones móviles y web creada por Google. Ofrece una amplia gama de servicios y herramientas para ayudar a los desarrolladores a construir y mejorar sus aplicaciones de manera rápida y eficiente. Firebase incluye características como base de datos en tiempo real, autenticación de usuarios, almacenamiento en la nube, hosting web, mensajería en la nube, análisis, informes de fallos, y funciones de aprendizaje automático. En resumen, Firebase proporciona una solución integral para el desarrollo y la mejora de aplicaciones, abordando áreas como la autenticación de usuarios, el almacenamiento de datos, la entrega de contenido, el análisis y la mejora de la calidad.
+
+#### 5.2.2.8. Team Collaboration Insights during Sprint
 
 El equipo creó el landing page utilizando el modelo de gitflow, el cual implica utilizar distintas ramas para abordar cada parte del proyecto, optimizarlo y mantenerlo actualizado. La ventaja de adoptar este enfoque es que simplifica la tarea de actualizar y realizar modificaciones, permitiendo luego mostrar y comprobar la integración sin problemas en la rama principal.
 
