@@ -2099,6 +2099,11 @@ Utilizamos la escala de Fibonacci para la estimación de los Story Points
         </tr>
         <tr>
             <td>3</td>
+            <td>Funcionalidades avanzadas - clientes</td>
+            <td>En este sprint, introduciremos aggregates, entidades, value objects más resaltantes, además de servicios para recibir y dar información. Estamos avanzando en las capacidades del proyecto.</td>
+        </tr>
+        <tr>
+            <td>4</td>
             <td>Funcionalidades avanzadas - propietarios</td>
             <td>En este sprint, mejoraremos las funcionalidades existentes, como la gestión directa de espacios y la calidad del servicio.</td>
         </tr>  
@@ -2217,41 +2222,97 @@ Utilizamos la escala de Fibonacci para la estimación de los Story Points
             </tr>
             <tr>
                 <td>3</td>
-                <td>EP05/US06</td>
-                <td>Notificaciones de disponibilidad</td>
-                <td>Como propietario de un espacio para eventos en AlquilaFácil, quiero recibir notificaciones cuando mi espacio esté disponible para reservar para estar al tanto de las solicitudes de reserva y gestionarlas eficientemente.</td>
-                <td>3</td>
-            </tr>
-            <tr>
-                <td>3</td>
-                <td>EP05/US08</td>
-                <td>Calendario de disponibilidad</td>
-                <td>Como propietario de un espacio en AlquilaFácil, quiero poder gestionar fácilmente mi calendario de disponibilidad para evitar conflictos de reservas y mantener mi agenda organizada.</td>
-                <td>3</td>
-            </tr>
-            <tr>
-                <td>3</td>
-                <td>EP02/US09</td>
-                <td>Promoción de espacios destacados</td>
-                <td>Como propietario de un espacio en AlquilaFácil, quiero poder destacar mi espacio para aumentar su visibilidad y atraer más clientes para aumentar las posibilidades de reserva.</td>
-                <td>3</td>
-            </tr>
-            <tr>
-                <td>3</td>
-                <td>EP01/US17</td>
-                <td>Gestión flexible de disponibilidad</td>
-                <td>Como propietario de un espacio para eventos en AlquilaFácil, quiero tener la capacidad de gestionar la disponibilidad de mi espacio de manera flexible para adaptarme a cambios de horarios y necesidades de reserva.</td>
+                <td>TS07</td>
+                <td>Acceder a Endpoints</td>
+                <td>Como desarrollador, quiero tener acceso a los endpoints de la aplicación para poder interactuar con ella.</td>
                 <td>5</td>
             </tr>
             <tr>
                 <td>3</td>
+                <td>TS08</td>
+                <td>Registrar User</td>
+                <td>Como developer, quiero contar con un endpoint para poder registrar a un usuario.</td>
+                <td>3</td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>TS09</td>
+                <td>Registrar Spaces</td>
+                <td>Como developer, quiero contar con un endpoint para poder registrar un espacio.</td>
+                <td>3</td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>TS10</td>
+                <td>Registrar Subscriptions</td>
+                <td>Como developer quiero contar con un endpoint para realizar una suscripción.</td>
+                <td>3</td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>TS11</td>
+                <td>Creación de persistencia de la entidad User</td>
+                <td>Como developer, quiero implementar la persistencia de la información de la entidad User para asegurar que los datos de los asistentes se almacenen de manera segura y estén disponibles cuando sea necesario.</td>
+                <td>2</td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>TS12</td>
+                <td>Creación de resource de la entidad User</td>
+                <td>Como developer quiero devolver un resource de la información de la entidad User para realizar consultas.</td>
+                <td>2</td>
+            </tr>
+            <tr>
+                <td>4</td>
                 <td>EP03/US18</td>
                 <td>Comunicación directa con organizadores</td>
                 <td>Como propietario de un espacio para eventos en AlquilaFácil, quiero poder comunicarme directamente con los organizadores de eventos interesados para aclarar dudas, discutir detalles y confirmar reservas de manera efectiva.</td>
                 <td>5</td>
             </tr>
             <tr>
+                <td>4</td>
+                <td>EP01/US20</td>
+                <td>Recibir Notificaciones de Reservas</td>
+                <td>Como propietario de un espacio para eventos en AlquilaFácil, quiero recibir notificaciones instantáneas sobre nuevas solicitudes de reserva y actualizaciones en el estado de mis reservas para estar al tanto de las actividades relacionadas con mi espacio en todo momento.</td>
                 <td>3</td>
+            </tr>
+            <tr>
+                <td>4</td>
+                <td>EP05/US06</td>
+                <td>Notificaciones de disponibilidad</td>
+                <td>Como propietario de un espacio para eventos en AlquilaFácil, quiero recibir notificaciones cuando mi espacio esté disponible para reservar para estar al tanto de las solicitudes de reserva y gestionarlas eficientemente.</td>
+                <td>3</td>
+            </tr>
+            <tr>
+                <td>4</td>
+                <td>EP05/US08</td>
+                <td>Calendario de disponibilidad</td>
+                <td>Como propietario de un espacio en AlquilaFácil, quiero poder gestionar fácilmente mi calendario de disponibilidad para evitar conflictos de reservas y mantener mi agenda organizada.</td>
+                <td>3</td>
+            </tr>
+            <tr>
+                <td>4</td>
+                <td>EP02/US09</td>
+                <td>Promoción de espacios destacados</td>
+                <td>Como propietario de un espacio en AlquilaFácil, quiero poder destacar mi espacio para aumentar su visibilidad y atraer más clientes para aumentar las posibilidades de reserva.</td>
+                <td>3</td>
+            </tr>
+            <tr>
+                <td>4</td>
+                <td>EP01/US17</td>
+                <td>Gestión flexible de disponibilidad</td>
+                <td>Como propietario de un espacio para eventos en AlquilaFácil, quiero tener la capacidad de gestionar la disponibilidad de mi espacio de manera flexible para adaptarme a cambios de horarios y necesidades de reserva.</td>
+                <td>5</td>
+            </tr>
+            <tr>
+                <td>4</td>
+                <td>EP03/US18</td>
+                <td>Comunicación directa con organizadores</td>
+                <td>Como propietario de un espacio para eventos en AlquilaFácil, quiero poder comunicarme directamente con los organizadores de eventos interesados para aclarar dudas, discutir detalles y confirmar reservas de manera efectiva.</td>
+                <td>5</td>
+            </tr>
+            <tr>
+                <td>4</td>
                 <td>EP01/US20</td>
                 <td>Recibir Notificaciones de Reservas</td>
                 <td>Como propietario de un espacio para eventos en AlquilaFácil, quiero recibir notificaciones instantáneas sobre nuevas solicitudes de reserva y actualizaciones en el estado de mis reservas para estar al tanto de las actividades relacionadas con mi espacio en todo momento.</td>
