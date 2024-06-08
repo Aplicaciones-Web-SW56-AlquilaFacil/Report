@@ -260,6 +260,15 @@ Se construyó el progreso del proyecto sobre una colaboración cercana y equitat
     - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
     - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
     - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
+  - [5.2.3. Sprint 3](#523-sprint-3)
+    - [5.2.3.1. Sprint Planning 3](#5231-sprint-planning-3)
+    - [5.2.3.2. Sprint Backlog 3](#5232-sprint-backlog-3)
+    - [5.2.3.3. Development Evidence for Sprint Review](#5233-development-evidence-for-sprint-review)
+    - [5.2.3.4. Testing Suite Evidence for Sprint Review](#5234-testing-suite-evidence-for-sprint-review)
+    - [5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
+    - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
+    - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
+    - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
  
 ## [Conclusiones](#conclusiones)
 ## [Bibliografía](#bibliografía)
@@ -774,7 +783,7 @@ En esta sección se han definido una cierta cantidad de preguntas para nuestros 
 9. ¿Estarías dispuesto(a) a pagar una tarifa por utilizar una aplicación que te ayude a publicitar o alquilar tu propiedad de manera más eficiente?
 10. ¿Qué sugerencias o mejoras tendrías para una aplicación de este tipo que aún no estén disponibles en otras plataformas similares?
 
-**Preguntas Segmento 1: Organizadores**
+**Preguntas Segmento 2: Organizadores**
 
 1. ¿Qué tipo de propiedades alquila regularmente para sus reuniones?
 2. ¿Alguna vez has necesitado un lugar de encuentro o festivo de emergencia?
@@ -3942,17 +3951,37 @@ Preguntas segmento organizador:
 
 **Entrevista 1:**
 
-**Entrevista 2:**
+Nombres: 
+Apellidos: 
+Edad:
+Lugar de residencia:
+Entrevistador:
+
+Evidencia de la entrevista: 
+
+<img src="" alt="Entrevista 01 Segmento propietario">
+
+Resumen de la entrevista:
 
 **Segmento organizador:**
 
 **Entrevista 1:**
 
-**Entrevista 2:**
+Nombres: 
+Apellidos: 
+Edad:
+Lugar de residencia:
+Entrevistador:
 
-### 5.3.3 Evaluaciones según heurísticas
+Evidencia de la entrevista: 
 
-## 5.4 Video About-the-Product
+<img src="" alt="Entrevista 01 Segmento organizador">
+
+Resumen de la entrevista:
+
+### 5.3.3. Evaluaciones según heurísticas
+
+## 5.4. Video About-the-Product
 
 # Conclusiones
 
