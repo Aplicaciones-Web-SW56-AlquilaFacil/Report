@@ -4015,7 +4015,17 @@ Resumen de la entrevista:
 
 ### 5.3.3. Evaluaciones según heurísticas
 
+PROBLEMA #1: Solo personas que saben ingles pueden entender la pagina 
+Severidad: 2
+Heurística violada: Inclusive Design: Proporciona experiencias comparables
+Problema:
+Al momento de entrar a la pagina todo esta en ingles y personas que no entienden el idioma no pueden entender.
+Recomendación:
+Implementar i18n.
+
 ## 5.4. Video About-the-Product
+
+#### Estara en archivos adjuntos
 
 # Conclusiones
 
@@ -4048,4 +4058,5 @@ Con una visión ambiciosa de convertirse en la principal plataforma global en su
 | Landing-Page              | https://aplicaciones-web-sw56-alquilafacil.github.io/Landing-Page-AF/                                                                                                                                                                                                                         |
 | Frontend Web Application  | https://alquilafacil-webapp-v1.web.app/home                                                                                                                                                                                                                                                   |
 | Video grupal del Sprint 2 | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120344_upc_edu_pe/Ee3pMyyas-JBnIgTkvLxDH4BY2OyuLWF5pFtJFZZebLC-g?e=aYRwNQ                                                                                                                                                               |
+| Repositorio del backen y link para clonarlo | https://github.com/Aplicaciones-Web-SW56-AlquilaFacil/Backend.git                                                                                                                                                               |
 
