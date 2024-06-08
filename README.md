@@ -260,6 +260,15 @@ Se construyó el progreso del proyecto sobre una colaboración cercana y equitat
     - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
     - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
     - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
+  - [5.2.3. Sprint 3](#523-sprint-3)
+    - [5.2.3.1. Sprint Planning 3](#5231-sprint-planning-3)
+    - [5.2.3.2. Sprint Backlog 3](#5232-sprint-backlog-3)
+    - [5.2.3.3. Development Evidence for Sprint Review](#5233-development-evidence-for-sprint-review)
+    - [5.2.3.4. Testing Suite Evidence for Sprint Review](#5234-testing-suite-evidence-for-sprint-review)
+    - [5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
+    - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
+    - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
+    - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
  
 ## [Conclusiones](#conclusiones)
 ## [Bibliografía](#bibliografía)
@@ -774,7 +783,7 @@ En esta sección se han definido una cierta cantidad de preguntas para nuestros 
 9. ¿Estarías dispuesto(a) a pagar una tarifa por utilizar una aplicación que te ayude a publicitar o alquilar tu propiedad de manera más eficiente?
 10. ¿Qué sugerencias o mejoras tendrías para una aplicación de este tipo que aún no estén disponibles en otras plataformas similares?
 
-**Preguntas Segmento 1: Organizadores**
+**Preguntas Segmento 2: Organizadores**
 
 1. ¿Qué tipo de propiedades alquila regularmente para sus reuniones?
 2. ¿Alguna vez has necesitado un lugar de encuentro o festivo de emergencia?
@@ -3929,6 +3938,71 @@ El equipo creó el backend utilizando el modelo de gitflow, el cual implica util
 <div align=center>
    <img src="assets/-sp2.png" alt="insights"></img>
 </div>
+
+## 5.3. Validation Interviews
+### 5.3.1. Diseño de Entrevistas
+En esta sección se han definido una cierta cantidad de preguntas para nuestros segmentos objetivos, con la finalidad de obtener información cualitativa como opiniones o descripciones sobre nuestro aplicativo web.
+
+**Preguntas generales:**
+
+1. ¿Cuál es tu nombre?
+2. ¿Qué edad tienes?
+3. ¿Dónde vives actualmente?
+4. ¿A qué te dedicas?
+
+**Preguntas Segmento 1: Propietarios**
+
+1. 	¿Qué características de AlquilaFacil te resultan más útiles? ¿Por qué?
+2.	¿Qué opinas sobre el proceso de registro y publicación de espacios en la plataforma?
+3.	¿Cómo valoras las herramientas de gestión para actualizar la disponibilidad y características de tus espacios?
+4.	¿Qué opinas sobre el sistema de comunicación con los potenciales clientes a través de la plataforma?
+5.	¿Cómo valoras la interfaz de usuario en términos de facilidad de uso y accesibilidad?
+
+
+**Preguntas Segmento 2: Organizadores**
+
+1.	¿Qué características de AlquilaFacil te llaman más la atención? ¿Por qué?
+2.	¿Qué opinas sobre el diseño y la funcionalidad de las herramientas de búsqueda y filtrado de espacios para eventos?
+3.	¿Qué opinas sobre el proceso de reserva y la gestión de eventos a través de la plataforma?
+4.	¿Qué opinas sobre la funcionalidad de recomendaciones de espacios según el tipo de evento?
+5.	¿Cómo valoras la interfaz de usuario en términos de facilidad de uso y accesibilidad?
+
+### 5.3.2. Registro de Entrevista
+**Segmento propietario:**
+
+**Entrevista 1:**
+
+Nombres: 
+Apellidos: 
+Edad:
+Lugar de residencia:
+Entrevistador:
+
+Evidencia de la entrevista: 
+
+<img src="" alt="Entrevista 01 Segmento propietario">
+
+Resumen de la entrevista:
+
+
+**Segmento organizador:**
+
+**Entrevista 1:**
+
+Nombres: 
+Apellidos: 
+Edad:
+Lugar de residencia:
+Entrevistador:
+
+Evidencia de la entrevista: 
+
+<img src="" alt="Entrevista 01 Segmento organizador">
+
+Resumen de la entrevista:
+
+### 5.3.3. Evaluaciones según heurísticas
+## 5.4. Video About-the-Product
 
 # Conclusiones
 
