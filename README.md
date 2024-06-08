@@ -65,6 +65,12 @@
             <td>Luna Capuñay, Italo D'Alessandro<br><br>Augusto Jose Pin Matallana<br><br>Brenda Lucía Gamio Upiachihua<br><br>Angel Antonio Cancho Corilla<br>
             <td>Se agregó el contenido del capítulo 5, apartados 5.2.2, 5.2.2.1, 5.2.2.2, 5.2.2.3, 5.2.2.4, 5.2.2.5, 5.2.2.6, 5.2.2.7, 5.2.2.8 </td>
         </tr>
+        <tr>
+            <td align = "center">TB2</td>
+            <td>08/06/2024</td>
+             <td>Luna Capuñay, Italo D'Alessandro<br><br>Augusto Jose Pin Matallana<br><br>Brenda Lucía Gamio Upiachihua<br><br>Angel Antonio Cancho Corilla<br>
+            <td>Se agregó el contenido del capítulo 5, apartados 5.2.3, 5.2.3.1, 5.2.3.2, 5.2.3.3, 5.2.3.4, 5.2.3.5, 5.2.3.6, 5.2.3.7, 5.2.3.8, 5.3, 5.3.1, 5.3.2, 5.3.3, 5.4 y al capítulo de Conclusiones. </td>
+        </tr>
 <table>
 
 ---
@@ -96,9 +102,10 @@ Durante la preparación del informe, se llevaron a cabo las siguientes actividad
             <td> Luna Capuñay, Italo D'Alessandro <br>
             TB1 <br>
 El proyecto se llevó a cabo con la colaboración de todo el equipo, distribuyendo equitativamente las responsabilidades entre sus miembros. Además, trabajamos en conjunto en diferentes áreas, como la realización de entrevistas, la creación de la página principal y las secciones de evidencia de desarrollo y conjunto de pruebas, asegurando un enfoque integral y de colaboración en todas las fases del proyecto.  <br>
-TP <br>
-Todo el equipo cooperó conjuntamente para desarrollar el proyecto, distribuyendo de forma equitativa las responsabilidades entre sus miembros. También trabajamos juntos en diferentes áreas. A lo largo de todas las fases del proyecto, se mantuvo este enfoque integral y colaborativo. Durante el desarrollo de una aplicación web, la colaboración resultó ser esencial en particular. Colaboramos para establecer los requisitos, desarrollar la arquitectura, integrar funciones y llevar a cabo pruebas exhaustivas. Gracias a la comunicación constante y la sinergia entre los miembros del equipo, se logró crear una aplicación sólida y efectiva.
-
+    TP1 <br>
+    Todo el equipo cooperó conjuntamente para desarrollar el proyecto, distribuyendo de forma equitativa las responsabilidades entre sus miembros. También trabajamos juntos en diferentes áreas. A lo largo de todas las fases del proyecto, se mantuvo este enfoque integral y colaborativo. Durante el desarrollo de una aplicación web, la colaboración resultó ser esencial en particular. Colaboramos para establecer los requisitos, desarrollar la arquitectura, integrar funciones y llevar a cabo pruebas exhaustivas. Gracias a la comunicación constante y la sinergia entre los miembros del equipo, se logró crear una aplicación sólida y efectiva.<br>
+    TB2 <br>
+Durante el sprint 3, me encargué de coordinar al equipo en las tareas relacionadas con el backend. Me aseguré de que la arquitectura del sistema estuviera alineada con los requisitos y alcances establecidos por el profesor y de que las funcionalidades implementadas cumplieran con las expectativas. Además, supervisé el avance de las tareas, resolví problemas técnicos y garantizé que el equipo trabajara de manera eficiente y colaborativa para alcanzar nuestros objetivos.
 
 <br>Cancho Corilla, Angel Antonio <br>
 TB1 <br>
@@ -123,7 +130,10 @@ Todos los miembros del equipo colaboraron estrecha y equitativamente para desarr
 
 </td>
     <td>TB1: El proyecto se llevó a cabo con la colaboración de todo el equipo, distribuyendo equitativamente las responsabilidades entre sus miembros. Además, trabajamos en conjunto en diferentes áreas, como la realización de entrevistas, la creación de la página principal y las secciones de evidencia de desarrollo y conjunto de pruebas, asegurando un enfoque integral y de colaboración en todas las fases del proyecto.<br>
-        TP: Durante esta fase del proyecto, se llevaron a cabo exhaustivos análisis de las preferencias de los escritores, ilustradores y lectores a través de entrevistas. Se aplicó un diseño UX/UI apropiado para atender las necesidades de los usuarios. Además, se empleó la metodología de Domain Driven Design (DDD) para identificar los distintos dominios de la aplicación, desarrollando diagramas de clase que representaran la arquitectura del modelo backend. Se diseñaron diagramas de flujo tanto de usuario como de trabajo para mejorar la experiencia global del usuario, y se implementó la estructura de la base de datos. Finalmente, se documentó todo el proceso utilizando metodologías ágiles.<tr>
+        TP: Durante esta fase del proyecto, se llevaron a cabo exhaustivos análisis de las preferencias de los escritores, ilustradores y lectores a través de entrevistas. Se aplicó un diseño UX/UI apropiado para atender las necesidades de los usuarios. Además, se empleó la metodología de Domain Driven Design (DDD) para identificar los distintos dominios de la aplicación, desarrollando diagramas de clase que representaran la arquitectura del modelo backend. Se diseñaron diagramas de flujo tanto de usuario como de trabajo para mejorar la experiencia global del usuario, y se implementó la estructura de la base de datos. Finalmente, se documentó todo el proceso utilizando metodologías ágiles.<br>
+        TB2 <br>
+ Como equipo, coordinamos la entrega de cada funcionalidad relacionada al backend y también establecimos una fecha limite de entrega para la documentación de la misma. No obstante, en esta entrega no es parte del alcance la implementación total del backend, por lo que no consideramos la planificación del merge ni otros aspectos relacionados a la entrega final.
+<tr>
 
 <td align = "center">Conoce al menos un sector
 empresarial o dominio de
@@ -135,8 +145,11 @@ Luna Capuñay, Italo D'Alessandro <br>
 TB1 <br>
 En esta fase de entrega, se llevó a cabo un análisis de las preferencias de los segmentos de propietarios y organizadores mediante la realización y evaluación de entrevistas. Además, se implementó un diseño UX/UI adecuado que se adapta tanto a la versión de escritorio como a la versión responsive, tomando en cuenta las necesidades de los usuarios. También se realizó una exhaustiva investigación de la competencia para identificar cómo nuestra aplicación puede diferenciarse de otras en el mercado, teniendo en cuenta los antecedentes relacionados con la problemática que buscamos abordar.
 
-TP <br>
+TP1 <br>
 Durante esta fase de desarrollo, se llevó a cabo una investigación exhaustiva de la competencia para identificar cómo nuestra aplicación web puede diferenciarse en el mercado, tomando en cuenta los antecedentes relacionados con la problemática que pretendemos abordar. Estas acciones sentaron las bases para la codificación conjunta de la aplicación web utilizando la metodología de Desarrollo Dirigido por Dominio (DDD).
+
+TB2 <br>
+En esta tercera entrega del proyecto, se mejoró el frontend y se avanzó con la primera versión del backend. También se realizaron entrevistas de validación con los segmentos objetivo para obtener sugerencias y mejoras para nuestra aplicación. Además, se produjeron los videos "About the Product" y "About the Team", en los cuales hicimos una retrospectiva del trabajo realizado.
 
 
 Cancho Corilla, Angel Antonio <br>
@@ -163,7 +176,10 @@ Se construyó el progreso del proyecto sobre una colaboración cercana y equitat
             <td>TB1: En esta etapa del proyecto, se realizaron análisis detallados de las preferencias de los escritores, ilustradores y lectores a través de entrevistas. Se aplicó un diseño UX/UI adecuado para satisfacer las necesidades de los usuarios. Además, se utilizó el enfoque de Domain Driven Design (DDD) para identificar los dominios de la aplicación y se desarrollaron diagramas de clase para representar la arquitectura del modelo backend. Se crearon diagramas de flujo de usuario y de trabajo para mejorar la experiencia del usuario y se implementó el modelado de la base de datos. Finalmente, se documentó el trabajo realizado utilizando metodologías ágiles.
  <br>
                 TP: En esta etapa del proyecto, se realizaró un avance del aplicativo web. Se utilizó el enfoque de Domain Driven Design (DDD) para desarrollar los dominios de la aplicación y se desarrollaron diagramas de clase para representar la arquitectura del modelo backend.
-       <tr>
+ <br>
+                TB2: 
+                En esta etapa del proyecto, se llevó a cabo la implementación parcial del backend de la web app, siguiendo un enfoque de diseño dirigido por el dominio (DDD) y teniendo en cuenta nuestras historias de usuario técnicas, así como las relacionadas con los requisitos no funcionales. Se aplicaron conceptos como la arquitectura CQRS y DDD, además de buenas prácticas en el desarrollo de servicios web con Spring. También se implementaron varios principios SOLID, destacando el principio de responsabilidad única (Single Responsibility), la inversión de dependencias (Dependency Inversion) y la sustitución de Liskov (Liskov Substitution).
+<tr>
 
 </table>
 <br>
@@ -295,17 +311,6 @@ Convertirnos en la principal plataforma global de alquiler de espacios para even
         </tr>
     </thead>
     <body>
-        <tr>
-            <!-- DATOS del integrante 1-->
-            <td> 
-            <img src="assets/Josten-Huaman-Bellido.jpg" alt ="Josten Huaman" height="120">
-            <br>Josten Marc Huaman Bellido
-            </td>
-            <!-- DESCRIPCIÓN del integrante 1-->
-            <td>Estudiante de la carrera de Ingeniería de Software, cursando el 5to ciclo. Soy una persona responsable, autodidacta. Me gusta trabajar en equipo, aportar ideas y adquirir nuevos conocimientos de parte de mis compañeros. </td>
-            <!-- CONOCIMIENTOS del integrante 1-->
-            <td>Conocimiento de Front en lenguaje HTML, CSS, JavaScript. Conocimiento básico de C++, python, base de datos. Habilidades en programas de diseño web. </td>
-        </tr>
         <tr>
             <!-- DATOS del integrante 2-->
             <td> 
