@@ -3801,12 +3801,12 @@ https://trello.com/invite/b/eOg2zWv9/ATTId65f84c9493caa33856147ff3e4a01e8CA9B370
 | Repository                                                      | Branch   | Commit id | Commit Message                                    | Commit Message Body                               | Commited on (Date) |
 |-----------------------------------------------------------------|----------|-----------|---------------------------------------------------|---------------------------------------------------|-------------------- 
 |https://github.com/Aplicaciones-Web-SW56-AlquilaFacil/Backend   | master  | f2cd543 | chore: initial commit | chore: initial commit | 29/05/2024         | 
-|                                                                 | feature/profiles | f89b305   | fix: implemented DDD in bounded create space            | fix: implemented DDD in bounded create space            | 01/05/2024         | 
-|                                                                 | feature/bounded-create-space | 583842b   | fix: addded implementation in navbar            | fix: addded implementation in navbar            | 30/04/2024         | 
-|                                                                 | feature/bounded-subscription | b4275f2   | feat: added footer and navbar            | feat: added footer and navbar            | 29/04/2024         | 
-|                                                                 | feature/bounded-user   | ee785fd   | feat: add content for confirm direction component                 | feat: add content for confirm direction component                 | 01/05/2024         | 
+|                                                                 | feature/profiles | f2cd543   | feat: add locals bounded context              | feat: add locals bounded context            | 29/05/2024         | 
+|                                                                 | feature/properties | c9c9b42   | feat: add local categories table and acl            | feat: add local categories table and acl            | 05/06/2024         | 
+|                                                                 | feature/subscription | 4a0bcd4   | feat(DbContext): added entity mapping for Subscription            | feat(DbContext): added entity mapping for Subscription            | 06/06/2024         | 
+|                                                                 | feature/users   | b2dae9c   | feat: added controllers                | feat: added controllers            | 06/06/2024         | 
 
-#### 5.2.2.4. Testing Suite Evidence for Sprint Review
+#### 5.2.3.4. Testing Suite Evidence for Sprint Review
 
 <table align="left" border="1" width="100%">
   <tr>
@@ -3828,7 +3828,7 @@ https://trello.com/invite/b/eOg2zWv9/ATTId65f84c9493caa33856147ff3e4a01e8CA9B370
 </table>
 
 
-#### 5.2.2.5. Execution Evidence for Sprint Review
+#### 5.2.3.5. Execution Evidence for Sprint Review
 
 1. Sección de presentacion donde se ven las cards principales y el home.
 
@@ -3888,13 +3888,13 @@ Evidencia del Backend
 <img src="assets/subscription-img.png" alt="category"></img>
 <img src="assets/subscription-img-response.png" alt="category"></img>
 
-#### 5.2.2.6. Services Documentation Evidence for Sprint Review
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
 Durante el segundo sprint, se ha creado la app web como segundo paso paso del proyecto, con la ayuda de un fake API creado por nosotros.
 
-#### 5.2.2.7. Software Deployment Evidence for Sprint Review
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
-Para el presente sprint, se ha desarrollado el landing page. Para el desarrollo del landing page se ha utilizado las siguientes herramientas:
+Para el presente sprint, se ha desarrollado el backend para crear lo que sería nuestra API. Para el desarrollo del landing page se ha utilizado las siguientes herramientas:
 
 - Git: Herramienta de gestión de versiones que facilitó la colaboración en equipo durante la creación del landing page. Git es un sistema que permite a los programadores registrar y seguir los cambios realizados en el código fuente de un proyecto. Con Git, podemos crear ramas para trabajar en diferentes partes del código sin interferir con el trabajo de los demás, integrar los cambios cuando estén listos y revertirlos si es necesario.
 
@@ -3906,25 +3906,25 @@ Para el presente sprint, se ha desarrollado el landing page. Para el desarrollo 
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint
 
-El equipo creó el landing page utilizando el modelo de gitflow, el cual implica utilizar distintas ramas para abordar cada parte del proyecto, optimizarlo y mantenerlo actualizado. La ventaja de adoptar este enfoque es que simplifica la tarea de actualizar y realizar modificaciones, permitiendo luego mostrar y comprobar la integración sin problemas en la rama principal.
+El equipo creó el backend utilizando el modelo de gitflow, el cual implica utilizar distintas ramas para abordar cada parte del proyecto, optimizarlo y mantenerlo actualizado. La ventaja de adoptar este enfoque es que simplifica la tarea de actualizar y realizar modificaciones, permitiendo luego mostrar y comprobar la integración sin problemas en la rama principal.
 
 | Alumno        | Actividad                                                   | 
 |---------------|-------------------------------------------------------------|
-| Angel Cancho  | Implementación create space                                 |
-| Italo Luna    | Implementación user and content                             |
-| Augusto Pin   | Implementación subscription                                 |
-| Brenda Gamio  | Implementación create space                                 |
+| Angel Cancho  | Implementación create subscription                                 |
+| Italo Luna    | Implementación users     |
+| Augusto Pin   | Implementación profiles                               |
+| Brenda Gamio  | Implementación create subscription                                |
 
 
-**Nethwork Graphs del repositorio del Frontend Web Application**
+**Nethwork Graphs del repositorio del backend Web Application**
 <div align=center>
-   <img src="assets/nt-git-sp2.png" alt="insights"></img>
+   <img src="assets/nt-git-sp3.png" alt="insights"></img>
 </div>
 <div align=center>
-   <img src="assets/nt2-git-sp2.png" alt="insights"></img>
+   <img src="assets/nt2-git-sp3.png" alt="insights"></img>
 </div>
 <div align=center>
-   <img src="assets/nt3-git-sp2.png" alt="insights"></img>
+   <img src="assets/nt3-git-sp3.png" alt="insights"></img>
 </div>
 <div align=center>
    <img src="assets/-sp2.png" alt="insights"></img>
