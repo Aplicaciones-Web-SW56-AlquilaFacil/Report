@@ -3961,11 +3961,16 @@ Preguntas segmento organizador:
 **Entrevista 1:**
 
 Nombres: Mathias Tsuneo
+
 Apellidos: Kunimoto Watanabe
+
 Edad: 19
+
 Lugar de residencia: Jesús María
+
 Entrevistador: Italo Luna
 
+<br>
 Evidencia de la entrevista: 
 
 <img src="assets/mathias-vr.png" alt="Entrevista 01 Segmento propietario">
@@ -3980,10 +3985,14 @@ Rodrigo también enfatizó que la interfaz es intuitiva y fácil de navegar, lo 
 **Entrevista 2:**
 
 Nombres: Jessica Barbarita
+
 Apellidos: Matallana Hurtado
+
 Lugar de residencia: San Isidro
+
 Entrevistador: Augusto Pin
 
+<br>
 Evidencia de la entrevista: 
 
 <img src="assets/jessica-vr.png" alt="Entrevista 01 Segmento propietario">
@@ -3995,23 +4004,63 @@ En esta entrevista, Jessica nos dice que le gusta bastante la interfaz de la apl
 
 Jessica tuvo observaciones como que toda la pagina estaba en ingles por lo que estaria bien que se pudiera traducir y en caso mas personas de otros idiamos puedan utilizarla, tambien que en el apartado de contacto hubiera un link directo a Whastapp o messanger para que haya un contacto mas directo. 
 
+**Entrevista 3:**
+
+Nombres: Miguel Ángel Jesús
+Apellidos: Carpio Cornejo
+Lugar de residencia: Chorrillos
+Entrevistador: Brenda Gamio
+
+Evidencia de la entrevista: 
+
+<img src="assets/validation-1.png" alt="Entrevista 01 Segmento propietario">
+
+Link de entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201721995_upc_edu_pe/EULNaLT5W7tPr6Cd--shBqUBTdqCcisEvZXVBdLL8XIzrg?e=yq0hpe&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D 
+
+Resumen de la entrevista:
+En esta entrevista, Miguel examinó la landing page del servicio. Durante su revisión, Miguel confirmó la facilidad de navegación entre los registros de espacios. Además, hizo hincapié en que la aplicación es bastante sencilla y fácil, intuitiva para cualquiera que quiera registrar su espacio.
+ 
+
 **Segmento organizador:**
 
 **Entrevista 1:**
 
 Nombres: Rodrigo Alejandro  
+
 Apellidos: Aguilar Castillo 
+
 Edad: 19
+
 Lugar de residencia: San Isidro
+
 Entrevistador: Italo Luna
 
+<br>
 Evidencia de la entrevista: 
 
 <img src="assets/rodrigo-vr.png" alt="Entrevista 01 Segmento organizador">
 
 Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213375_upc_edu_pe/EeMJrgG3bwlGitVFSv8LfbcBZl0dG0f86sR4zKBPykFTZg?e=ocnHxi
 
-Resumen de la entrevista:
+
+**Entrevista 1:**
+
+Nombres: Andrés Julián  
+
+Apellidos: Collazos Castro 
+
+Edad: 19
+
+Lugar de residencia: La Perla
+
+Entrevistador: Brenda Gamio
+
+<br>
+Evidencia de la entrevista: 
+
+<img src="assets/validation-2.png" alt="Entrevista 01 Segmento organizador">
+
+Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201721995_upc_edu_pe/ETsvflq78vhOo5OEtaYDnVYB2TqbtPi8yGAmcect7BGn4g?e=OZaHCJ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 ### 5.3.3. Evaluaciones según heurísticas
 
