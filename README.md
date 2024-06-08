@@ -111,6 +111,8 @@ TB1 <br>
 Participe activamente realizando los mock ups y wireframes tanto de la landing page como del web application, tambien contribui con el contenido del capitulo 5 y software deployment configurantion, tambien ayude a coordinar el equipo y asiganar tareas a los demas para un completo desarrollo del informe junto a, como a su vez complete mis 2 entrevistas para los 2 segmentos objetivos y realizando el analisis de entrevistas general para llegar a una conclusion sobre los datos recolectados en las entrevistas. <br>
 TP <br>
 El desarrollo del proyecto fue el resultado de una colaboración estrecha y equitativa entre todos los miembros del equipo. Cada integrante asumió responsabilidades en diferentes áreas, desde la realización de entrevistas hasta la creación de la página principal y la elaboración de secciones como evidencias de desarrollo y conjunto de pruebas. Esta mentalidad de trabajo conjunto y colaborativo se mantuvo presente en todas las etapas del proyecto, garantizando un enfoque integral y cohesivo en cada aspecto del mismo.
+TB2 <br>
+La realización de nuestro proyecto emergió de un esfuerzo conjunto y balanceado, donde cada miembro del equipo desempeñó un papel crucial. Nos dividimos las tareas para abarcar desde la conducción de entrevistas hasta el desarrollo de la interfaz de usuario de nuestra startup AlquilaFacil. Mi grupo y yo nos encargamos específicamente de diseñar y construir la API RESTful, asegurando que cada servicio y recurso estuviera optimizado para nuestros usuarios. Esta sinergia colaborativa fue la piedra angular en cada fase del proyecto, asegurando que cada elemento, desde la página de inicio hasta las pruebas y documentación de desarrollo, se ejecutara con una visión unificada y detallada.
 
 
 Gamio Upiachihua, Brenda Lucía <br>
@@ -134,7 +136,6 @@ software.</td>
 Luna Capuñay, Italo D'Alessandro <br>
 TB1 <br>
 En esta fase de entrega, se llevó a cabo un análisis de las preferencias de los segmentos de propietarios y organizadores mediante la realización y evaluación de entrevistas. Además, se implementó un diseño UX/UI adecuado que se adapta tanto a la versión de escritorio como a la versión responsive, tomando en cuenta las necesidades de los usuarios. También se realizó una exhaustiva investigación de la competencia para identificar cómo nuestra aplicación puede diferenciarse de otras en el mercado, teniendo en cuenta los antecedentes relacionados con la problemática que buscamos abordar.
-
 TP <br>
 Durante esta fase de desarrollo, se llevó a cabo una investigación exhaustiva de la competencia para identificar cómo nuestra aplicación web puede diferenciarse en el mercado, tomando en cuenta los antecedentes relacionados con la problemática que pretendemos abordar. Estas acciones sentaron las bases para la codificación conjunta de la aplicación web utilizando la metodología de Desarrollo Dirigido por Dominio (DDD).
 
@@ -152,6 +153,8 @@ TB1 <br>
 Durante esta fase de configuración del entorno de desarrollo de software, se llevó a cabo un análisis exhaustivo de las preferencias de los segmentos de propietarios y organizadores mediante la realización y evaluación de entrevistas. Además, se elaboró expectativas de los usuarios para incluir en los sprints de desarrollo. También se llevó a cabo una investigación detallada de la competencia para identificar cómo nuestra aplicación puede diferenciarse en el mercado, teniendo en cuenta los antecedentes relacionados con la problemática que buscamos abordar. <br>
 TP <br>
 La ejecución del proyecto surgió como producto de una colaboración estrecha y equitativa entre todos los integrantes del equipo. Cada miembro se involucró en diversas áreas, desde la conducción de entrevistas hasta la concepción de la página principal y la elaboración de secciones como evidencias de desarrollo y conjunto de pruebas. Este enfoque de trabajo colaborativo y conjunto perduró a lo largo de todas las etapas del proyecto, asegurando un abordaje integral y coherente en cada uno de sus aspectos.
+TB2 <br>
+El desarrollo de nuestro proyecto fue el fruto de una colaboración armónica y equilibrada entre todos los miembros del equipo. Cada uno de nosotros asumió roles importantes en distintas facetas, desde realizar entrevistas hasta diseñar la interfaz principal de AlquilaFacil. En particular, mi grupo y yo nos dedicamos a la creación de la API RESTful, un componente esencial para la funcionalidad y eficiencia de nuestra startup. Mantuvimos un espíritu de cooperación durante todo el proceso, lo que nos permitió asegurar que cada elemento del proyecto, incluyendo las pruebas y la documentación de desarrollo, se llevara a cabo con un enfoque meticuloso y coherente.
 
 Gamio Upiachihua, Brenda Lucía <br>
 TB1 <br> 
