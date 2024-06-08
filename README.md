@@ -2707,7 +2707,7 @@ En este diagrama se presenta de forma detallada las conexiones entre controllers
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
 
-![diagramClass](assets/classDiagram.png)
+![diagramClass](assets/AlquilaFacilDiagram.png)
 
 ### 4.7.2. Class Dictionary
 
@@ -2773,7 +2773,7 @@ En este diagrama se presenta de forma detallada las conexiones entre controllers
 ## 4.8. Database Design.
 ### 4.8.1. Database Diagram.
 
-![dataBaseDiagram](assets/dataBaseDiagram.png)
+![dataBaseDiagram](assets/db-alquilaf.jpg)
 # Capítulo V: Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management
 A continuación, presentaremos el proceso por el cual organizamos, gestionamos y controlamos los cambios en el 
