@@ -3977,6 +3977,23 @@ En esta entrevista, Rodrigo Aguilar nos compartió sus impresiones sobre la weba
 
 Rodrigo también enfatizó que la interfaz es intuitiva y fácil de navegar, lo que facilita su uso tanto para principiantes como para usuarios más experimentados. En conclusión, elogió tanto la funcionalidad como la estética de la webapp, subrayando que es una herramienta bien concebida y valiosa para diversos tipos de usuarios.
 
+**Entrevista 2:**
+
+Nombres: Jessica Barbarita
+Apellidos: Matallana Hurtado
+Lugar de residencia: San Isidro
+Entrevistador: Augusto Pin
+
+Evidencia de la entrevista: 
+
+<img src="assets/jessica-vr.png" alt="Entrevista 01 Segmento propietario">
+
+Link de entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210257_upc_edu_pe/Ed-ncq8H6UFNgpHlJUBD9uwBPFzzyBLR7_81gbHvvfDecA?e=P3ByTt&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D 
+
+Resumen de la entrevista:
+En esta entrevista, Jessica nos dice que le gusta bastante la interfaz de la aplicacion y el diseño, comenta tambien que le parece muy util y tiene las funcionalidades necesarias para ser una buena aplicacion para alquilar locales, tambien que le facilitaria su trabajo de estar haciendo la publicidad manualmente y estar contactando posibles inquilinos.
+
+Jessica tuvo observaciones como que toda la pagina estaba en ingles por lo que estaria bien que se pudiera traducir y en caso mas personas de otros idiamos puedan utilizarla, tambien que en el apartado de contacto hubiera un link directo a Whastapp o messanger para que haya un contacto mas directo. 
 
 **Segmento organizador:**
 
