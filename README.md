@@ -3084,15 +3084,15 @@ https://trello.com/b/aRpjb6j9/alquilafacil
 </table>
 
 #### 5.2.1.3. Development Evidence for Sprint Review.
-| Repository                                                      | Branch   | Commit id | Commit Message                                    | Commit Message Body                               | Commited on (Date) |
-|-----------------------------------------------------------------|----------|-----------|---------------------------------------------------|---------------------------------------------------|-------------------- 
-| https://github.com/Aplicaciones-Web-SW56-AlquilaFacil/Landing-Page-AF.git | variety  | 2b4f926   | feat: added section variety and design responsive | feat: added section variety and design responsive | 11/04/2024         | 
-|                                                                 | banner-1 | c867f51   | feat: added banner #1 for landing page            | feat: added banner #1 for landing page            | 11/04/2024         | 
-|                                                                 | banner-2 | 4c6f4c5   | feat(section): added banner and button            | feat(section): added banner and button            | 12/04/2024         | 
-|                                                                 | banner-3 | c867f51   | feat: Added banner #3 for Landing page            | feat: Added banner #3 for Landing page            | 11/04/2024         | 
-|                                                                 | places   | f82e444   | feat: add places for landing page                 | feat: add places for landing page                 | 11/04/2024         | 
-|                                                                 | nav      | c9516af   | feat: Added nav partial                           | feat: Added nav partial                           | 11/04/2024         | 
-|                                                                 | footer   | 951d833   | feat: added footer                                | feat: added footer                                | 12/04/2024         | 
+| Repository                                                                | Branch   | Commit id | Commit Message                                    | Commit Message Body                               | Commited on (Date) |
+| ------------------------------------------------------------------------- | -------- | --------- | ------------------------------------------------- | ------------------------------------------------- | ------------------ |
+| https://github.com/Aplicaciones-Web-SW56-AlquilaFacil/Landing-Page-AF.git | variety  | 2b4f926   | feat: added section variety and design responsive | feat: added section variety and design responsive | 11/04/2024         |
+|                                                                           | banner-1 | c867f51   | feat: added banner #1 for landing page            | feat: added banner #1 for landing page            | 11/04/2024         |
+|                                                                           | banner-2 | 4c6f4c5   | feat(section): added banner and button            | feat(section): added banner and button            | 12/04/2024         |
+|                                                                           | banner-3 | c867f51   | feat: Added banner #3 for Landing page            | feat: Added banner #3 for Landing page            | 11/04/2024         |
+|                                                                           | places   | f82e444   | feat: add places for landing page                 | feat: add places for landing page                 | 11/04/2024         |
+|                                                                           | nav      | c9516af   | feat: Added nav partial                           | feat: Added nav partial                           | 11/04/2024         |
+|                                                                           | footer   | 951d833   | feat: added footer                                | feat: added footer                                | 12/04/2024         |
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
 
@@ -3178,8 +3178,8 @@ Para el presente sprint, se ha desarrollado el landing page. Para el desarrollo 
 
 El equipo creó el landing page utilizando el modelo de gitflow, el cual implica utilizar distintas ramas para abordar cada parte del proyecto, optimizarlo y mantenerlo actualizado. La ventaja de adoptar este enfoque es que simplifica la tarea de actualizar y realizar modificaciones, permitiendo luego mostrar y comprobar la integración sin problemas en la rama principal.
 
-| Alumno        | Actividad                                                   | 
-|---------------|-------------------------------------------------------------|
+| Alumno        | Actividad                                                   |
+| ------------- | ----------------------------------------------------------- |
 | Angel Cancho  | Implementación del banner 1                                 |
 | Josten Huaman | Implementación del banner 2                                 |
 | Italo Luna    | Implementación del responsive y características del website |
@@ -3422,13 +3422,13 @@ https://trello.com/invite/b/ItvMKaLE/ATTI7156bcc6b5642cda7f0abe5ebff9185a109B5CD
 </table>
 
 #### 5.2.2.3. Development Evidence for Sprint Review.
-| Repository                                                      | Branch   | Commit id | Commit Message                                    | Commit Message Body                               | Commited on (Date) |
-|-----------------------------------------------------------------|----------|-----------|---------------------------------------------------|---------------------------------------------------|-------------------- 
-|https://github.com/Aplicaciones-Web-SW56-AlquilaFacil/Frontend   | main  | 62053d1   | feat: added deployment | feat: added deployment | 02/05/2024         | 
-|                                                                 | feature/bounded-content | f89b305   | fix: implemented DDD in bounded create space            | fix: implemented DDD in bounded create space            | 01/05/2024         | 
-|                                                                 | feature/bounded-create-space | 583842b   | fix: addded implementation in navbar            | fix: addded implementation in navbar            | 30/04/2024         | 
-|                                                                 | feature/bounded-subscription | b4275f2   | feat: added footer and navbar            | feat: added footer and navbar            | 29/04/2024         | 
-|                                                                 | feature/bounded-user   | ee785fd   | feat: add content for confirm direction component                 | feat: add content for confirm direction component                 | 01/05/2024         | 
+| Repository                                                     | Branch                       | Commit id | Commit Message                                    | Commit Message Body                               | Commited on (Date) |
+| -------------------------------------------------------------- | ---------------------------- | --------- | ------------------------------------------------- | ------------------------------------------------- | ------------------ |
+| https://github.com/Aplicaciones-Web-SW56-AlquilaFacil/Frontend | main                         | 62053d1   | feat: added deployment                            | feat: added deployment                            | 02/05/2024         |
+|                                                                | feature/bounded-content      | f89b305   | fix: implemented DDD in bounded create space      | fix: implemented DDD in bounded create space      | 01/05/2024         |
+|                                                                | feature/bounded-create-space | 583842b   | fix: addded implementation in navbar              | fix: addded implementation in navbar              | 30/04/2024         |
+|                                                                | feature/bounded-subscription | b4275f2   | feat: added footer and navbar                     | feat: added footer and navbar                     | 29/04/2024         |
+|                                                                | feature/bounded-user         | ee785fd   | feat: add content for confirm direction component | feat: add content for confirm direction component | 01/05/2024         |
 
 #### 5.2.2.4. Testing Suite Evidence for Sprint Review
 
@@ -3510,12 +3510,12 @@ Para el presente sprint, se ha desarrollado el landing page. Para el desarrollo 
 
 El equipo creó el landing page utilizando el modelo de gitflow, el cual implica utilizar distintas ramas para abordar cada parte del proyecto, optimizarlo y mantenerlo actualizado. La ventaja de adoptar este enfoque es que simplifica la tarea de actualizar y realizar modificaciones, permitiendo luego mostrar y comprobar la integración sin problemas en la rama principal.
 
-| Alumno        | Actividad                                                   | 
-|---------------|-------------------------------------------------------------|
-| Angel Cancho  | Implementación create space                                 |
-| Italo Luna    | Implementación user and content                             |
-| Augusto Pin   | Implementación subscription                                 |
-| Brenda Gamio  | Implementación create space                                 |
+| Alumno       | Actividad                       |
+| ------------ | ------------------------------- |
+| Angel Cancho | Implementación create space     |
+| Italo Luna   | Implementación user and content |
+| Augusto Pin  | Implementación subscription     |
+| Brenda Gamio | Implementación create space     |
 
 
 **Nethwork Graphs del repositorio del Frontend Web Application**
@@ -3650,6 +3650,8 @@ esto facilitará la lectura y comprensión de la información por parte de todos
 
 
 #### 5.2.3.2. Sprint Backlog 3
+
+En esta sección se mostraran las tareas realizadas en el presente sprint y se adjunta una captura de pantalla y el link del tablero de tareas en la plataforma Trello.
 
 <div align=center>
    <img src="assets/sprint3.png" alt="carrusel"></img>
@@ -3798,13 +3800,16 @@ https://trello.com/invite/b/eOg2zWv9/ATTId65f84c9493caa33856147ff3e4a01e8CA9B370
 </table>
 
 #### 5.2.3.3. Development Evidence for Sprint Review.
-| Repository                                                      | Branch   | Commit id | Commit Message                                    | Commit Message Body                               | Commited on (Date) |
-|-----------------------------------------------------------------|----------|-----------|---------------------------------------------------|---------------------------------------------------|-------------------- 
-|https://github.com/Aplicaciones-Web-SW56-AlquilaFacil/Backend   | master  | f2cd543 | chore: initial commit | chore: initial commit | 29/05/2024         | 
-|                                                                 | feature/profiles | f2cd543   | feat: add locals bounded context              | feat: add locals bounded context            | 29/05/2024         | 
-|                                                                 | feature/properties | c9c9b42   | feat: add local categories table and acl            | feat: add local categories table and acl            | 05/06/2024         | 
-|                                                                 | feature/subscription | 4a0bcd4   | feat(DbContext): added entity mapping for Subscription            | feat(DbContext): added entity mapping for Subscription            | 06/06/2024         | 
-|                                                                 | feature/users   | b2dae9c   | feat: added controllers                | feat: added controllers            | 06/06/2024         | 
+
+En esta sección se mostrara la tabla de commits desarrollados en el presente sprint.
+
+| Repository                                                    | Branch               | Commit id | Commit Message                                         | Commit Message Body                                    | Commited on (Date) |
+| ------------------------------------------------------------- | -------------------- | --------- | ------------------------------------------------------ | ------------------------------------------------------ | ------------------ |
+| https://github.com/Aplicaciones-Web-SW56-AlquilaFacil/Backend | master               | f2cd543   | chore: initial commit                                  | chore: initial commit                                  | 29/05/2024         |
+|                                                               | feature/profiles     | f2cd543   | feat: add locals bounded context                       | feat: add locals bounded context                       | 29/05/2024         |
+|                                                               | feature/properties   | c9c9b42   | feat: add local categories table and acl               | feat: add local categories table and acl               | 05/06/2024         |
+|                                                               | feature/subscription | 4a0bcd4   | feat(DbContext): added entity mapping for Subscription | feat(DbContext): added entity mapping for Subscription | 06/06/2024         |
+|                                                               | feature/users        | b2dae9c   | feat: added controllers                                | feat: added controllers                                | 06/06/2024         |
 
 #### 5.2.3.4. Testing Suite Evidence for Sprint Review
 
@@ -3830,41 +3835,9 @@ https://trello.com/invite/b/eOg2zWv9/ATTId65f84c9493caa33856147ff3e4a01e8CA9B370
 
 #### 5.2.3.5. Execution Evidence for Sprint Review
 
-1. Sección de presentacion donde se ven las cards principales y el home.
+En el presente realizamos algunos cambios en el frontend, dado a que cumplimos con casi todos los requerimientos funcionales en el sprint pasado. De igual forma, se puede acceder a la aplicación web a mediante el siguiente enlace. https://alquilafacil-webapp-v1.web.app/home
 
-<div align=center>
-   <img src="assets/Web-App-1.PNG" alt="carrusel"></img>
-</div>
-
-2. Sección de subscripciones a AlquilaFacil.
-
-<div align=center>
-   <img src="assets/Web-App-2.PNG" alt="carrusel"></img>
-</div>
-
-3. Seccion donde esta el iniciar sesion AlquilaFacil.
-
-<div align=center>
-   <img src="assets/Web-App-3.PNG" alt="carrusel"></img>
-</div>
-
-4. Sección donde se ve mas a detalle las cards del home.
-
-<div align=center>
-   <img src="assets/Web-App-4.PNG" alt="carrusel"></img>
-</div>
-
-5. Sección empiezas a poner tu local en AlquilaFacil.
-
-<div align=center>
-   <img src="assets/Web-App-5.PNG" alt="carrusel"></img>
-</div>
-
-6. Sección donde ya puedes visualizar tu espacio ya publicado.
-
-<div align=center>
-   <img src="assets/Web-App-6.PNG" alt="carrusel"></img>
-</div>
+En el landing page igualmente, conectamos con la webapp, adjuntamos link para acceder. https://aplicaciones-web-sw56-alquilafacil.github.io/Landing-Page-AF/
 
 Evidencia del Backend
 
@@ -3890,30 +3863,36 @@ Evidencia del Backend
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
-Durante el segundo sprint, se ha creado la app web como segundo paso paso del proyecto, con la ayuda de un fake API creado por nosotros.
+En esta sección se presentaran los endpoints desarrollados en el presente sprint y se adjuntan capturas de pantalla de las acciones Crud y otros metodos.
+En el alcance del sprint, se han desarollado los bounded context de users, collaborations, properties.
+
+Se adjunta el link del repositorio del backend en Github: https://github.com/Aplicaciones-Web-SW56-AlquilaFacil/Backend
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
-Para el presente sprint, se ha desarrollado el backend para crear lo que sería nuestra API. Para el desarrollo del landing page se ha utilizado las siguientes herramientas:
+Para el presente sprint, se ha desarollado el API  de la web application. Para lo cual se emplearon las siguientes herramientas. Sin embargo, dentro del alcance de este sprint no se contempla el deploy del API.
 
-- Git: Herramienta de gestión de versiones que facilitó la colaboración en equipo durante la creación del landing page. Git es un sistema que permite a los programadores registrar y seguir los cambios realizados en el código fuente de un proyecto. Con Git, podemos crear ramas para trabajar en diferentes partes del código sin interferir con el trabajo de los demás, integrar los cambios cuando estén listos y revertirlos si es necesario.
+<ul>
+<li> Git: Sistema de control de versiones el cual empleamos para trabajar de manera colaborativa y monitorear las versiones de la web application en un repositorio remoto. </li>
+<li> Gitflow: Flujo de trabajo colaborativo, esto nos permitió dividir el trabajo por ramas dentro de nuestro repositorio con la finalidad de facilitar la colaboración en el desarrollo. </li>
+<li> GitHub: Plataforma que nos brindo la herramienta de crear nuestro repositorio para almacenar las versiones de nuestro proyecto. </li>
+<li> Swagger Ui: Herramienta para probar y documentar nuestra API. </li>
+<li> FireBase: Firebase es una plataforma de desarrollo de aplicaciones móviles y web creada por Google. Ofrece una amplia gama de servicios y herramientas para ayudar a los desarrolladores a construir y mejorar sus aplicaciones de manera rápida y eficiente. Firebase incluye características como base de datos en tiempo real, autenticación de usuarios, almacenamiento en la nube, hosting web, mensajería en la nube, análisis, informes de fallos, y funciones de aprendizaje automático. En resumen, Firebase proporciona una solución integral para el desarrollo y la mejora de aplicaciones, abordando áreas como la autenticación de usuarios, el almacenamiento de datos, la entrega de contenido, el análisis y la mejora de la calidad. </li>
 
-- GitFlow: Método de trabajo que contribuyó al seguimiento del progreso individual de cada miembro del equipo en la creación del landing page. GitFlow es un modelo de flujo de trabajo con ramificaciones en Git que establece una estructura estándar para organizar las diferentes versiones y características del código. Con GitFlow, podemos mantener una rama principal (master o main) con el código más estable y seguro, una rama de desarrollo (develop) con el código en proceso, y varias ramas auxiliares (feature, release, hotfix) que se utilizan para desarrollar nuevas funcionalidades, preparar lanzamientos y solucionar errores urgentes, respectivamente.
+</ul>
 
-- GitHub: Plataforma que facilitó la colaboración en equipo para almacenar las versiones de nuestro proyecto. GitHub es un servicio web que utiliza Git para alojar repositorios remotos y fomentar la colaboración entre programadores. Con GitHub, podemos cargar nuestro código en la nube, compartirlo con otros usuarios, recibir comentarios y sugerencias, hacer seguimiento de tareas y problemas, y acceder a una amplia gama de proyectos de código abierto.
-
-- FireBase: Firebase es una plataforma de desarrollo de aplicaciones móviles y web creada por Google. Ofrece una amplia gama de servicios y herramientas para ayudar a los desarrolladores a construir y mejorar sus aplicaciones de manera rápida y eficiente. Firebase incluye características como base de datos en tiempo real, autenticación de usuarios, almacenamiento en la nube, hosting web, mensajería en la nube, análisis, informes de fallos, y funciones de aprendizaje automático. En resumen, Firebase proporciona una solución integral para el desarrollo y la mejora de aplicaciones, abordando áreas como la autenticación de usuarios, el almacenamiento de datos, la entrega de contenido, el análisis y la mejora de la calidad.
+A continuación se mostrarán los gráficos de insights durante el sprint:
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint
 
 El equipo creó el backend utilizando el modelo de gitflow, el cual implica utilizar distintas ramas para abordar cada parte del proyecto, optimizarlo y mantenerlo actualizado. La ventaja de adoptar este enfoque es que simplifica la tarea de actualizar y realizar modificaciones, permitiendo luego mostrar y comprobar la integración sin problemas en la rama principal.
 
-| Alumno        | Actividad                                                   | 
-|---------------|-------------------------------------------------------------|
-| Angel Cancho  | Implementación create subscription                                 |
-| Italo Luna    | Implementación users     |
-| Augusto Pin   | Implementación profiles                               |
-| Brenda Gamio  | Implementación create subscription                                |
+| Alumno       | Actividad                          |
+| ------------ | ---------------------------------- |
+| Angel Cancho | Implementación create subscription |
+| Italo Luna   | Implementación users               |
+| Augusto Pin  | Implementación profiles            |
+| Brenda Gamio | Implementación create subscription |
 
 
 **Nethwork Graphs del repositorio del backend Web Application**
@@ -3930,11 +3909,58 @@ El equipo creó el backend utilizando el modelo de gitflow, el cual implica util
    <img src="assets/-sp2.png" alt="insights"></img>
 </div>
 
+## 5.3 Validation Interviews
+
+### 5.3.1 Diseño de Entrevistas
+
+Para la validación de nuestro proyecto, hemos diseñado una serie de entrevistas con el fin de obtener feedback de nuestros usuarios. A continuación se presentan las preguntas que se realizarán en las entrevistas:
+
+Preguntas generales:
+- ¿Cuál es tu nombre?
+- ¿Qué edad tienes?
+- ¿Dónde vives actualmente?
+- ¿A qué te dedicas?
+
+
+Preguntas segmento propietario:
+- ¿Qué características de AlquilaFacil te resultan más útiles? - ¿Por qué?
+- ¿Qué opinas sobre el proceso de registro y publicación de espacios en la plataforma?
+- ¿Cómo valoras las herramientas de gestión para actualizar la disponibilidad y características de tus espacios?
+- ¿Qué opinas sobre el sistema de comunicación con los potenciales clientes a través de la plataforma?
+- ¿Cómo valoras la interfaz de usuario en términos de facilidad de uso y accesibilidad?
+
+Preguntas segmento organizador:
+- ¿Qué características de AlquilaFacil te llaman más la atención? - ¿Por qué?
+- ¿Qué opinas sobre el diseño y la funcionalidad de las herramientas de búsqueda y filtrado de espacios para eventos?
+- ¿Qué opinas sobre el proceso de reserva y la gestión de eventos a través de la plataforma?
+- ¿Qué opinas sobre la funcionalidad de recomendaciones de espacios según el tipo de evento?
+- ¿Cómo valoras la interfaz de usuario en términos de facilidad de uso y accesibilidad?
+
+### 5.3.2 Registro de Entrevistas
+
+**Segmento propietario:**
+
+**Entrevista 1:**
+
+**Entrevista 2:**
+
+**Segmento organizador:**
+
+**Entrevista 1:**
+
+**Entrevista 2:**
+
+### 5.3.3 Evaluaciones según heurísticas
+
+## 5.4 Video About-the-Product
+
 # Conclusiones
 
 En conclusión, AlquilaFácil no solo presenta una solución tecnológica innovadora para simplificar el proceso de alquiler de espacios para eventos, sino que también establece una nueva dimensión en la industria al conectar de manera eficiente a propietarios y organizadores. Esta plataforma no solo se limita a ofrecer una herramienta conveniente, sino que aspira a transformar la forma en que se gestionan los eventos al proporcionar una experiencia integral y sin contratiempos.
 
 Con una visión ambiciosa de convertirse en la principal plataforma global en su sector, AlquilaFácil se compromete a ofrecer un servicio que va más allá de las expectativas convencionales. Promete no solo facilitar la búsqueda y reserva de espacios, sino también garantizar una experiencia fluida y sin problemas para todos sus usuarios, desde propietarios que desean rentabilizar sus espacios hasta organizadores en busca de la ubicación perfecta para sus eventos. Este enfoque impulsa la eficiencia y la satisfacción en cada paso del camino, estableciendo a AlquilaFácil como un líder innovador en la industria de alquiler de espacios para eventos.
+
+## Video About-the-Team
 
 # Bibliografía
 
@@ -3953,10 +3979,10 @@ Con una visión ambiciosa de convertirse en la principal plataforma global en su
 - Inmuebles de Lima (https://inmueblesdelima.com.pe/)
 
 # Anexos
-| Sección | Enlace al video |
-| ------------ | ------------ |
-| Video grupal del TB1 | https://upcedupe-my.sharepoint.com/personal/u202210257_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202210257%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre202401%2D%20si730%2Dsw56%2DAlquilaFacil%2Dexpo%2Dtb1%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview |
-| Landing-Page | https://aplicaciones-web-sw56-alquilafacil.github.io/Landing-Page-AF/ |
-| Frontend Web Application | https://alquilafacil-webapp-v1.web.app/home |
-| Video grupal del Sprint 2 | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120344_upc_edu_pe/Ee3pMyyas-JBnIgTkvLxDH4BY2OyuLWF5pFtJFZZebLC-g?e=aYRwNQ |
+| Sección                   | Enlace al video                                                                                                                                                                                                                                                                               |
+| ------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Video grupal del TB1      | https://upcedupe-my.sharepoint.com/personal/u202210257_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202210257%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre202401%2D%20si730%2Dsw56%2DAlquilaFacil%2Dexpo%2Dtb1%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview |
+| Landing-Page              | https://aplicaciones-web-sw56-alquilafacil.github.io/Landing-Page-AF/                                                                                                                                                                                                                         |
+| Frontend Web Application  | https://alquilafacil-webapp-v1.web.app/home                                                                                                                                                                                                                                                   |
+| Video grupal del Sprint 2 | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120344_upc_edu_pe/Ee3pMyyas-JBnIgTkvLxDH4BY2OyuLWF5pFtJFZZebLC-g?e=aYRwNQ                                                                                                                                                               |
 
