@@ -3951,17 +3951,21 @@ Preguntas segmento organizador:
 
 **Entrevista 1:**
 
-Nombres: 
-Apellidos: 
-Edad:
-Lugar de residencia:
-Entrevistador:
+Nombres: Mathias Tsuneo
+Apellidos: Kunimoto Watanabe
+Edad: 19
+Lugar de residencia: Jesús María
+Entrevistador: Italo Luna
 
 Evidencia de la entrevista: 
 
-<img src="" alt="Entrevista 01 Segmento propietario">
+<img src="assets/mathias-vr.png" alt="Entrevista 01 Segmento propietario">
+
+Link de entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213375_upc_edu_pe/EQtzzIJC-EpDnw6fVoJDoOIBuI0ZAPHew3ewtVwhvHEnbQ?e=8yDXea
 
 Resumen de la entrevista:
+En esta entrevista, Mathias nos comentó que al ver la webapp se quedó sorprendido y emocionado por cómo estaba diseñada. Nos dijo que sin duda la usaría, ya que le parecía muy útil. Además, destacó que tiene un diseño tranquilo y minimalista, lo cual le resultó muy atractivo. Mathias también mencionó que la interfaz es intuitiva y fácil de navegar, lo que facilita su uso tanto para principiantes como para usuarios más experimentados. En resumen, elogió tanto la funcionalidad como la estética de la webapp, subrayando que es una herramienta valiosa y bien concebida.
+
 
 **Segmento organizador:**
 
