@@ -4023,6 +4023,151 @@ Al momento de entrar a la pagina todo esta en ingles y personas que no entienden
 Recomendación:
 Implementar i18n.
 
+Tareas a evaluar
+1. Desktop landing page<br>
+1.1. Información y descripción de la aplicación y sus funcionalidades<br>
+1.2.	Header y footer apropiado para la landing page<br>
+1.3.	Interacción del landing page con la aplicación<br>
+
+2.	Web Application<br>
+2.1.	Inicio de sesión de usuario existente<br>
+2.2.	Acciones de retroceso dentro de la aplicación<br>
+2.3.	Opciones de cancelar o salir del registro de espcaios<br>
+2.4.	Elementos de la interfaz de usuario consistentes<br>
+2.5.	Pestañas de navegación dentro de la aplicación<br>
+2.6.	Botones interactivo y de uso intuitivo<br>
+2.7.	Búsqueda por filtros<br>
+2.8.	Navegación y orientación dentro de la aplicación<br>
+2.9.	Cambio de idioma de la aplicación<br>
+
+No están incluidas en esta versión de la evaluación las siguientes tareas:
+1.	Desktop landing page<br>
+1.1.	Redes sociales asociadas al startup<br>
+1.2.	Política de privacidad y condiciones de uso<br>
+2.	Web Application<br>
+2.1.	Registro de usuario nuevo<br>
+2.2.	Acciones de retroceso dentro de la aplicación<br>
+2.3.	Opciones de cancelar o salir del registro de espcaios<br>
+2.4.	Elementos de la interfaz de usuario consistentes<br>
+2.5.	Política de privacidad y condiciones de uso<br>
+
+Escala de severidad:
+
+| Nivel | Descripción |
+|-------|-------------|
+| 1     | Problema superficial: puede ser fácilmente superado por el usuario u ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo. |
+| 2     | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo para la siguiente entrega. |
+| 3     | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta. |
+| 4     | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta. |
+
+Landing page <br>
+Tabla resumen:
+
+| # | Problema | Escala de severidad | Heurística/Principio violada |
+|---|----------|---------------------|------------------------------|
+| 1 | Al seleccionar los botones interactivos “Saber más” no lleva a nada. | 3 | Usability - Coincidencia entre el sistema y el mundo real. |
+| 2 | Al seleccionar los botones interactivos la sección de “Algunos de muchos lugares donde estamos” no lleva a espacios en donde se indica. | 3 | Usability - Coincidencia entre el sistema y el mundo real. |
+| 3 | Al seleccionar los botones interactivos la sección antes del footer, no llevan a espacios filtrados por esas características. | 3 | Usability - Coincidencia entre el sistema y el mundo real. |
+| 4 | La información relacionada con el start up y utilidad del producto es inexacta e insuficiente. | 3 | Inclusive Design: Diseño Centrado en el Usuario |
+
+PROBLEMA #01: Al seleccionar los botones interactivos “Saber más” no lleva a nada.<br>
+
+Escala de severidad: 03<br>
+Principio violdado: Usability - Coincidencia entre el sistema y el mundo real.<br>
+Descripción del problema: 
+
+<img src="assets/sabermas.png" alt="sabermas">
+
+Recomendación: Para mejorar la experiencia del usuario y cumplir con las heurísticas mencionadas, se recomienda que al seleccionar el botón "Saber más", el usuario sea redirigido de manera clara y visible al formulario de registro o inicio de sesión correspondiente para poder registrar un espacio.<br>
+
+PROBLEMA #02: Al seleccionar los botones interactivos la sección de “Algunos de muchos lugares donde estamos” no lleva a espacios en donde se indica.
+Escala de severidad: 03<br>
+Principio violdado: Usability - Coincidencia entre el sistema y el mundo real.<br>
+Descripción del problema: <br>
+
+<img src="assets/lugares.png" alt="sabermas">
+
+Recomendación: Para mejorar la experiencia del usuario y cumplir con las heurísticas mencionadas, se recomienda que al seleccionar cualquiera de los botones el usuario sea redirigido de manera clara y visible a una sección en dónde muestre espacios destacados de cada ciudad relacionada.<br>
+
+PROBLEMA #03:  Al seleccionar los botones interactivos la sección antes del footer, no llevan a espacios filtrados por esas características.
+
+Escala de severidad: 03<br>
+Principio violdado: Usability - Coincidencia entre el sistema y el mundo real.<br>
+Descripción del problema: <br>
+
+<img src="assets/footer-img.png" alt="sabermas">
+
+Recomendación: Para mejorar la experiencia del usuario y cumplir con las heurísticas mencionadas, se recomienda que al seleccionar cualquiera de los botones el usuario sea redirigido de manera clara y visible a una sección en dónde muestre espacios destacados de cada tipo.<br>
+
+PROBLEMA #04: La información relacionada con el start up y utilidad del producto es inexacta e insuficiente.<br>
+
+Escala de severidad: 03<br>
+Principio violdado: Usability - Coincidencia entre el sistema y el mundo real.<br>
+Descripción del problema: El problema identificado radica en la inexactitud y la insuficiencia de la información relacionada con el inicio y la utilidad del producto, lo que puede llevar a malentendidos, desinformación y dificultades en la comprensión por parte de los usuarios, impactando negativamente en su experiencia y en la percepción del producto o servicio.
+
+<img src="assets/foter-img2.png" alt="sabermas">
+
+Recomendación: <br>
+Para resolver este problema, se recomienda lo siguiente: <br>
+•	Verificar y corregir cualquier inexactitud en la información relacionada con el inicio y la utilidad del producto. <br>
+•	Proporciona información más detallada y completa sobre el inicio y la utilidad del producto.<br>
+
+Web application
+Tabla resumen:
+
+| # | Problema | Escala de severidad | Heurística/Principio violada |
+|---|----------|---------------------|------------------------------|
+| 1 | Funcionalidades indisponibles relacionados a la modificación o personalización de perfil, además de eliminar cuenta de usuario. | 3 | Usability - Flexibilidad y eficiencia de uso / Usability – Prevenir errores |
+| 2 | Resulta imposible encontrar información precisa respecto a las funcionalidades ofrecidas por cada plan de la suscripción. | 3 | Information Arquitecture: Jerarquía de información. |
+| 3 | El formulario de Contacto no muestra funcionalidad. | 4 | Usability - Visibilidad del estado del sistema |
+| 4 | Incapacidad para modificar o eliminar la información de los espacios previamente registrados. | 4 | Usability-Prevención de errores |
+
+PROBLEMA #01: Funcionalidades indisponibles relacionados a la modificación o personalización de perfil, además de eliminar cuenta de usuario
+Escala de severidad: 03<br>
+Principio violdado: <br>
+Usability - Flexibilidad y eficiencia de uso<br>
+Usability - Prevenir errores<br>
+
+Descripción del problema: El problema identificado se refiere a la falta de funcionalidades disponibles en la aplicación que permitan a los usuarios modificar o personalizar sus perfiles de usuario, así como la eliminación de sus cuentas. Esta carencia afecta la flexibilidad y la 303 / 315 README.md 2023-11-23 eficiencia de uso, ya que los usuarios no tienen la capacidad de gestionar sus perfiles de manera efectiva y no cuentan con opciones para corregir errores o deshacer acciones. Además, la aplicación no cumple con la heurística de "Flexibilidad y eficiencia de uso", ya que no proporciona estas funciones esenciales.<br>
+
+<img src="assets/account.png" alt="sabermas">
+
+Recomendación:<br>
+Para resolver el problema, se sugiere integrar de manera eficiente y accesible estas características clave en la interfaz. Además, es fundamental implementar salvaguardias de datos y confirmaciones al eliminar cuentas, con el objetivo de prevenir eliminaciones accidentales.<br>
+
+PROBLEMA #02: Resulta imposible encontrar información precisa respecto a las funcionalidades ofrecidas por cada plan de la suscripción.<br>
+
+Escala de severidad: 03<br>
+Principio violado: Information Arquitecture <br>
+Descripción del problema: El problema identificado radica en la imposibilidad de encontrar información precisa sobre las funcionalidades ofrecidas por cada plan de suscripción en el aplicativo. Esto se debe a una deficiente organización y presentación de la información, lo que dificulta que los usuarios accedan de manera efectiva a los detalles de cada plan y tomen decisiones informadas. La falta de claridad en la arquitectura de la información obstaculiza la navegación de los usuarios y puede resultar en una experiencia frustrante y confusa al intentar seleccionar el plan de suscripción adecuado.<br>
+
+<img src="assets/propietario.png" alt="sabermas">
+
+Recomendación:<br>
+•	Estructurar la información sobre los planes de suscripción de manera lógica y organizada. <br>
+•	Utilizar una jerarquía clara para destacar las funcionalidades de cada plan <br>
+•	Utilizar tablas comparativas u otros elementos visuales para presentar las funcionalidades de manera más clara y efectiva. <br>
+•	Asegurarse de que las etiquetas y la navegación relacionadas con los planes de suscripción sean consistentes.<br><br>
+PROBLEMA #03: El formulario de Contacto no muestra funcionalidad.
+Escala de severidad: 04<br>
+Principio violado: Usability- Visibilidad del estado del sistema <br>
+Descripción del problema: El problema identificado consiste en que el formulario de contacto en el aplicativo web o aplicación no muestra funcionalidad. En otras palabras, los usuarios no pueden utilizar el formulario para enviar consultas, comentarios o mensajes al propietario de los espacios. Esta falta de funcionalidad en el formulario de contacto dificulta que los usuarios se comuniquen de manera efectiva, lo que puede resultar en una experiencia frustrante y en la incapacidad de completar tareas importantes, como realizar preguntas o proporcionar retroalimentación.<br>
+
+<img src="assets/contact.png" alt="sabermas">
+
+Recomendación:<br>
+Asegurarse de que el formulario de contacto funcione correctamente y que los usuarios reciban retroalimentación después de enviar su mensaje, como un mensaje de confirmación o un redireccionamiento a una página de agradecimiento.<br>
+
+PROBLEMA #04: Incapacidad para modificar o eliminar la información de los espacios previamente registrados.<br>
+Escala de severidad: 04<br>
+Principio violado: Usability – Prevención de errores <br>
+Descripción del problema: El problema identificado se refiere a la incapacidad de modificar o eliminar la información de los espacios previamente registrados en la aplicación. Los usuarios no tienen la opción de corregir errores, actualizar datos obsoletos o eliminar registros no deseados, lo que puede resultar en información inexacta y desactualizada en la aplicación. Esta limitación afecta la usabilidad y la capacidad de los usuarios para mantener registros precisos y completos de los espacios ya registrados.<br>
+
+<img src="assets/thatsit.png" alt="sabermas">
+
+Recomendación:<br>
+Implementa una funcionalidad que permita a los usuarios editar la información de los espacios registrados. Esto les permitirá corregir errores, actualizar datos obsoletos y mantener registros precisos.<br>
+
 ## 5.4. Video About-the-Product
 
 #### Estara en archivos adjuntos
