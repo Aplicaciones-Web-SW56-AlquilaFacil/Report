@@ -4122,6 +4122,22 @@ Link de entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201721995
 
 Resumen de la entrevista:
 En esta entrevista, Miguel examinó la landing page del servicio. Durante su revisión, Miguel confirmó la facilidad de navegación entre los registros de espacios. Además, hizo hincapié en que la aplicación es bastante sencilla y fácil, intuitiva para cualquiera que quiera registrar su espacio.
+
+**Entrevista 4:**
+
+Nombres: Sebastian Andres
+Apellidos: Campero 
+Lugar de residencia: Chorrillos
+Entrevistador: Angel Cancho Corilla
+
+Evidencia de la entrevista: 
+
+<img src="assets/evidencia-img.png" alt="Entrevista 01 Segmento propietario">
+
+Link de entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201721995_upc_edu_pe/EcFbsxyDa8dNtRHN9hLzHjkBvqMa8cpm7HDNJxXwp06Xag?e=d7v4tH&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D  
+
+Resumen de la entrevista:
+En esta entrevista, Sebastian revisó la pagina web. Durante su evaluación, destacó la claridad y organización del diseño, mencionando que la navegación entre las distintas seccion que tiene la pagina. Además, subrayó que la aplicación es extremadamente amigable y accesible, facilitando el proceso para cualquier usuario que desee encontrar o registrar su espacio.
  
 
 **Segmento organizador:**
