@@ -394,6 +394,7 @@ En esta entrega nos enfocamos en implementar mejoras dadas y desarrollar nuestra
   - [5.3 Validation Interviews](#53-validation-interviews)
     - [5.3.1 Diseño de Entrevistas](#531-diseño-de-entrevistas)
     - [5.3.2 Registro de Entrevistas](#532-registro-de-entrevistas)
+  - [Link del video con todas las entrevistas de validación: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201721995\_upc\_edu\_pe/EXKDndrj4WpAjZfTQz6uBukByI1I1\_del5CFGWq2SkxLBg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D\&e=hizd6X](#link-del-video-con-todas-las-entrevistas-de-validación-httpsupcedupe-mysharepointcomvgpersonalu201721995_upc_edu_peexkdndrj4wpajzftqz6ubukbyi1i1_del5cfgwq2skxlbgnaveyjyzwzlcnjhbeluzm8ionsicmvmzxjyywxbchaioijtdhjlyw1xzwjbchailcjyzwzlcnjhbfzpzxcioijtagfyzurpywxvzy1maw5riiwicmvmzxjyywxbchbqbgf0zm9ybsi6ildlyiisinjlzmvycmfstw9kzsi6inzpzxcifx03dehizd6x)
     - [5.3.3. Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)
   - [5.4. Video About-the-Product](#54-video-about-the-product)
       - [Estara en archivos adjuntos](#estara-en-archivos-adjuntos)
@@ -4071,7 +4072,7 @@ En esta sección se especifican los detalles del Sprint Planning Meeting, que es
             <b>Time</b>
         </td>
         <td>
-            10:00 pm         
+            9:00 pm         
         </td>
     </tr>
        <tr align="left">
@@ -4445,6 +4446,8 @@ Preguntas segmento organizador:
 
 ### 5.3.2 Registro de Entrevistas
 
+## Link del video con todas las entrevistas de validación: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201721995_upc_edu_pe/EXKDndrj4WpAjZfTQz6uBukByI1I1_del5CFGWq2SkxLBg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=hizd6X
+
 **Segmento propietario:**
 
 **Entrevista 1:**
@@ -4464,7 +4467,7 @@ Evidencia de la entrevista:
 
 <img src="assets/mathias-vr.png" alt="Entrevista 01 Segmento propietario">
 
-Link de entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213375_upc_edu_pe/EQtzzIJC-EpDnw6fVoJDoOIBuI0ZAPHew3ewtVwhvHEnbQ?e=8yDXea
+Minuto de la entrevista: 0:00
 
 Resumen de la entrevista:
 En esta entrevista, Rodrigo Aguilar nos compartió sus impresiones sobre la webapp, destacando que al verla por primera vez, se quedó gratamente sorprendido y emocionado por su diseño. Rodrigo afirmó que sin duda la utilizaría, pues le parece una herramienta de gran utilidad. Asimismo, resaltó que el diseño es sereno y minimalista, características que encontró sumamente atractivas. 
@@ -4486,7 +4489,7 @@ Evidencia de la entrevista:
 
 <img src="assets/jessica-vr.png" alt="Entrevista 01 Segmento propietario">
 
-Link de entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210257_upc_edu_pe/Ed-ncq8H6UFNgpHlJUBD9uwBPFzzyBLR7_81gbHvvfDecA?e=P3ByTt&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D 
+Minuto de la entrevista: 4:21
 
 Resumen de la entrevista:
 En esta entrevista, Jessica nos dice que le gusta bastante la interfaz de la aplicacion y el diseño, comenta tambien que le parece muy util y tiene las funcionalidades necesarias para ser una buena aplicacion para alquilar locales, tambien que le facilitaria su trabajo de estar haciendo la publicidad manualmente y estar contactando posibles inquilinos.
@@ -4496,15 +4499,19 @@ Jessica tuvo observaciones como que toda la pagina estaba en ingles por lo que e
 **Entrevista 3:**
 
 Nombres: Miguel Ángel Jesús
+
 Apellidos: Carpio Cornejo
+
 Lugar de residencia: Chorrillos
+
 Entrevistador: Brenda Gamio
 
+<br>
 Evidencia de la entrevista: 
 
 <img src="assets/validation-1.png" alt="Entrevista 01 Segmento propietario">
 
-Link de entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201721995_upc_edu_pe/EULNaLT5W7tPr6Cd--shBqUBTdqCcisEvZXVBdLL8XIzrg?e=yq0hpe&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D 
+Minuto de la entrevista: 9:12
 
 Resumen de la entrevista:
 En esta entrevista, Miguel examinó la landing page del servicio. Durante su revisión, Miguel confirmó la facilidad de navegación entre los registros de espacios. Además, hizo hincapié en que la aplicación es bastante sencilla y fácil, intuitiva para cualquiera que quiera registrar su espacio.
@@ -4512,15 +4519,19 @@ En esta entrevista, Miguel examinó la landing page del servicio. Durante su rev
 **Entrevista 4:**
 
 Nombres: Sebastian Andres
+
 Apellidos: Campero 
+
 Lugar de residencia: Chorrillos
+
 Entrevistador: Angel Cancho Corilla
 
+<br>
 Evidencia de la entrevista: 
 
 <img src="assets/evidencia-img.png" alt="Entrevista 01 Segmento propietario">
 
-Link de entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201721995_upc_edu_pe/EcFbsxyDa8dNtRHN9hLzHjkBvqMa8cpm7HDNJxXwp06Xag?e=d7v4tH&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D  
+Minuto de la entrevista: 14:10  
 
 Resumen de la entrevista:
 En esta entrevista, Sebastian revisó la pagina web. Durante su evaluación, destacó la claridad y organización del diseño, mencionando que la navegación entre las distintas seccion que tiene la pagina. Además, subrayó que la aplicación es extremadamente amigable y accesible, facilitando el proceso para cualquier usuario que desee encontrar o registrar su espacio.
@@ -4545,10 +4556,10 @@ Evidencia de la entrevista:
 
 <img src="assets/rodrigo-vr.png" alt="Entrevista 01 Segmento organizador">
 
-Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213375_upc_edu_pe/EeMJrgG3bwlGitVFSv8LfbcBZl0dG0f86sR4zKBPykFTZg?e=ocnHxi
+Minuto de la entrevista: 21:01
 
 
-**Entrevista 1:**
+**Entrevista 2:**
 
 Nombres: Andrés Julián  
 
@@ -4565,7 +4576,7 @@ Evidencia de la entrevista:
 
 <img src="assets/validation-2.png" alt="Entrevista 01 Segmento organizador">
 
-Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201721995_upc_edu_pe/ETsvflq78vhOo5OEtaYDnVYB2TqbtPi8yGAmcect7BGn4g?e=OZaHCJ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+Minuto de la entrevista: 24:09
 
 ### 5.3.3. Evaluaciones según heurísticas
 
