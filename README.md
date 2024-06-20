@@ -381,7 +381,16 @@ En esta entrega nos enfocamos en implementar mejoras dadas y desarrollar nuestra
       - [5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
       - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
       - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
-      - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint-1)
+      - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
+    - [5.2.4. Sprint 4](#524-sprint-4)
+      - [5.2.4.1. Sprint Planning 4](#5241-sprint-planning-4)
+      - [5.2.4.2. Sprint Backlog 4](#5242-sprint-backlog-4)
+      - [5.2.4.3. Development Evidence for Sprint Review.](#5243-development-evidence-for-sprint-review)
+      - [5.2.4.4. Testing Suite Evidence for Sprint Review](#5244-testing-suite-evidence-for-sprint-review)
+      - [5.2.4.5. Execution Evidence for Sprint Review](#5245-execution-evidence-for-sprint-review)
+      - [5.2.4.6. Services Documentation Evidence for Sprint Review](#5246-services-documentation-evidence-for-sprint-review)
+      - [5.2.4.7. Software Deployment Evidence for Sprint Review](#5247-software-deployment-evidence-for-sprint-review)
+      - [5.2.4.8. Team Collaboration Insights during Sprint](#5248-team-collaboration-insights-during-sprint)
   - [5.3 Validation Interviews](#53-validation-interviews)
     - [5.3.1 Diseño de Entrevistas](#531-diseño-de-entrevistas)
     - [5.3.2 Registro de Entrevistas](#532-registro-de-entrevistas)
@@ -4004,7 +4013,384 @@ Para el presente sprint, se ha desarollado el API  de la web application. Para l
 
 A continuación se mostrarán los gráficos de insights durante el sprint:
 
-#### 5.2.2.8. Team Collaboration Insights during Sprint
+#### 5.2.3.8. Team Collaboration Insights during Sprint
+
+El equipo creó el backend utilizando el modelo de gitflow, el cual implica utilizar distintas ramas para abordar cada parte del proyecto, optimizarlo y mantenerlo actualizado. La ventaja de adoptar este enfoque es que simplifica la tarea de actualizar y realizar modificaciones, permitiendo luego mostrar y comprobar la integración sin problemas en la rama principal.
+
+| Alumno       | Actividad                          |
+| ------------ | ---------------------------------- |
+| Angel Cancho | Implementación create subscription |
+| Italo Luna   | Implementación users               |
+| Augusto Pin  | Implementación profiles            |
+| Brenda Gamio | Implementación create subscription |
+
+
+**Nethwork Graphs del repositorio del backend Web Application**
+<div align=center>
+   <img src="assets/nt-git-sp3.png" alt="insights"></img>
+</div>
+<div align=center>
+   <img src="assets/nt2-git-sp3.png" alt="insights"></img>
+</div>
+<div align=center>
+   <img src="assets/nt3-git-sp3.png" alt="insights"></img>
+</div>
+<div align=center>
+   <img src="assets/-sp2.png" alt="insights"></img>
+</div>
+
+
+### 5.2.4. Sprint 4
+#### 5.2.4.1. Sprint Planning 4
+En esta sección se especifican los detalles del Sprint Planning Meeting, que es una reunión que se lleva a cabo al inicio de cada sprint con la finalidad de establecer las tareas que se realizarán durante el período determinado.
+
+<table align="center"  border="1" width="70%" style="text-align:center;">
+    <tr align="left">
+        <td>
+            <b>Sprint #</b>
+        </td>
+        <td>
+            <b>Sprint 4</b>           
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan="2">
+            <b>Sprint Planning Background</b>
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Date</b>
+        </td>
+        <td>
+            20/06/24         
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Time</b>
+        </td>
+        <td>
+            10:00 pm         
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Location</b>
+        </td>
+        <td>
+            Modalidad remota y coordinacion a traves de Whastapp   
+        </td>
+    </tr>
+     </tr>
+       <tr align="left">
+        <td>
+            <b>Prepared By</b>
+        </td>
+        <td>
+            AlquilaFacil   
+        </td>
+    </tr>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Attendess (to planning meeting)</b>
+        </td>
+        <td>
+            Todos los miembros del grupo AlquilaFacil 
+        </td>
+    </tr>
+      </tr>
+       <tr align="left">
+        <td>
+            <b>Sprint 4 - 0</b>
+            <b>Review Summary</b>
+        </td>
+        <td>
+            Se implementarion los features dentro del backend de ALquilaFacil todo lo que seria el rest api.
+            </br></br>
+Se cumplió con éxito el despliegue del backend dentro del plazo acordado.
+
+La documentación se ha enriquecido con la expansión de la visión de negocio y la incorporación de los artefactos correspondientes.   
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Sprint 4 - 1</b>
+            <b>Retrospective Summary</b>
+        </td>
+        <td>
+            En líneas generales, hemos logrado mantener una excelente organización y comunicación como equipo, gracias 
+            al uso de plataformas como Google Meet. Sin embargo, siempre hay margen para mejorar aún más nuestra coordinación 
+            y colaboración en pos de la excelencia en nuestros proyectos.
+
+Para garantizar un progreso continuo en nuestros proyectos, es esencial que perfeccionemos la estimación del desarrollo 
+del despliegue del backend y la conexión a la base de datos. Esto evitará posibles desajustes en nuestro calendario y garantizará un flujo de trabajo más estable.
+
+Debemos hacer un uso más frecuente y consistente del formato Markdown en nuestra documentación y comunicaciones, ya que 
+esto facilitará la lectura y comprensión de la información por parte de todos los miembros del equipo.  
+        </td>
+    </tr>
+     <tr align="left">
+        <td colspan="2">
+            <b>Sprint Goal & User Stories</b>
+        </td>
+    </tr>
+      <tr align="left">
+        <td>
+            <b>Sprint 2 Velocity</b>
+        </td>
+        <td>
+            6
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Sum of Story Points</b>
+        </td>
+        <td>
+            18  
+        </td>
+    </tr>
+</table>
+
+
+
+#### 5.2.4.2. Sprint Backlog 4
+
+En esta sección se mostraran las tareas realizadas en el presente sprint y se adjunta una captura de pantalla y el link del tablero de tareas en la plataforma Trello.
+
+<div align=center>
+   <img src="assets/sprint3.png" alt="carrusel"></img>
+</div>
+
+Link del trello:
+https://trello.com/invite/b/eOg2zWv9/ATTId65f84c9493caa33856147ff3e4a01e8CA9B3701/alquilafacil-sprint-3
+
+</br>
+
+<table align="center" border="1" width="90%" style="text-align:center">
+    <tr>
+       <td colspan="1"><b>Sprint #</b></td>
+       <td colspan="7"><b>Sprint 3</b></td>
+     </tr>
+     <tr>
+       <td colspan="2"><b>User Story</b></td>
+       <td colspan="6"><b>Work-Item / Task</b></td>
+     </tr>
+     <tr>
+       <td><b>Id</b></td>
+       <td><b>Title</b></td>
+       <td><b>Id</b></td>
+       <td><b>Title</b></td>
+       <td><b>Description</b></td>
+       <td><b>Estimation(Hours)</b></td>
+       <td><b>Assigned To</b></td>
+       <td><b>Status(To-do/ In-Process/ To-Review/ Done)</b></td>
+     </tr>
+     <tr>
+       <td rowspan="3">TS07</td>
+       <td rowspan="3">Acceder a Endpoints</td>
+       <td>T01</td>
+       <td>Agregar feature/users</td>
+       <td>Agregar el aggregate de user</td>
+       <td>4</td>
+       <td>Italo Luna</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T02</td>
+       <td>Agregar feature/properties</td>
+       <td>Agregar el aggregate de propertie</td>
+       <td>4</td>
+       <td>Augusto Plin</td>
+       <td>Done</td>
+    </tr>
+     <tr>
+       <td>T03</td>
+       <td>Agregar feature/subscriptions</td>
+       <td>Agregar el aggregate de subscription</td>
+       <td>4</td>
+       <td>Angel Cancho y Brenda Gamio</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>TS08</td>
+       <td>Registrar User</td>
+       <td>T04</td>
+       <td>Agregar aggregate para agregar usuarios</td>
+       <td>Poner procesos de registro de usuarios</td>
+       <td>4</td>
+       <td>Italo Luna</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td rowspan="3">TS09</td>
+       <td rowspan="3">Registrar Spaces</td>
+       <td>T05</td>
+       <td>Agregar aggregate para agregar espacios</td>
+       <td>Poner procesos de registro de espacios</td>
+       <td>4</td>
+       <td>Augusto Plin</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T06</td>
+       <td>Creación de persistencia de la entidad Space</td>
+       <td>Agregar la entidad Space</td>
+       <td>2</td>
+       <td>Augusto Plin</td>
+       <td>Done</td>
+    </tr>
+     <tr>
+       <td>T07</td>
+       <td>Creación de resource de la entidad Space</td>
+       <td>Agregar servicios para obtener y mandar recursos</td>
+       <td>2</td>
+       <td>Augusto Plin</td>
+       <td>Done</td>
+    </tr>
+   <tr>
+       <td rowspan="4">TS10</td>
+       <td rowspan="4">Registrar Subscriptions</td>
+       <td>T08</td>
+       <td>Agregar aggregate para agregar subscripciones</td>
+       <td>Poner procesos de registro de subscripciones</td>
+       <td>4</td>
+       <td>Angel Cancho</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T09</td>
+       <td>Creación de la entidad Plan</td>
+       <td>Agregar la entidad Plan</td>
+       <td>2</td>
+       <td>Brenda Gamio</td>
+       <td>Done</td>
+    </tr>
+     <tr>
+       <td>T10</td>
+       <td>Creación de resource de la entidad Subscription</td>
+       <td>Agregar servicios para obtener y mandar recursos</td>
+       <td>2</td>
+       <td>Angel Cancho</td>
+       <td>Done</td>
+    </tr>
+     <tr>
+       <td>T11</td>
+       <td>Creación de resource de la entidad Plan</td>
+       <td>Agregar servicios para obtener y mandar recursos</td>
+       <td>2</td>
+       <td>Brenda Gamio</td>
+       <td>Done</td>
+    </tr>
+   <tr>
+       <td>TS11</td>
+       <td>Creación de resource de la entidad User</td>
+       <td>T12</td>
+       <td>Agregar la entidad User</td>
+       <td>Agregar comportamientos dinámicos al botón y mostrar tarjetas</td>
+       <td>2</td>
+       <td>Italo Luna</td>
+       <td>Done</td>
+    </tr>
+   <tr>
+       <td>TS12</td>
+       <td>Creación de resource de la entidad User</td>
+       <td>T13</td>
+       <td>Agregar home de la app</td>
+       <td>Agregar servicios para obtener y mandar recursos</td>
+       <td>2</td>
+       <td>Italo Luna</td>
+       <td>Done</td>
+    </tr>
+</table>
+
+#### 5.2.4.3. Development Evidence for Sprint Review.
+
+En esta sección se mostrara la tabla de commits desarrollados en el presente sprint.
+
+| Repository                                                    | Branch               | Commit id | Commit Message                                         | Commit Message Body                                    | Commited on (Date) |
+| ------------------------------------------------------------- | -------------------- | --------- | ------------------------------------------------------ | ------------------------------------------------------ | ------------------ |
+| https://github.com/Aplicaciones-Web-SW56-AlquilaFacil/Backend | master               | f2cd543   | chore: initial commit                                  | chore: initial commit                                  | 29/05/2024         |
+|                                                               | feature/profiles     | f2cd543   | feat: add locals bounded context                       | feat: add locals bounded context                       | 29/05/2024         |
+|                                                               | feature/properties   | c9c9b42   | feat: add local categories table and acl               | feat: add local categories table and acl               | 05/06/2024         |
+|                                                               | feature/subscription | 4a0bcd4   | feat(DbContext): added entity mapping for Subscription | feat(DbContext): added entity mapping for Subscription | 06/06/2024         |
+|                                                               | feature/users        | b2dae9c   | feat: added controllers                                | feat: added controllers                                | 06/06/2024         |
+
+#### 5.2.4.4. Testing Suite Evidence for Sprint Review
+
+<table align="left" border="1" width="100%">
+  <tr>
+    <th>Repository</th>
+    <th>Branch</th>
+    <th>Commit</th>
+    <th>Author</th>
+    <th>Message</th>
+    <th>Date</th>
+  </tr>
+  <tr>
+    <td>Web-Application-AF</td>
+    <td>feature/aceptance_test</td>
+    <td>71084fd</td>
+    <td>Augusto Pin</td>
+    <td>doc: add acceptance tests</td>
+    <td>12/04/2024</td>
+  </tr>
+</table>
+
+
+#### 5.2.4.5. Execution Evidence for Sprint Review
+
+En el presente realizamos algunos cambios en el frontend, dado a que cumplimos con casi todos los requerimientos funcionales en el sprint pasado. De igual forma, se puede acceder a la aplicación web a mediante el siguiente enlace. https://alquilafacil-webapp-v1.web.app/home
+
+En el landing page igualmente, conectamos con la webapp, adjuntamos link para acceder. https://aplicaciones-web-sw56-alquilafacil.github.io/Landing-Page-AF/
+
+Evidencia del Backend
+
+<img src="assets/sigin-img2.png" alt="authentication"></img>
+<img src="assets/sigin-img-response.png" alt="authentication"></img>
+
+<img src="assets/signup-img.png" alt="authentication"></img>
+<img src="assets/signup-img-response.png" alt="authentication"></img>
+
+<img src="assets/profile-img.png" alt="authentication"></img>
+
+<img src="assets/local-category-img.png" alt="category"></img>
+<img src="assets/local-category-img-response.png" alt="category"></img>
+
+<img src="assets/local-img.png" alt="category"></img>
+<img src="assets/local-img-response.png" alt="category"></img>
+
+<img src="assets/plan-img.png" alt="category"></img>
+<img src="assets/plan-img-response.png" alt="category"></img>
+
+<img src="assets/subscription-img.png" alt="category"></img>
+<img src="assets/subscription-img-response.png" alt="category"></img>
+
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review
+
+En esta sección se presentaran los endpoints desarrollados en el presente sprint y se adjuntan capturas de pantalla de las acciones Crud y otros metodos.
+En el alcance del sprint, se han desarollado los bounded context de users, collaborations, properties.
+
+Se adjunta el link del repositorio del backend en Github: https://github.com/Aplicaciones-Web-SW56-AlquilaFacil/Backend
+
+#### 5.2.4.7. Software Deployment Evidence for Sprint Review
+
+Para el presente sprint, se ha desarollado el API  de la web application. Para lo cual se emplearon las siguientes herramientas. Sin embargo, dentro del alcance de este sprint no se contempla el deploy del API.
+
+<ul>
+<li> Git: Sistema de control de versiones el cual empleamos para trabajar de manera colaborativa y monitorear las versiones de la web application en un repositorio remoto. </li>
+<li> Gitflow: Flujo de trabajo colaborativo, esto nos permitió dividir el trabajo por ramas dentro de nuestro repositorio con la finalidad de facilitar la colaboración en el desarrollo. </li>
+<li> GitHub: Plataforma que nos brindo la herramienta de crear nuestro repositorio para almacenar las versiones de nuestro proyecto. </li>
+<li> Swagger Ui: Herramienta para probar y documentar nuestra API. </li>
+<li> FireBase: Firebase es una plataforma de desarrollo de aplicaciones móviles y web creada por Google. Ofrece una amplia gama de servicios y herramientas para ayudar a los desarrolladores a construir y mejorar sus aplicaciones de manera rápida y eficiente. Firebase incluye características como base de datos en tiempo real, autenticación de usuarios, almacenamiento en la nube, hosting web, mensajería en la nube, análisis, informes de fallos, y funciones de aprendizaje automático. En resumen, Firebase proporciona una solución integral para el desarrollo y la mejora de aplicaciones, abordando áreas como la autenticación de usuarios, el almacenamiento de datos, la entrega de contenido, el análisis y la mejora de la calidad. </li>
+
+</ul>
+
+A continuación se mostrarán los gráficos de insights durante el sprint:
+
+#### 5.2.4.8. Team Collaboration Insights during Sprint
 
 El equipo creó el backend utilizando el modelo de gitflow, el cual implica utilizar distintas ramas para abordar cada parte del proyecto, optimizarlo y mantenerlo actualizado. La ventaja de adoptar este enfoque es que simplifica la tarea de actualizar y realizar modificaciones, permitiendo luego mostrar y comprobar la integración sin problemas en la rama principal.
 
