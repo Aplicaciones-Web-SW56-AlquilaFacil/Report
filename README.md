@@ -2120,11 +2120,11 @@ A continuación se pueden apreciar los Empathy Mapping de los segmentos objetivo
     </tr>    
     <tr style="text-align:center">
     <td>TS08</td>
-    <td>Registrar User</td>
+    <td>Registrar Profiles</td>
     <td>
         <strong>Como</strong> desarrollador backend en AlquilaFácil,
         <strong>quiero</strong> contar con un endpoint
-        <strong>para</strong> poder registrar a un usuario.
+        <strong>para</strong> poder registrar a un perfil de usuario.
     </td>
     <td>
         <h5>Escenario 01:</h5>
@@ -2135,17 +2135,17 @@ A continuación se pueden apreciar los Empathy Mapping de los segmentos objetivo
     </tr> 
     <tr style="text-align:center">
     <td>TS09</td>
-    <td>Registrar Spaces</td>
+    <td>Registrar Propierties</td>
     <td>
         <strong>Como</strong> desarrollador backend en AlquilaFácil,
         <strong>quiero</strong> contar con un endpoint
-        <strong>para</strong> poder registrar a un espacio.
+        <strong>para</strong> poder registrar a una propiedad.
     </td>
     <td>
         <h5>Escenario 01:</h5>
-        <strong>Dado</strong> que se reciben los datos necesarios para la creación de un evento y son validados correctamente
-        <strong>cuando</strong> se realiza el registro del evento
-        <strong>entonces</strong> se registra el evento en la base de datos.
+        <strong>Dado</strong> que se reciben los datos necesarios para la creación de una propiedad y son validados correctamente
+        <strong>cuando</strong> se realiza el registro de la propiedad
+        <strong>entonces</strong> se registra la propiedad en la base de datos.
     </td>
     </tr>  
     <tr style="text-align:center">
@@ -2165,35 +2165,125 @@ A continuación se pueden apreciar los Empathy Mapping de los segmentos objetivo
     </tr> 
     <tr style="text-align:center">
     <td>TS11</td>
-    <td>Creación de persistencia de la entidad User</td>
+    <td>Creación de persistencia de la entidad Profile</td>
     <td>
         <strong>Como</strong> desarrollador backend en AlquilaFácil,
-        <strong>quiero</strong> implementar la persistencia de la información de la entidad User
-        <strong>para</strong> asegurar que los datos de los asistentes se almacenen de manera segura y estén disponibles cuando sea necesario.
+        <strong>quiero</strong> implementar la persistencia de la información de la entidad Profile
+        <strong>para</strong> asegurar que los datos de los perfiles se almacenen de manera segura y estén disponibles cuando sea necesario.
     </td>
     <td>
         <h5>Escenario 01:</h5>
         <strong>Dado</strong> que se recibe la data del exterior
         <strong>y</strong> esta data se valida correctamente
-        <strong>cuando</strong> se realiza el registro de la data en la tabla de datos de la entidad User
+        <strong>cuando</strong> se realiza el registro de la data en la tabla de datos de la entidad Profile
         <strong>entonces</strong> se recibe una respuesta exitosa indicando que la data se ha registrado con éxito en la base de datos.
     </td>
     </tr>    
     <tr style="text-align:center">
     <td>TS12</td>
-    <td>Creación de resource de la entidad User</td>
+    <td>Creación de resource de la entidad Profile</td>
     <td>
         <strong>Como</strong> desarrollador backend en AlquilaFácil,
-        <strong>quiero</strong> devolver un resource de la información de la entidad User
+        <strong>quiero</strong> devolver un resource de la información de la entidad Profile
         <strong>para</strong> realizar consultas.
     </td>
     <td>
         <h5>Escenario 01:</h5>
         <strong>Dado</strong> que se recibe una consulta del exterior
         <strong>y</strong> esta se procesa correctamente
-        <strong>entonces</strong> se devuelve el resource correspondiente a la consulta realizada a la tabla de datos de la entidad Users.
+        <strong>entonces</strong> se devuelve el resource correspondiente a la consulta realizada a la tabla de datos de la entidad Profile.
     </td>
-    </tr>           
+    </tr>
+    <tr style="text-align:center">
+    <td>TS13</td>
+    <td>Registrar Contacts</td>
+    <td>
+        <strong>Como</strong> desarrollador backend en AlquilaFácil,
+        <strong>quiero</strong> contar con un endpoint
+        <strong>para</strong> realizar un contacto.
+    </td>
+    <td>
+        <h5>Escenario 01:</h5>
+        <strong>Dado</strong> que se reciben los datos necesarios para la creación de un contacto y son validados correctamente
+        <strong>cuando</strong> se realiza el registro del contacto
+        <strong>entonces</strong> se registra el contacto en la base de datos.
+    </td>
+    </tr>
+    <tr style="text-align:center">
+    <td>TS14</td>
+    <td>Registrar IAM</td>
+    <td>
+        <strong>Como</strong> desarrollador backend en AlquilaFácil,
+        <strong>quiero</strong> contar con un endpoint
+        <strong>para</strong> realizar la autenticación de un usuario.
+    </td>
+    <td>
+        <h5>Escenario 01:</h5>
+        <strong>Dado</strong> que se reciben los datos necesarios para la autenticación de un usuario y son validados correctamente
+        <strong>cuando</strong> se realiza la autenticación y creación del usuario
+        <strong>entonces</strong> se registra el usuario en la base de datos.
+    </td>
+    </tr>
+    <tr style="text-align:center">
+    <td>TS15</td>
+    <td>Registrar Locals</td>
+    <td>
+        <strong>Como</strong> desarrollador backend en AlquilaFácil,
+        <strong>quiero</strong> contar con un endpoint
+        <strong>para</strong> realizar un local.
+    </td>
+    <td>
+        <h5>Escenario 01:</h5>
+        <strong>Dado</strong> que se reciben los datos necesarios para la creación de un local y son validados correctamente
+        <strong>cuando</strong> se realiza el registro del local
+        <strong>entonces</strong> se registra el local en la base de datos.
+    </td>
+    </tr>
+    <tr style="text-align:center">
+    <td>TS16</td>
+    <td>Agregar los Units tests</td>
+    <td>
+        <strong>Como</strong> desarrollador backend en AlquilaFácil,
+        <strong>quiero</strong> agregar pruebas unitarias al código existente
+        <strong>para</strong> asegurarme de que las funciones individuales funcionan correctamente y prevenir errores en futuras modificaciones.
+    </td>
+    <td>
+        <h5>Escenario 01:</h5>
+        <strong>Dado</strong> un proyecto con funcionalidades implementadas que necesitan ser verificadas
+        <strong>cuando</strong> se escriben y ejecutan pruebas unitarias para las funcionalidades
+        <strong>entonces</strong> las pruebas deben ser verificadas que se comporten según lo esperado.
+    </td>
+    </tr>
+    <tr style="text-align:center">
+    <td>TS17</td>
+    <td>Agregar los Acceptance tests</td>
+    <td>
+        <strong>Como</strong> desarrollador backend en AlquilaFácil,
+        <strong>quiero</strong> agregar pruebas de aceptación al código existente
+        <strong>para</strong> asegurarme de que el sistema cumple con los requisitos y funciona correctamente desde la perspectiva del usuario final.
+    </td>
+    <td>
+        <h5>Escenario 01:</h5>
+        <strong>Dado</strong> una funcionalidad existente en el sistema que necesita ser validad
+        <strong>cuando</strong> se escriben y ejecutan pruebas de aceptación para validar características del sistema
+        <strong>entonces</strong> las pruebas deben ser verificadas que se cumple los requisitos especificados.
+    </td>
+    </tr>
+    <tr style="text-align:center">
+    <td>TS18</td>
+    <td>Agregar los Integration tests</td>
+    <td>
+        <strong>Como</strong> desarrollador backend en AlquilaFácil,
+        <strong>quiero</strong> agregar pruebas de integración al código existente
+        <strong>para</strong> asegurarme de que los diferentes módulos y componentes del sistema funcionan correctamente cuando se combinan.
+    </td>
+    <td>
+        <h5>Escenario 01:</h5>
+        <strong>Dado</strong> dos o más componentes del sistema interactúan entre sí
+        <strong>cuando</strong> se escriben y ejecutan pruebas de integración para verificar la interacción entre estos componentes
+        <strong>entonces</strong> las pruebas deben ser verificadas que los componentes funcionan correctamente y que interactúan éxitosamente.
+    </td>
+    </tr>   
     </body>
 </table>
 
@@ -3762,7 +3852,7 @@ esto facilitará la lectura y comprensión de la información por parte de todos
     </tr>
       <tr align="left">
         <td>
-            <b>Sprint 2 Velocity</b>
+            <b>Sprint 3 Velocity</b>
         </td>
         <td>
             6
@@ -4108,7 +4198,7 @@ En esta sección se especifican los detalles del Sprint Planning Meeting, que es
             <b>Review Summary</b>
         </td>
         <td>
-            Se implementarion los features dentro del backend de ALquilaFacil todo lo que seria el rest api.
+            Se implementarion los features dentro del backend de ALquilaFacil todo lo que seria el rest API y mejoramiento del frontend de la web application con la conexión directa de nuestra rest API con nuestra app. Además de implementar los Unit test, Acceptance test e Integration test para asegurar funcionalidades individuales, que funcione según lo esperado y la comunicación entre componentes.
             </br></br>
 Se cumplió con éxito el despliegue del backend dentro del plazo acordado.
 
@@ -4139,7 +4229,7 @@ esto facilitará la lectura y comprensión de la información por parte de todos
     </tr>
       <tr align="left">
         <td>
-            <b>Sprint 2 Velocity</b>
+            <b>Sprint 4 Velocity</b>
         </td>
         <td>
             6
@@ -4162,7 +4252,7 @@ esto facilitará la lectura y comprensión de la información por parte de todos
 En esta sección se mostraran las tareas realizadas en el presente sprint y se adjunta una captura de pantalla y el link del tablero de tareas en la plataforma Trello.
 
 <div align=center>
-   <img src="assets/sprint3.png" alt="carrusel"></img>
+   <img src="assets/sprint4.png" alt="carrusel"></img>
 </div>
 
 Link del trello:
