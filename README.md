@@ -3948,8 +3948,8 @@ https://trello.com/invite/b/eOg2zWv9/ATTId65f84c9493caa33856147ff3e4a01e8CA9B370
        <td rowspan="3">TS07</td>
        <td rowspan="3">Acceder a Endpoints</td>
        <td>T01</td>
-       <td>Agregar feature/users</td>
-       <td>Agregar el aggregate de user</td>
+       <td>Agregar feature/profiles</td>
+       <td>Agregar el aggregate de profile</td>
        <td>4</td>
        <td>Italo Luna</td>
        <td>Done</td>
@@ -3972,17 +3972,17 @@ https://trello.com/invite/b/eOg2zWv9/ATTId65f84c9493caa33856147ff3e4a01e8CA9B370
     </tr>
     <tr>
        <td>TS08</td>
-       <td>Registrar User</td>
+       <td>Registrar Profiles</td>
        <td>T04</td>
-       <td>Agregar aggregate para agregar usuarios</td>
-       <td>Poner procesos de registro de usuarios</td>
+       <td>Agregar aggregate para agregar los perfiles</td>
+       <td>Poner procesos de registro de perfiles</td>
        <td>4</td>
        <td>Italo Luna</td>
        <td>Done</td>
     </tr>
     <tr>
        <td rowspan="3">TS09</td>
-       <td rowspan="3">Registrar Spaces</td>
+       <td rowspan="3">Registrar Properties</td>
        <td>T05</td>
        <td>Agregar aggregate para agregar espacios</td>
        <td>Poner procesos de registro de espacios</td>
@@ -3992,15 +3992,15 @@ https://trello.com/invite/b/eOg2zWv9/ATTId65f84c9493caa33856147ff3e4a01e8CA9B370
     </tr>
     <tr>
        <td>T06</td>
-       <td>Creación de persistencia de la entidad Space</td>
-       <td>Agregar la entidad Space</td>
+       <td>Creación de persistencia de la entidad Property</td>
+       <td>Agregar la entidad Property</td>
        <td>2</td>
        <td>Augusto Plin</td>
        <td>Done</td>
     </tr>
      <tr>
        <td>T07</td>
-       <td>Creación de resource de la entidad Space</td>
+       <td>Creación de resource de la entidad Property</td>
        <td>Agregar servicios para obtener y mandar recursos</td>
        <td>2</td>
        <td>Augusto Plin</td>
@@ -4042,17 +4042,17 @@ https://trello.com/invite/b/eOg2zWv9/ATTId65f84c9493caa33856147ff3e4a01e8CA9B370
     </tr>
    <tr>
        <td>TS11</td>
-       <td>Creación de resource de la entidad User</td>
+       <td>Creación de resource de la entidad Profile</td>
        <td>T12</td>
-       <td>Agregar la entidad User</td>
-       <td>Agregar comportamientos dinámicos al botón y mostrar tarjetas</td>
+       <td>Agregar la entidad Profile</td>
+       <td>Agregar comportamientos dinámicos al botón y mostrar perfiles</td>
        <td>2</td>
        <td>Italo Luna</td>
        <td>Done</td>
     </tr>
    <tr>
        <td>TS12</td>
-       <td>Creación de resource de la entidad User</td>
+       <td>Creación de resource de la entidad Profile</td>
        <td>T13</td>
        <td>Agregar home de la app</td>
        <td>Agregar servicios para obtener y mandar recursos</td>
@@ -4282,7 +4282,7 @@ esto facilitará la lectura y comprensión de la información por parte de todos
             <b>Sum of Story Points</b>
         </td>
         <td>
-            18  
+            15  
         </td>
     </tr>
 </table>
@@ -4305,7 +4305,7 @@ https://trello.com/invite/b/eOg2zWv9/ATTId65f84c9493caa33856147ff3e4a01e8CA9B370
 <table align="center" border="1" width="90%" style="text-align:center">
     <tr>
        <td colspan="1"><b>Sprint #</b></td>
-       <td colspan="7"><b>Sprint 3</b></td>
+       <td colspan="7"><b>Sprint 4</b></td>
      </tr>
      <tr>
        <td colspan="2"><b>User Story</b></td>
@@ -4321,36 +4321,36 @@ https://trello.com/invite/b/eOg2zWv9/ATTId65f84c9493caa33856147ff3e4a01e8CA9B370
        <td><b>Assigned To</b></td>
        <td><b>Status(To-do/ In-Process/ To-Review/ Done)</b></td>
      </tr>
-     <tr>
-       <td rowspan="3">TS07</td>
-       <td rowspan="3">Acceder a Endpoints</td>
-       <td>T01</td>
-       <td>Agregar feature/users</td>
-       <td>Agregar el aggregate de user</td>
-       <td>4</td>
-       <td>Italo Luna</td>
-       <td>Done</td>
-    </tr>
     <tr>
-       <td>T02</td>
-       <td>Agregar feature/properties</td>
-       <td>Agregar el aggregate de propertie</td>
+       <td rowspan="3">TS13</td>
+       <td rowspan="3">Registrar Contacts</td>
+       <td>T14</td>
+       <td>Agregar aggregate para agregar contactos</td>
+       <td>Poner procesos de registro de contactos</td>
        <td>4</td>
        <td>Augusto Plin</td>
        <td>Done</td>
     </tr>
-     <tr>
-       <td>T03</td>
-       <td>Agregar feature/subscriptions</td>
-       <td>Agregar el aggregate de subscription</td>
-       <td>4</td>
-       <td>Angel Cancho y Brenda Gamio</td>
+    <tr>
+       <td>T15</td>
+       <td>Creación de persistencia de la entidad Contact</td>
+       <td>Agregar la entidad Contact</td>
+       <td>2</td>
+       <td>Augusto Plin</td>
        <td>Done</td>
     </tr>
-    <tr>
-       <td>TS08</td>
-       <td>Registrar User</td>
-       <td>T04</td>
+     <tr>
+       <td>T16</td>
+       <td>Creación de resource de la entidad Contact</td>
+       <td>Agregar servicios para obtener y mandar recursos</td>
+       <td>2</td>
+       <td>Augusto Plin</td>
+       <td>Done</td>
+    </tr>
+   <tr>
+       <td rowspan="3">TS14</td>
+       <td rowspan="3">Registrar IAM</td>
+       <td>T17</td>
        <td>Agregar aggregate para agregar usuarios</td>
        <td>Poner procesos de registro de usuarios</td>
        <td>4</td>
@@ -4358,83 +4358,45 @@ https://trello.com/invite/b/eOg2zWv9/ATTId65f84c9493caa33856147ff3e4a01e8CA9B370
        <td>Done</td>
     </tr>
     <tr>
-       <td rowspan="3">TS09</td>
-       <td rowspan="3">Registrar Spaces</td>
-       <td>T05</td>
-       <td>Agregar aggregate para agregar espacios</td>
-       <td>Poner procesos de registro de espacios</td>
+       <td>T18</td>
+       <td>Creación de los comandos sign-in y sign-up</td>
+       <td>Agregar los comandos sign-in y sign-up</td>
+       <td>4</td>
+       <td>Italo Luna</td>
+       <td>Done</td>
+    </tr>
+     <tr>
+       <td>T19</td>
+       <td>Creación de resources de las entidades User, AuthenticatedUser, SignIn y SignUp</td>
+       <td>Agregar servicios para obtener y mandar recursos</td>
+       <td>6</td>
+       <td>Italo Luna y Augusto Plin</td>
+       <td>Done</td>
+    </tr>
+   <tr>
+       <td rowspan="3">TS15</td>
+       <td rowspan="3">Registrar Locals</td>
+       <td>T20</td>
+       <td>Agregar aggregate para agregar locales</td>
+       <td>Poner procesos de registro de locales</td>
        <td>4</td>
        <td>Augusto Plin</td>
        <td>Done</td>
     </tr>
     <tr>
-       <td>T06</td>
-       <td>Creación de persistencia de la entidad Space</td>
-       <td>Agregar la entidad Space</td>
+       <td>T21</td>
+       <td>Creación de persistencia de la entidad Local</td>
+       <td>Agregar la entidad Local</td>
        <td>2</td>
        <td>Augusto Plin</td>
        <td>Done</td>
     </tr>
      <tr>
-       <td>T07</td>
-       <td>Creación de resource de la entidad Space</td>
+       <td>T22</td>
+       <td>Creación de resource de la entidad Local</td>
        <td>Agregar servicios para obtener y mandar recursos</td>
        <td>2</td>
        <td>Augusto Plin</td>
-       <td>Done</td>
-    </tr>
-   <tr>
-       <td rowspan="4">TS10</td>
-       <td rowspan="4">Registrar Subscriptions</td>
-       <td>T08</td>
-       <td>Agregar aggregate para agregar subscripciones</td>
-       <td>Poner procesos de registro de subscripciones</td>
-       <td>4</td>
-       <td>Angel Cancho</td>
-       <td>Done</td>
-    </tr>
-    <tr>
-       <td>T09</td>
-       <td>Creación de la entidad Plan</td>
-       <td>Agregar la entidad Plan</td>
-       <td>2</td>
-       <td>Brenda Gamio</td>
-       <td>Done</td>
-    </tr>
-     <tr>
-       <td>T10</td>
-       <td>Creación de resource de la entidad Subscription</td>
-       <td>Agregar servicios para obtener y mandar recursos</td>
-       <td>2</td>
-       <td>Angel Cancho</td>
-       <td>Done</td>
-    </tr>
-     <tr>
-       <td>T11</td>
-       <td>Creación de resource de la entidad Plan</td>
-       <td>Agregar servicios para obtener y mandar recursos</td>
-       <td>2</td>
-       <td>Brenda Gamio</td>
-       <td>Done</td>
-    </tr>
-   <tr>
-       <td>TS11</td>
-       <td>Creación de resource de la entidad User</td>
-       <td>T12</td>
-       <td>Agregar la entidad User</td>
-       <td>Agregar comportamientos dinámicos al botón y mostrar tarjetas</td>
-       <td>2</td>
-       <td>Italo Luna</td>
-       <td>Done</td>
-    </tr>
-   <tr>
-       <td>TS12</td>
-       <td>Creación de resource de la entidad User</td>
-       <td>T13</td>
-       <td>Agregar home de la app</td>
-       <td>Agregar servicios para obtener y mandar recursos</td>
-       <td>2</td>
-       <td>Italo Luna</td>
        <td>Done</td>
     </tr>
 </table>
