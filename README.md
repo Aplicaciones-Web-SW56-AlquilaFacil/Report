@@ -4480,6 +4480,7 @@ Para el presente sprint, se ha desarollado el API  de la web application. Para l
 <li> GitHub: Plataforma que nos brindo la herramienta de crear nuestro repositorio para almacenar las versiones de nuestro proyecto. </li>
 <li> Swagger Ui: Herramienta para probar y documentar nuestra API. </li>
 <li> FireBase: Firebase es una plataforma de desarrollo de aplicaciones móviles y web creada por Google. Ofrece una amplia gama de servicios y herramientas para ayudar a los desarrolladores a construir y mejorar sus aplicaciones de manera rápida y eficiente. Firebase incluye características como base de datos en tiempo real, autenticación de usuarios, almacenamiento en la nube, hosting web, mensajería en la nube, análisis, informes de fallos, y funciones de aprendizaje automático. En resumen, Firebase proporciona una solución integral para el desarrollo y la mejora de aplicaciones, abordando áreas como la autenticación de usuarios, el almacenamiento de datos, la entrega de contenido, el análisis y la mejora de la calidad. </li>
+<li> Microsoft Azure: Microsoft Azure es una plataforma de computación en la nube desarrollada por Microsoft que permite construir, probar, desplegar y gestionar aplicaciones y servicios utilizando su infraestructura global. Ofrece servicios de software, plataforma e infraestructura como servicio y es compatible con una amplia variedad de lenguajes, herramientas y frameworks de programación diversos. Esto incluye tanto software y sistemas específicos de Microsoft como los desarrollados por terceros. </li>
 
 </ul>
 
@@ -4489,12 +4490,12 @@ A continuación se mostrarán los gráficos de insights durante el sprint:
 
 El equipo creó el backend utilizando el modelo de gitflow, el cual implica utilizar distintas ramas para abordar cada parte del proyecto, optimizarlo y mantenerlo actualizado. La ventaja de adoptar este enfoque es que simplifica la tarea de actualizar y realizar modificaciones, permitiendo luego mostrar y comprobar la integración sin problemas en la rama principal.
 
-| Alumno       | Actividad                          |
-| ------------ | ---------------------------------- |
-| Angel Cancho | Implementación create subscription |
-| Italo Luna   | Implementación users               |
-| Augusto Pin  | Implementación profiles            |
-| Brenda Gamio | Implementación create subscription |
+| Alumno       | Actividad                             |
+| ------------ | ------------------------------------- |
+| Angel Cancho | Implementación tests                  |
+| Italo Luna   | Implementación users, IAM             |
+| Augusto Pin  | Implementación locals, contacts, IAM  |
+| Brenda Gamio | Implementación tests                  |
 
 
 **Nethwork Graphs del repositorio del backend Web Application**
