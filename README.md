@@ -2451,15 +2451,15 @@ Utilizamos la escala de Fibonacci para la estimación de los Story Points
             <tr>
                 <td>3</td>
                 <td>TS08</td>
-                <td>Registrar User</td>
-                <td>Como developer, quiero contar con un endpoint para poder registrar a un usuario.</td>
+                <td>Registrar Profiles</td>
+                <td>Como developer, quiero contar con un endpoint para poder registrar a un perfil.</td>
                 <td>3</td>
             </tr>
             <tr>
                 <td>3</td>
                 <td>TS09</td>
-                <td>Registrar Spaces</td>
-                <td>Como developer, quiero contar con un endpoint para poder registrar un espacio.</td>
+                <td>Registrar Properties</td>
+                <td>Como developer, quiero contar con un endpoint para poder registrar una pepiedad.</td>
                 <td>3</td>
             </tr>
             <tr>
@@ -2472,68 +2472,110 @@ Utilizamos la escala de Fibonacci para la estimación de los Story Points
             <tr>
                 <td>3</td>
                 <td>TS11</td>
-                <td>Creación de persistencia de la entidad User</td>
-                <td>Como developer, quiero implementar la persistencia de la información de la entidad User para asegurar que los datos de los asistentes se almacenen de manera segura y estén disponibles cuando sea necesario.</td>
+                <td>Creación de persistencia de la entidad Profile</td>
+                <td>Como developer, quiero implementar la persistencia de la información de la entidad Profile para asegurar que los datos de los asistentes se almacenen de manera segura y estén disponibles cuando sea necesario.</td>
                 <td>2</td>
             </tr>
             <tr>
                 <td>3</td>
                 <td>TS12</td>
-                <td>Creación de resource de la entidad User</td>
-                <td>Como developer quiero devolver un resource de la información de la entidad User para realizar consultas.</td>
+                <td>Creación de resource de la entidad Profile</td>
+                <td>Como developer quiero devolver un resource de la información de la entidad Profile para realizar consultas.</td>
                 <td>2</td>
             </tr>
             <tr>
                 <td>4</td>
+                <td>TS13</td>
+                <td>Registrar Contacts</td>
+                <td>Como desarrollador, quiero contar con un endpoint para poder registrar a un contacto</td>
+                <td>3</td>
+            </tr>
+            <tr>
+                <td>4</td>
+                <td>TS14</td>
+                <td>Registrar IAM</td>
+                <td>Como developer, quiero contar con un endpoint para poder registrar y validar a un usuario.</td>
+                <td>3</td>
+            </tr>
+            <tr>
+                <td>4</td>
+                <td>TS15</td>
+                <td>Registrar Locals</td>
+                <td>Como developer, quiero contar con un endpoint para poder registrar un local.</td>
+                <td>3</td>
+            </tr>
+            <tr>
+                <td>4</td>
+                <td>TS16</td>
+                <td>Agregar los Unit tests</td>
+                <td>Como developer quiero agregar pruebas unitarias al código existente para asegurarme de que las funciones individuales funcionan correctamente y prevenir errores en futuras modificaciones.</td>
+                <td>2</td>
+            </tr>
+            <tr>
+                <td>4</td>
+                <td>TS17</td>
+                <td>Agregar los Acceptance tests</td>
+                <td>Como developer quiero agregar pruebas de aceptación al código existente para asegurarme de que el sistema cumple con los requisitos y funciona correctamente desde la perspectiva del usuario final.</td>
+                <td>2</td>
+            </tr>
+            <tr>
+                <td>4</td>
+                <td>TS18</td>
+                <td>Agregar los Integration tests</td>
+                <td>Como developer quiero agregar pruebas de integración al código existente para asegurarme de que los diferentes módulos y componentes del sistema funcionan correctamente cuando se combinan.</td>
+                <td>2</td>
+            </tr>
+            <tr>
+                <td>5</td>
                 <td>EP03/US18</td>
                 <td>Comunicación directa con organizadores</td>
                 <td>Como propietario de un espacio para eventos en AlquilaFácil, quiero poder comunicarme directamente con los organizadores de eventos interesados para aclarar dudas, discutir detalles y confirmar reservas de manera efectiva.</td>
                 <td>5</td>
             </tr>
             <tr>
-                <td>4</td>
+                <td>5</td>
                 <td>EP01/US20</td>
                 <td>Recibir Notificaciones de Reservas</td>
                 <td>Como propietario de un espacio para eventos en AlquilaFácil, quiero recibir notificaciones instantáneas sobre nuevas solicitudes de reserva y actualizaciones en el estado de mis reservas para estar al tanto de las actividades relacionadas con mi espacio en todo momento.</td>
                 <td>3</td>
             </tr>
             <tr>
-                <td>4</td>
+                <td>5</td>
                 <td>EP05/US06</td>
                 <td>Notificaciones de disponibilidad</td>
                 <td>Como propietario de un espacio para eventos en AlquilaFácil, quiero recibir notificaciones cuando mi espacio esté disponible para reservar para estar al tanto de las solicitudes de reserva y gestionarlas eficientemente.</td>
                 <td>3</td>
             </tr>
             <tr>
-                <td>4</td>
+                <td>5</td>
                 <td>EP05/US08</td>
                 <td>Calendario de disponibilidad</td>
                 <td>Como propietario de un espacio en AlquilaFácil, quiero poder gestionar fácilmente mi calendario de disponibilidad para evitar conflictos de reservas y mantener mi agenda organizada.</td>
                 <td>3</td>
             </tr>
             <tr>
-                <td>4</td>
+                <td>5</td>
                 <td>EP02/US09</td>
                 <td>Promoción de espacios destacados</td>
                 <td>Como propietario de un espacio en AlquilaFácil, quiero poder destacar mi espacio para aumentar su visibilidad y atraer más clientes para aumentar las posibilidades de reserva.</td>
                 <td>3</td>
             </tr>
             <tr>
-                <td>4</td>
+                <td>5</td>
                 <td>EP01/US17</td>
                 <td>Gestión flexible de disponibilidad</td>
                 <td>Como propietario de un espacio para eventos en AlquilaFácil, quiero tener la capacidad de gestionar la disponibilidad de mi espacio de manera flexible para adaptarme a cambios de horarios y necesidades de reserva.</td>
                 <td>5</td>
             </tr>
             <tr>
-                <td>4</td>
+                <td>5</td>
                 <td>EP03/US18</td>
                 <td>Comunicación directa con organizadores</td>
                 <td>Como propietario de un espacio para eventos en AlquilaFácil, quiero poder comunicarme directamente con los organizadores de eventos interesados para aclarar dudas, discutir detalles y confirmar reservas de manera efectiva.</td>
                 <td>5</td>
             </tr>
             <tr>
-                <td>4</td>
+                <td>5</td>
                 <td>EP01/US20</td>
                 <td>Recibir Notificaciones de Reservas</td>
                 <td>Como propietario de un espacio para eventos en AlquilaFácil, quiero recibir notificaciones instantáneas sobre nuevas solicitudes de reserva y actualizaciones en el estado de mis reservas para estar al tanto de las actividades relacionadas con mi espacio en todo momento.</td>
