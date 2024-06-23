@@ -4572,13 +4572,7 @@ El equipo creó el backend utilizando el modelo de gitflow, el cual implica util
 
 **Nethwork Graphs del repositorio del backend Web Application**
 <div align=center>
-   <img src="assets/nt-git-sp3.png" alt="insights"></img>
-</div>
-<div align=center>
-   <img src="assets/nt2-git-sp3.png" alt="insights"></img>
-</div>
-<div align=center>
-   <img src="assets/nt3-git-sp3.png" alt="insights"></img>
+   <img src="assets/nt-git-sp4.png" alt="insights"></img>
 </div>
 <div align=center>
    <img src="assets/-sp2.png" alt="insights"></img>
