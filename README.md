@@ -4298,7 +4298,7 @@ En esta sección se mostraran las tareas realizadas en el presente sprint y se a
 </div>
 
 Link del trello:
-https://trello.com/invite/b/eOg2zWv9/ATTId65f84c9493caa33856147ff3e4a01e8CA9B3701/alquilafacil-sprint-3
+https://trello.com/invite/b/0L9FDGmk/ATTI7cf478ddc9ae53ecf203bae482c9a651FC1D81C0/alquilafacil-sprint-4
 
 </br>
 
@@ -4399,6 +4399,76 @@ https://trello.com/invite/b/eOg2zWv9/ATTId65f84c9493caa33856147ff3e4a01e8CA9B370
        <td>Augusto Plin</td>
        <td>Done</td>
     </tr>
+    <tr>
+       <td rowspan="4">TS16</td>
+       <td rowspan="4">Agregar los Unit tests</td>
+       <td>T23</td>
+       <td>Agregar los unit test para profiles</td>
+       <td>Poner procesos de pruebas para perfiles</td>
+       <td>2</td>
+       <td>Ángel Cancho</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T24</td>
+       <td>Agregar los unit test para users</td>
+       <td>Poner procesos de pruebas para usuarios</td>
+       <td>2</td>
+       <td>Ángel Cancho</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T25</td>
+       <td>Agregar los unit test para locals</td>
+       <td>Poner procesos de pruebas para locales</td>
+       <td>2</td>
+       <td>Brenda Gamio</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T26</td>
+       <td>Agregar los unit test para contacts</td>
+       <td>Poner procesos de pruebas para contactos</td>
+       <td>2</td>
+       <td>Brenda Gamio</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td rowspan="2">TS17</td>
+       <td rowspan="2">Agregar los Acceptance tests</td>
+       <td>T27</td>
+       <td>Agregar los acceptance test para profiles</td>
+       <td>Poner procesos de pruebas para perfiles</td>
+       <td>2</td>
+       <td>Ángel Cancho</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T28</td>
+       <td>Agregar los acceptance test para users</td>
+       <td>Poner procesos de pruebas para usuarios</td>
+       <td>2</td>
+       <td>Ángel Cancho</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td rowspan="2">TS18</td>
+       <td rowspan="2">Agregar los Integration tests</td>
+       <td>T27</td>
+       <td>Agregar los integration test para profiles</td>
+       <td>Poner procesos de pruebas para perfiles</td>
+       <td>3</td>
+       <td>Brenda Gamio</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T28</td>
+       <td>Agregar los integration test para users</td>
+       <td>Poner procesos de pruebas para usuarios</td>
+       <td>2</td>
+       <td>Brenda Gamio</td>
+       <td>Done</td>
+    </tr>
 </table>
 
 #### 5.2.4.3. Development Evidence for Sprint Review.
@@ -4408,10 +4478,12 @@ En esta sección se mostrara la tabla de commits desarrollados en el presente sp
 | Repository                                                    | Branch               | Commit id | Commit Message                                         | Commit Message Body                                    | Commited on (Date) |
 | ------------------------------------------------------------- | -------------------- | --------- | ------------------------------------------------------ | ------------------------------------------------------ | ------------------ |
 | https://github.com/Aplicaciones-Web-SW56-AlquilaFacil/Backend | master               | f2cd543   | chore: initial commit                                  | chore: initial commit                                  | 29/05/2024         |
-|                                                               | feature/profiles     | f2cd543   | feat: add locals bounded context                       | feat: add locals bounded context                       | 29/05/2024         |
-|                                                               | feature/properties   | c9c9b42   | feat: add local categories table and acl               | feat: add local categories table and acl               | 05/06/2024         |
-|                                                               | feature/subscription | 4a0bcd4   | feat(DbContext): added entity mapping for Subscription | feat(DbContext): added entity mapping for Subscription | 06/06/2024         |
-|                                                               | feature/users        | b2dae9c   | feat: added controllers                                | feat: added controllers                                | 06/06/2024         |
+|                                                               | develop     | aecaadb   | feat: fix columns name and and userId to contact and subscription                       | feat: fix columns name and and userId to contact and subscription                       | 21/06/2024         |
+|                                                               | develop   | 2ebd86c   | feat: implement userId in local               | feat: implement userId in local              | 18/06/2024         |
+|                                                               | develop | cae3398   | feat: add contact feature and add parameter description to local bounded context | feat: add contact feature and add parameter description to local bounded context | 19/06/2024         |
+|                                                               | develop        | 92189ec   | feat: add docker files and dockerization                | feat: add docker files and dockerization          | 20/06/2024      |
+|             | develop        | 9a3b253   | feat: added ProfileControllerTests test                                | feat: added ProfileControllerTests test                                | 22/06/2024         |
+
 
 #### 5.2.4.4. Testing Suite Evidence for Sprint Review
 
@@ -4490,12 +4562,12 @@ A continuación se mostrarán los gráficos de insights durante el sprint:
 
 El equipo creó el backend utilizando el modelo de gitflow, el cual implica utilizar distintas ramas para abordar cada parte del proyecto, optimizarlo y mantenerlo actualizado. La ventaja de adoptar este enfoque es que simplifica la tarea de actualizar y realizar modificaciones, permitiendo luego mostrar y comprobar la integración sin problemas en la rama principal.
 
-| Alumno       | Actividad                             |
-| ------------ | ------------------------------------- |
-| Angel Cancho | Implementación tests                  |
-| Italo Luna   | Implementación users, IAM             |
-| Augusto Pin  | Implementación locals, contacts, IAM  |
-| Brenda Gamio | Implementación tests                  |
+| Alumno       | Actividad                                 |
+| ------------ | ------------------------------------------|
+| Angel Cancho | Implementación Unit and Acceptance tests  |
+| Italo Luna   | Implementación users, IAM                 |
+| Augusto Pin  | Implementación locals, contacts, IAM      |
+| Brenda Gamio | Implementación Unit and Integration tests |
 
 
 **Nethwork Graphs del repositorio del backend Web Application**
