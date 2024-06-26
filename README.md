@@ -397,7 +397,6 @@ En esta entrega nos enfocamos en implementar mejoras dadas y desarrollar nuestra
   - [Link del video con todas las entrevistas de validación: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201721995\_upc\_edu\_pe/EXKDndrj4WpAjZfTQz6uBukByI1I1\_del5CFGWq2SkxLBg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D\&e=hizd6X](#link-del-video-con-todas-las-entrevistas-de-validación-httpsupcedupe-mysharepointcomvgpersonalu201721995_upc_edu_peexkdndrj4wpajzftqz6ubukbyi1i1_del5cfgwq2skxlbgnaveyjyzwzlcnjhbeluzm8ionsicmvmzxjyywxbchaioijtdhjlyw1xzwjbchailcjyzwzlcnjhbfzpzxcioijtagfyzurpywxvzy1maw5riiwicmvmzxjyywxbchbqbgf0zm9ybsi6ildlyiisinjlzmvycmfstw9kzsi6inzpzxcifx03dehizd6x)
     - [5.3.3. Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)
   - [5.4. Video About-the-Product](#54-video-about-the-product)
-      - [Estara en archivos adjuntos](#estara-en-archivos-adjuntos)
 - [Conclusiones](#conclusiones-1)
   - [Video About-the-Team](#video-about-the-team)
 - [Bibliografía](#bibliografía-1)
@@ -4896,7 +4895,9 @@ Implementa una funcionalidad que permita a los usuarios editar la información d
 
 ## 5.4. Video About-the-Product
 
-#### Estara en archivos adjuntos
+En esta sección se encuentra el Video About the Product, donde promocionamos al aplicativo al mostrar las principales características de la app de AlquilaFacil, comprende introducción, modelo de negocio, características, beneficios y testimonios de los principales usuarios por cada segmento.
+
+Link del video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213375_upc_edu_pe/EUP-S5FmAj5AtU84QRol4OgBc7g8DhEUS_klxqrAPsUZwg?e=85no3h&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 # Conclusiones
 
@@ -4930,4 +4931,8 @@ Con una visión ambiciosa de convertirse en la principal plataforma global en su
 | Frontend Web Application  | https://alquilafacil-webapp-v1.web.app/home                                                                                                                                                                                                                                                   |
 | Video grupal del Sprint 2 | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120344_upc_edu_pe/Ee3pMyyas-JBnIgTkvLxDH4BY2OyuLWF5pFtJFZZebLC-g?e=aYRwNQ                                                                                                                                                               |
 | Repositorio del backen y link para clonarlo | https://github.com/Aplicaciones-Web-SW56-AlquilaFacil/Backend.git                                                                                                                                                               |
+| Video The About the product | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213375_upc_edu_pe/EUP-S5FmAj5AtU84QRol4OgBc7g8DhEUS_klxqrAPsUZwg?e=85no3h&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D                                                                   |
+| Video The About the Team |                                                                    |
+| Video de exposición final |                                                                    |
+
 
