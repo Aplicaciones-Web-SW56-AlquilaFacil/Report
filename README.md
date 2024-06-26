@@ -71,7 +71,13 @@
              <td>Luna Capuñay, Italo D'Alessandro<br><br>Augusto Jose Pin Matallana<br><br>Brenda Lucía Gamio Upiachihua<br><br>Angel Antonio Cancho Corilla<br>
             <td>Se agregó el contenido del capítulo 5, apartados 5.2.3, 5.2.3.1, 5.2.3.2, 5.2.3.3, 5.2.3.4, 5.2.3.5, 5.2.3.6, 5.2.3.7, 5.2.3.8, 5.3, 5.3.1, 5.3.2, 5.3.3, 5.4 y al capítulo de Conclusiones. </td>
         </tr>
-<table>
+        <tr>
+            <td align = "center">TF1</td>
+            <td>26/06/2024</td>
+            <td>Luna Capuñay, Italo D'Alessandro<br><br>Augusto Jose Pin Matallana<br><br>Brenda Lucía Gamio Upiachihua<br><br>Angel Antonio Cancho Corilla<br>
+            <td>Se agregó el contenido del capítulo 5, apartados 5.2.4, 5.2.4.1, 5.2.4.2, 5.2.4.3, 5.2.4.4, 5.2.4.5, 5.2.4.6, 5.2.4.7, 5.2.4.8 y al capítulo de Conclusiones.</td>
+        </tr>
+    <table>
 
 ---
 
@@ -98,14 +104,16 @@ Durante la preparación del informe, se llevaron a cabo las siguientes actividad
             <th style="text-align:center;">Conclusiones</th>
         </tr>
         <tr>
-            <td align = "center">Participa en equiposmultidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.</td>
+            <td align = "center">Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.</td>
             <td> Luna Capuñay, Italo D'Alessandro <br>
             TB1 <br>
 El proyecto se llevó a cabo con la colaboración de todo el equipo, distribuyendo equitativamente las responsabilidades entre sus miembros. Además, trabajamos en conjunto en diferentes áreas, como la realización de entrevistas, la creación de la página principal y las secciones de evidencia de desarrollo y conjunto de pruebas, asegurando un enfoque integral y de colaboración en todas las fases del proyecto.  <br>
     TP1 <br>
     Todo el equipo cooperó conjuntamente para desarrollar el proyecto, distribuyendo de forma equitativa las responsabilidades entre sus miembros. También trabajamos juntos en diferentes áreas. A lo largo de todas las fases del proyecto, se mantuvo este enfoque integral y colaborativo. Durante el desarrollo de una aplicación web, la colaboración resultó ser esencial en particular. Colaboramos para establecer los requisitos, desarrollar la arquitectura, integrar funciones y llevar a cabo pruebas exhaustivas. Gracias a la comunicación constante y la sinergia entre los miembros del equipo, se logró crear una aplicación sólida y efectiva.<br>
     TB2 <br>
-Durante el sprint 3, me encargué de coordinar al equipo en las tareas relacionadas con el backend. Me aseguré de que la arquitectura del sistema estuviera alineada con los requisitos y alcances establecidos por el profesor y de que las funcionalidades implementadas cumplieran con las expectativas. Además, supervisé el avance de las tareas, resolví problemas técnicos y garantizé que el equipo trabajara de manera eficiente y colaborativa para alcanzar nuestros objetivos.
+Durante el sprint 3, me encargué de coordinar al equipo en las tareas relacionadas con el backend. Me aseguré de que la arquitectura del sistema estuviera alineada con los requisitos y alcances establecidos por el profesor y de que las funcionalidades implementadas cumplieran con las expectativas. Además, supervisé el avance de las tareas, resolví problemas técnicos y garantizé que el equipo trabajara de manera eficiente y colaborativa para alcanzar nuestros objetivos.<br>
+TF <br>
+En esta última entrega, hemos cumplido con éxito los requisitos establecidos en nuestras historias de usuario técnicas. El equipo contribuyó de manera significativa al proceso de desarrollo de este proyecto. Además, en el grupo, aprendimos de nuestros errores en entregas anteriores y nos enfocamos en resolver esos problemas.
 
 <br>Cancho Corilla, Angel Antonio <br>
 TB1 <br>
@@ -121,8 +129,9 @@ Participe activamente realizando los mock ups y wireframes tanto de la landing p
 TP <br>
 El desarrollo del proyecto fue el resultado de una colaboración estrecha y equitativa entre todos los miembros del equipo. Cada integrante asumió responsabilidades en diferentes áreas, desde la realización de entrevistas hasta la creación de la página principal y la elaboración de secciones como evidencias de desarrollo y conjunto de pruebas. Esta mentalidad de trabajo conjunto y colaborativo se mantuvo presente en todas las etapas del proyecto, garantizando un enfoque integral y cohesivo en cada aspecto del mismo.<br>
 TB2 <br>
-La realización de nuestro proyecto emergió de un esfuerzo conjunto y balanceado, donde cada miembro del equipo desempeñó un papel crucial. Nos dividimos las tareas para abarcar desde la conducción de entrevistas hasta el desarrollo de la interfaz de usuario de nuestra startup AlquilaFacil. Mi grupo y yo nos encargamos específicamente de diseñar y construir la API RESTful, asegurando que cada servicio y recurso estuviera optimizado para nuestros usuarios. Esta sinergia colaborativa fue la piedra angular en cada fase del proyecto, asegurando que cada elemento, desde la página de inicio hasta las pruebas y documentación de desarrollo, se ejecutara con una visión unificada y detallada.
-
+La realización de nuestro proyecto emergió de un esfuerzo conjunto y balanceado, donde cada miembro del equipo desempeñó un papel crucial. Nos dividimos las tareas para abarcar desde la conducción de entrevistas hasta el desarrollo de la interfaz de usuario de nuestra startup AlquilaFacil. Mi grupo y yo nos encargamos específicamente de diseñar y construir la API RESTful, asegurando que cada servicio y recurso estuviera optimizado para nuestros usuarios. Esta sinergia colaborativa fue la piedra angular en cada fase del proyecto, asegurando que cada elemento, desde la página de inicio hasta las pruebas y documentación de desarrollo, se ejecutara con una visión unificada y detallada.<br>
+TF <br>
+En esta última entrega, hemos finalizado con éxito el desarrollo del backend de la aplicación. Distribuimos el trabajo restante entre los miembros del equipo y documentamos el proceso de desarrollo siguiendo las mejores prácticas de programación y utilizando herramientas de gestión de proyectos.<br>
 
 Gamio Upiachihua, Brenda Lucía <br>
 TB1 <br>
@@ -138,15 +147,14 @@ En este hito, nos centramos en aplicar mejoras existentes y crear nuestra propia
     <td>TB1: El proyecto se llevó a cabo con la colaboración de todo el equipo, distribuyendo equitativamente las responsabilidades entre sus miembros. Además, trabajamos en conjunto en diferentes áreas, como la realización de entrevistas, la creación de la página principal y las secciones de evidencia de desarrollo y conjunto de pruebas, asegurando un enfoque integral y de colaboración en todas las fases del proyecto.<br>
         TP: Durante esta fase del proyecto, se llevaron a cabo exhaustivos análisis de las preferencias de los escritores, ilustradores y lectores a través de entrevistas. Se aplicó un diseño UX/UI apropiado para atender las necesidades de los usuarios. Además, se empleó la metodología de Domain Driven Design (DDD) para identificar los distintos dominios de la aplicación, desarrollando diagramas de clase que representaran la arquitectura del modelo backend. Se diseñaron diagramas de flujo tanto de usuario como de trabajo para mejorar la experiencia global del usuario, y se implementó la estructura de la base de datos. Finalmente, se documentó todo el proceso utilizando metodologías ágiles.<br>
         TB2 <br>
- Como equipo, coordinamos la entrega de cada funcionalidad relacionada al backend y también establecimos una fecha limite de entrega para la documentación de la misma. No obstante, en esta entrega no es parte del alcance la implementación total del backend, por lo que no consideramos la planificación del merge ni otros aspectos relacionados a la entrega final.
+ Como equipo, coordinamos la entrega de cada funcionalidad relacionada al backend y también establecimos una fecha limite de entrega para la documentación de la misma. No obstante, en esta entrega no es parte del alcance la implementación total del backend, por lo que no consideramos la planificación del merge ni otros aspectos relacionados a la entrega final.<br>
+ TF1 <br>
+ Como equipo, coordinamos los tiempos de entrega de cada funcionalidad relacionada con el backend y establecimos una fecha límite para cada una para evitar contratiempos durante el merge. Además, logramos desplegar exitosamente nuestro backend gracias a la coordinación en equipo para cumplir puntualmente con las tareas asignadas. Por lo tanto, destacamos la coordinación y comunicación constante como factores clave de nuestro éxito.<br>
 <tr>
 
-<td align = "center">Conoce al menos un sector
-empresarial o dominio de
-aplicación de soluciones de
-software.</td>
-            <td> 
 
+<td align = "center">Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.</td>
+            <td> 
 Luna Capuñay, Italo D'Alessandro <br>
 TB1 <br>
 En esta fase de entrega, se llevó a cabo un análisis de las preferencias de los segmentos de propietarios y organizadores mediante la realización y evaluación de entrevistas. Además, se implementó un diseño UX/UI adecuado que se adapta tanto a la versión de escritorio como a la versión responsive, tomando en cuenta las necesidades de los usuarios. También se realizó una exhaustiva investigación de la competencia para identificar cómo nuestra aplicación puede diferenciarse de otras en el mercado, teniendo en cuenta los antecedentes relacionados con la problemática que buscamos abordar.
@@ -155,7 +163,9 @@ TP1 <br>
 Durante esta fase de desarrollo, se llevó a cabo una investigación exhaustiva de la competencia para identificar cómo nuestra aplicación web puede diferenciarse en el mercado, tomando en cuenta los antecedentes relacionados con la problemática que pretendemos abordar. Estas acciones sentaron las bases para la codificación conjunta de la aplicación web utilizando la metodología de Desarrollo Dirigido por Dominio (DDD).
 
 TB2 <br>
-En esta tercera entrega del proyecto, se mejoró el frontend y se avanzó con la primera versión del backend. También se realizaron entrevistas de validación con los segmentos objetivo para obtener sugerencias y mejoras para nuestra aplicación. Además, se produjeron los videos "About the Product" y "About the Team", en los cuales hicimos una retrospectiva del trabajo realizado.
+En esta tercera entrega del proyecto, se mejoró el frontend y se avanzó con la primera versión del backend. También se realizaron entrevistas de validación con los segmentos objetivo para obtener sugerencias y mejoras para nuestra aplicación. Además, se produjeron los videos "About the Product" y "About the Team", en los cuales hicimos una retrospectiva del trabajo realizado.<br>
+TF1<br>
+Para este último avance del proyecto, completamos el backend y procedimos con su despliegue junto con la base de datos. Además, realizamos una refactorización del código para aplicar la arquitectura DDD y el patrón CQRS, lo que resultó muy útil para mejorar y mantener el código.<br>
 
 
 Cancho Corilla, Angel Antonio <br>
@@ -172,7 +182,9 @@ Durante esta fase de configuración del entorno de desarrollo de software, se ll
 TP <br>
 La ejecución del proyecto surgió como producto de una colaboración estrecha y equitativa entre todos los integrantes del equipo. Cada miembro se involucró en diversas áreas, desde la conducción de entrevistas hasta la concepción de la página principal y la elaboración de secciones como evidencias de desarrollo y conjunto de pruebas. Este enfoque de trabajo colaborativo y conjunto perduró a lo largo de todas las etapas del proyecto, asegurando un abordaje integral y coherente en cada uno de sus aspectos.<br>
 TB2 <br>
-El desarrollo de nuestro proyecto fue el fruto de una colaboración armónica y equilibrada entre todos los miembros del equipo. Cada uno de nosotros asumió roles importantes en distintas facetas, desde realizar entrevistas hasta diseñar la interfaz principal de AlquilaFacil. En particular, mi grupo y yo nos dedicamos a la creación de la API RESTful, un componente esencial para la funcionalidad y eficiencia de nuestra startup. Mantuvimos un espíritu de cooperación durante todo el proceso, lo que nos permitió asegurar que cada elemento del proyecto, incluyendo las pruebas y la documentación de desarrollo, se llevara a cabo con un enfoque meticuloso y coherente.
+El desarrollo de nuestro proyecto fue el fruto de una colaboración armónica y equilibrada entre todos los miembros del equipo. Cada uno de nosotros asumió roles importantes en distintas facetas, desde realizar entrevistas hasta diseñar la interfaz principal de AlquilaFacil. En particular, mi grupo y yo nos dedicamos a la creación de la API RESTful, un componente esencial para la funcionalidad y eficiencia de nuestra startup. Mantuvimos un espíritu de cooperación durante todo el proceso, lo que nos permitió asegurar que cada elemento del proyecto, incluyendo las pruebas y la documentación de desarrollo, se llevara a cabo con un enfoque meticuloso y coherente.<br>
+TF <br>
+En esta última entrega del proyecto, implementamos los servicios de IAM para la gestión segura de accesos a la aplicación y documentamos los endpoints de la API. Además, finalizamos la implementación del backend y desplegamos la aplicación, asegurando su disponibilidad para los usuarios finales.<br>
 
 Gamio Upiachihua, Brenda Lucía <br>
 TB1 <br> 
@@ -189,6 +201,9 @@ En esta entrega nos enfocamos en implementar mejoras dadas y desarrollar nuestra
  <br>
                 TB2: 
                 En esta etapa del proyecto, se llevó a cabo la implementación parcial del backend de la web app, siguiendo un enfoque de diseño dirigido por el dominio (DDD) y teniendo en cuenta nuestras historias de usuario técnicas, así como las relacionadas con los requisitos no funcionales. Se aplicaron conceptos como la arquitectura CQRS y DDD, además de buenas prácticas en el desarrollo de servicios web con Spring. También se implementaron varios principios SOLID, destacando el principio de responsabilidad única (Single Responsibility), la inversión de dependencias (Dependency Inversion) y la sustitución de Liskov (Liskov Substitution).
+                <br>
+                TF: 
+                En esta etapa del proyecto, completamos la implementación del backend de la aplicación web siguiendo un enfoque DDD y considerando nuestras historias de usuario técnicas como parte de los requisitos no funcionales. Se incorporaron medidas de seguridad en nuestra API utilizando JWT y el esquema de autenticación Bearer.
 <tr>
 
 </table>
