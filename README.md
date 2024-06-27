@@ -1427,10 +1427,10 @@ A continuación se pueden apreciar los Empathy Mapping de los segmentos objetivo
 # Capítulo III: Requirements Specification
 ## 3.1. To-Be Scenario Mapping
 **Propietario de Espacio para Eventos**
-![toBePropietario](/assets/img/Tobe_Scenario_Mapping_Propietario.jpg)
+![toBePropietario](/assets/img/Tobe_Scenario_Mapping_Propietario_png.png)
 
 **Usuario para Búsqueda de Espacio para Eventos**
-![tobeUsuario](/assets/img/Tobe_Scenario_Mapping_Usuario.jpg)
+![tobeUsuario](/assets/img/Tobe_Scenario_Mapping_Usuario_png.png)
 
 ## 3.2. User Stories
 <table>
@@ -4924,19 +4924,41 @@ Con una visión ambiciosa de convertirse en la principal plataforma global en su
 
 # Bibliografía
 
-- Atlassian Git Tutorial: Comparación de flujos de trabajo (https://www.atlassian.com/git/tutorials/comparing-workflows)
+- Atlassian. (s. f.-a). Flujo de trabajo de Gitflow | Atlassian Git Tutorial. https://www.atlassian.com/es/git/tutorials/comparing-workflows/gitflow-workflow
 
-- ¿Qué es Gitflow? (https://www.excentia.es/que-es-git-flow)
+- Gitflow: Flujo de trabajo en Git | Kodetop. (s. f.-b). https://www.kodetop.com/gitflow-flujo-de-trabajo-en-git/
 
-- Gitflow: Flujo de trabajo en Git (https://www.kodetop.com/gitflow-flujo-de-trabajo-en-git/)
+- Airbnb | Alojamientos para vacaciones, cabañas, casas en la playa y más. (s. f.-d). Airbnb. https://www.airbnb.com.pe/
 
-- Airbnb Perú (https://www.airbnb.com.pe/?ref=lapaninja&_set_bev_on_new_domain=1712680684_MzM2MzkzMjE5YTFj)
+- Vrbo. (s. f.). Vrbo. https://www.vrbo.com/es-mx/
 
-- Vrbo México (https://www.vrbo.com/es-mx/?msclkid=5c1bda3cfb781caff03abc315b95a7fc&pwaDialog=customer-notification-centered-sheet-dialog&semcid=VRBO-MX.B.BING.BT-c-ES.GT&semdtl=a1602055059.b11170981025192783.g1kwd-73186994201912%3Aloc-148.e1c.m15c1bda3cfb781caff03abc315b95a7fc.r16d798fde923e57fdd680dee0e0c3e618d8325af837da3e6a45dbc1fed1de0360.c1wOk31Z_zWVZ3paeHY-9OkA.j1148.k1.d173186541510196.h1e.i1.l1.n1.o1.p1.q1.s1.t1.x1.f1.u1.v1.w1)
+- Booking.com: La mayor selección de hoteles, casas y alquileres vacacionales. (s. f.). Booking.com. https://www.booking.com/index.es.html
 
-- Booking.com España (https://www.booking.com/index.es.html)
+- Inicio - Inmuebles de Lima. (s. f.). https://inmueblesdelima.com.pe/
 
-- Inmuebles de Lima (https://inmueblesdelima.com.pe/)
+- About Swagger Specification | Documentation | Swagger. (s. f.). https://swagger.io/docs/specification/about/ 
+
+- BillWagner. (s. f.). C# Guide - .NET managed language. Microsoft Learn. https://learn.microsoft.com/en-us/dotnet/csharp/
+
+- Documentation and Videos - Rider. (2021, 26 mayo). JetBrains. https://www.jetbrains.com/rider/documentation/
+
+- Vue.js. (s. f.). https://vuejs.org/guide/introduction.html
+
+- Getting started with WebStorm | WebStorm. (s. f.). WebStorm Help. https://www.jetbrains.com/help/webstorm/getting-started-with-webstorm.html
+
+- Data mesh. (s. f.). Google Books. https://books.google.es/books?hl=es&lr=&id=ReWYEAAAQBAJ&oi=fnd&pg=PT6&dq=Martin+Fowler%27s+Blog+on+DDD+espa%C3%B1ol&ots=cMZs56p_0t&sig=w955xmZ5tVsb2Ld9zfw-NLfGpZw#v=onepage&q&f=false
+
+- Documentation tool for Domain Driven Design. (s. f.). Stack Overflow. https://stackoverflow.com/questions/73710086/documentation-tool-for-domain-driven-design
+
+- MySQL :: MySQL Documentation. (s. f.). https://dev.mysql.com/doc/
+
+- Mcleanbyron. (s. f.). Documentación para desarrolladores de Azure. Microsoft Learn. https://learn.microsoft.com/es-es/azure/developer/
+
+- Atlassian. (s. f.). ¿Qué es scrum? [+ Cómo empezar] | Atlassian. https://www.atlassian.com/es/agile/scrum
+
+- Cucumber - Cucumber documentation. (s. f.). https://cucumber.io/docs/cucumber/
+
+- JavaScript | MDN. (2024, 5 marzo). MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/JavaScript
 
 # Anexos
 | Sección                   | Enlace al video                                                                                                                                                                                                                                                                               |
