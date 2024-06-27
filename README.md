@@ -39,7 +39,7 @@
     </table>
 </div>
 <p align="center">
-    <strong>Marzo 2024</strong>
+    <strong>Junio 2024</strong>
 </p>
 <br>
 
@@ -4919,6 +4919,12 @@ Link del video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213375_upc
 En conclusión, AlquilaFácil no solo presenta una solución tecnológica innovadora para simplificar el proceso de alquiler de espacios para eventos, sino que también establece una nueva dimensión en la industria al conectar de manera eficiente a propietarios y organizadores. Esta plataforma no solo se limita a ofrecer una herramienta conveniente, sino que aspira a transformar la forma en que se gestionan los eventos al proporcionar una experiencia integral y sin contratiempos.
 
 Con una visión ambiciosa de convertirse en la principal plataforma global en su sector, AlquilaFácil se compromete a ofrecer un servicio que va más allá de las expectativas convencionales. Promete no solo facilitar la búsqueda y reserva de espacios, sino también garantizar una experiencia fluida y sin problemas para todos sus usuarios, desde propietarios que desean rentabilizar sus espacios hasta organizadores en busca de la ubicación perfecta para sus eventos. Este enfoque impulsa la eficiencia y la satisfacción en cada paso del camino, estableciendo a AlquilaFácil como un líder innovador en la industria de alquiler de espacios para eventos.
+
+El curso ha proporcionado un entorno de aprendizaje dinámico y práctico, permitiéndonos aplicar conceptos teóricos directamente al desarrollo de AlquilaFácil. Esto ha fortalecido nuestra comprensión de la tecnología y los procesos involucrados en la creación de soluciones innovadoras. A través del curso, hemos mejorado nuestras habilidades técnicas en áreas como desarrollo de software y gestión de proyectos, preparándonos para enfrentar desafíos reales en la industria tecnológica.
+
+Nuestra experiencia en equipo ha destacado la importancia de la comunicación clara y la cooperación efectiva. Estas habilidades han sido cruciales para superar desafíos técnicos y de planificación en el desarrollo de AlquilaFácil. Trabajar en equipo nos ha enseñado la importancia del compromiso individual y la responsabilidad compartida hacia metas iguales, asegurando un progreso continuo y buenos reultado en el desarrollo de nuestro producto.
+
+AlquilaFácil se compromete a mantener su competitividad mediante la implementación continua de nuevas funcionalidades y mejoras. Esto incluye un enfoque constante en recoger comentarios de los usuarios y analizar las tendencias del mercado. La plataforma buscará integrar estas perspectivas para asegurar que las actualizaciones futuras optimicen la experiencia del usuario y respondan ágilmente a las demandas del mercado en evolución.
 
 ## Video About-the-Team
 
