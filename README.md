@@ -141,6 +141,8 @@ TP <br>
 Todos los miembros del equipo colaboraron estrecha y equitativamente para desarrollar el proyecto. Cada miembro tomó responsabilidades en áreas distintas, desde realizar entrevistas hasta crear la página principal y desarrollar secciones como pruebas de desarrollo y conjunto de evidencias. Se mantuvo presente en todas las etapas del proyecto una mentalidad de trabajo conjunto y colaborativo, garantizando un enfoque integral y cohesivo en cada aspecto del mismo.<br>
 TB2 <br> 
 En este hito, nos centramos en aplicar mejoras existentes y crear nuestra propia API personalizada para acceder al servicio y obtener los datos necesarios para nuestra aplicación web. Durante este proceso, el trabajo en equipo fue fundamental, prestando atención incluso a los detalles más pequeños durante la creación de la API RESTful. Nos dividimos las tareas para abarcar desde la conducción de entrevistas hasta el desarrollo de la interfaz de usuario de nuestra startup AlquilaFacil.
+TF <br>
+En esta última fase, hemos culminado con éxito el desarrollo del backend de la aplicación. Repartimos las tareas restantes entre los miembros del equipo y documentamos el proceso de desarrollo, siguiendo las mejores prácticas de programación y utilizando herramientas de gestión de proyectos. Además, aprendí de manera autodidacta a implementar pruebas unitarias y de integración en nuestro trabajo en el backend.<br>
 
 
 </td>
@@ -193,6 +195,8 @@ TP <br>
 Se construyó el progreso del proyecto sobre una colaboración cercana y equitativa entre todos los miembros del equipo. Cada persona asumió responsabilidades en varios ámbitos, desde llevar a cabo entrevistas hasta crear la página principal y diseñar secciones como pruebas de desarrollo y conjunto de pruebas. Durante todas las etapas del proyecto, se mantuvo una constante mentalidad de trabajo en equipo y colaboración, asegurando un enfoque completo y unificado en cada aspecto del mismo.<br>
 TB2 <br> 
 En esta entrega nos enfocamos en implementar mejoras dadas y desarrollar nuestra propia API para poder usar el servicio y obtener la información requerrida para nuestro aplicativo web, aquí fue muy importante el trabajo en equipo para tener cuidado con los detalles incluso más minúsculos de lo que fue la creación de la API RESTful.
+TF <br>
+En esta última entrega del proyecto, implementamos los unit test, integration tests y acceptance tests para dar validaciones de nuestro sistema y se documentó los endpoints de la API y el trabajo colaborativo. Además, finalizamos la implementación del backend para poder conectarlo con el frontend den nuestro aplicativo.<br>
 
 </td>
             <td>TB1: En esta etapa del proyecto, se realizaron análisis detallados de las preferencias de los escritores, ilustradores y lectores a través de entrevistas. Se aplicó un diseño UX/UI adecuado para satisfacer las necesidades de los usuarios. Además, se utilizó el enfoque de Domain Driven Design (DDD) para identificar los dominios de la aplicación y se desarrollaron diagramas de clase para representar la arquitectura del modelo backend. Se crearon diagramas de flujo de usuario y de trabajo para mejorar la experiencia del usuario y se implementó el modelado de la base de datos. Finalmente, se documentó el trabajo realizado utilizando metodologías ágiles.
