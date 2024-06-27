@@ -2989,23 +2989,23 @@ En este diagrama se presenta de forma detallada las conexiones entre controllers
 
 <p style="text-align: center;"><strong>User Context</strong></p>
 
-![componentDiagram](assets/userContextA.png)
+![componentDiagram](assets/component-1.png)
 
 <p style="text-align: center;"><strong>Subscription Context</strong></p>
 
-![componentDiagram](assets/subscriptionContextA.png)
+![componentDiagram](assets/component-2.png)
 
 <p style="text-align: center;"><strong>Space Context</strong></p>
 
-![componentDiagram](assets/spaceContextA.png)
+![componentDiagram](assets/component-3.png)
 
 <p style="text-align: center;"><strong>CreateReservation Context</strong></p>
 
-![componentDiagram](assets/createReservationContextA.png)
+![componentDiagram](assets/component-4.png)
 
 <p style="text-align: center;"><strong>Reservations Context</strong></p>
 
-![componentDiagram](assets/reservationsContextA.png)
+![componentDiagram](assets/component-5.png)
 
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
