@@ -4965,39 +4965,39 @@ AlquilaFácil se compromete a mantener su competitividad mediante la implementac
 
 # Bibliografía
 
-- Atlassian. (s. f.-a). Flujo de trabajo de Gitflow | Atlassian Git Tutorial. https://www.atlassian.com/es/git/tutorials/comparing-workflows/gitflow-workflow
+- Atlassian. (2024). Flujo de trabajo de Gitflow | Atlassian Git Tutorial. https://www.atlassian.com/es/git/tutorials/comparing-workflows/gitflow-workflow
 
-- Gitflow: Flujo de trabajo en Git | Kodetop. (s. f.-b). https://www.kodetop.com/gitflow-flujo-de-trabajo-en-git/
+- Gitflow: Flujo de trabajo en Git | Kodetop. (2024). https://www.kodetop.com/gitflow-flujo-de-trabajo-en-git/
 
-- Airbnb | Alojamientos para vacaciones, cabañas, casas en la playa y más. (s. f.-d). Airbnb. https://www.airbnb.com.pe/
+- Airbnb | Alojamientos para vacaciones, cabañas, casas en la playa y más. (2024). Airbnb. https://www.airbnb.com.pe/
 
-- Vrbo. (s. f.). Vrbo. https://www.vrbo.com/es-mx/
+- Vrbo. (2024). Vrbo. https://www.vrbo.com/es-mx/
 
-- Booking.com: La mayor selección de hoteles, casas y alquileres vacacionales. (s. f.). Booking.com. https://www.booking.com/index.es.html
+- Booking.com: La mayor selección de hoteles, casas y alquileres vacacionales. (2024). Booking.com. https://www.booking.com/index.es.html
 
-- Inicio - Inmuebles de Lima. (s. f.). https://inmueblesdelima.com.pe/
+- Inicio - Inmuebles de Lima. (2024). https://inmueblesdelima.com.pe/
 
-- About Swagger Specification | Documentation | Swagger. (s. f.). https://swagger.io/docs/specification/about/ 
+- About Swagger Specification | Documentation | Swagger. (2024). https://swagger.io/docs/specification/about/ 
 
-- BillWagner. (s. f.). C# Guide - .NET managed language. Microsoft Learn. https://learn.microsoft.com/en-us/dotnet/csharp/
+- BillWagner. (2022). C# Guide - .NET managed language. Microsoft Learn. https://learn.microsoft.com/en-us/dotnet/csharp/
 
 - Documentation and Videos - Rider. (2021, 26 mayo). JetBrains. https://www.jetbrains.com/rider/documentation/
 
-- Vue.js. (s. f.). https://vuejs.org/guide/introduction.html
+- Vue.js. (2024). https://vuejs.org/guide/introduction.html
 
-- Getting started with WebStorm | WebStorm. (s. f.). WebStorm Help. https://www.jetbrains.com/help/webstorm/getting-started-with-webstorm.html
+- Getting started with WebStorm | WebStorm. (2022). WebStorm Help. https://www.jetbrains.com/help/webstorm/getting-started-with-webstorm.html
 
-- Data mesh. (s. f.). Google Books. https://books.google.es/books?hl=es&lr=&id=ReWYEAAAQBAJ&oi=fnd&pg=PT6&dq=Martin+Fowler%27s+Blog+on+DDD+espa%C3%B1ol&ots=cMZs56p_0t&sig=w955xmZ5tVsb2Ld9zfw-NLfGpZw#v=onepage&q&f=false
+- Data mesh. (2022). Google Books. https://books.google.es/books?hl=es&lr=&id=ReWYEAAAQBAJ&oi=fnd&pg=PT6&dq=Martin+Fowler%27s+Blog+on+DDD+espa%C3%B1ol&ots=cMZs56p_0t&sig=w955xmZ5tVsb2Ld9zfw-NLfGpZw#v=onepage&q&f=false
 
-- Documentation tool for Domain Driven Design. (s. f.). Stack Overflow. https://stackoverflow.com/questions/73710086/documentation-tool-for-domain-driven-design
+- Documentation tool for Domain Driven Design. (2024). Stack Overflow. https://stackoverflow.com/questions/73710086/documentation-tool-for-domain-driven-design
 
-- MySQL :: MySQL Documentation. (s. f.). https://dev.mysql.com/doc/
+- MySQL :: MySQL Documentation. (2024). https://dev.mysql.com/doc/
 
-- Mcleanbyron. (s. f.). Documentación para desarrolladores de Azure. Microsoft Learn. https://learn.microsoft.com/es-es/azure/developer/
+- Mcleanbyron. (2022). Documentación para desarrolladores de Azure. Microsoft Learn. https://learn.microsoft.com/es-es/azure/developer/
 
-- Atlassian. (s. f.). ¿Qué es scrum? [+ Cómo empezar] | Atlassian. https://www.atlassian.com/es/agile/scrum
+- Atlassian. (2022). ¿Qué es scrum? [+ Cómo empezar] | Atlassian. https://www.atlassian.com/es/agile/scrum
 
-- Cucumber - Cucumber documentation. (s. f.). https://cucumber.io/docs/cucumber/
+- Cucumber - Cucumber documentation. (2024). https://cucumber.io/docs/cucumber/
 
 - JavaScript | MDN. (2024, 5 marzo). MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/JavaScript
 
@@ -5010,7 +5010,7 @@ AlquilaFácil se compromete a mantener su competitividad mediante la implementac
 | Video grupal del Sprint 2 | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120344_upc_edu_pe/Ee3pMyyas-JBnIgTkvLxDH4BY2OyuLWF5pFtJFZZebLC-g?e=aYRwNQ                                                                                                                                                               |
 | Repositorio del backen y link para clonarlo | https://github.com/Aplicaciones-Web-SW56-AlquilaFacil/Backend.git                                                                                                                                                               |
 | Video The About the product | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213375_upc_edu_pe/EUP-S5FmAj5AtU84QRol4OgBc7g8DhEUS_klxqrAPsUZwg?e=85no3h&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D                                                                   |
-| Video The About the Team |                                                                    |
-| Video de exposición final |                                                                    |
+| Video The About the Team |    https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210257_upc_edu_pe/EWolXJ3LPRtDi1V4PIegRJ0BU1h16dG_X59DRVm5wlaoGQ?e=HBlx4q         |
+| Video de exposición final |  https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210257_upc_edu_pe/EUJQlw5BaFxBsLAcgiO6gPABvpFGtNoixRM-1Ic-WMSVCg?e=yzebQx |
 
 
