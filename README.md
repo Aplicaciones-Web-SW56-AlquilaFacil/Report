@@ -93,6 +93,33 @@ Durante la preparación del informe, se llevaron a cabo las siguientes actividad
 
 <img src="assets/collaboration.png">
 
+TP: Las tareas asignadas para la entrega TP se han completado y están documentadas en el siguiente repositorio de Github perteneciente a la organización del equipo: [Repositorio Github](https://github.com/Aplicaciones-Web-SW56-AlquilaFacil/Report).
+
+Durante la preparación del informe, se llevaron a cabo las siguientes actividades:
+- Cada miembro realizó los componentes y bounded contexts designados previamente del sprint backlog 2.
+- Se crearon los artefactos necesarios utilizando las herramientas recomendadas y se obtuvieron enlaces de imagen a través de la carpeta “assets” en la rama develop del repositorio del informe.
+- Se organizaron reuniones para coordinar el progreso de los elementos del informe y para comunicar los avances del Sprint 2, que se enfoca en el front end de la Web Application.
+
+<img src="assets/collaboration2.png">
+
+TB2: Las tareas asignadas para la entrega TB2 se han completado y están documentadas en el siguiente repositorio de Github perteneciente a la organización del equipo: [Repositorio Github](https://github.com/Aplicaciones-Web-SW56-AlquilaFacil/Report).
+
+Durante la preparación del informe, se llevaron a cabo las siguientes actividades:
+- Cada miembro realizó los end points de los bounded contexts designados previamente del sprint backlog 3.
+- Se crearon los artefactos necesarios utilizando las herramientas recomendadas y se obtuvieron enlaces de imagen a través de la carpeta “assets” en la rama develop del repositorio del informe.
+- Se organizaron reuniones para coordinar el progreso de los elementos del informe y para comunicar los avances del Sprint 3, que se enfoca en el back end de la Web Application.
+
+<img src="assets/collaboration3.png">
+
+TF: Las tareas asignadas para la entrega TB2 se han completado y están documentadas en el siguiente repositorio de Github perteneciente a la organización del equipo: [Repositorio Github](https://github.com/Aplicaciones-Web-SW56-AlquilaFacil/Report).
+
+Durante la preparación del informe, se llevaron a cabo las siguientes actividades:
+- Cada miembro realizó los endpoints de los bounded contexts designados previamente del sprint backlog 4 y se agregó más endpoints aparte de los designados del sprint 3, para que se adecue a la web application.
+- Se crearon los artefactos necesarios utilizando las herramientas recomendadas y se obtuvieron enlaces de imagen a través de la carpeta “assets” en la rama develop del repositorio del informe.
+- Se organizaron reuniones para coordinar el progreso de los elementos del informe y para comunicar los avances del Sprint 4, que se enfoca en el back end de la Web Application.
+
+<img src="assets/collaboration4.png">
+
 ---
 
 # Student Outcome
