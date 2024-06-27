@@ -121,7 +121,9 @@ Llevé a cabo la sección Domain-Driven Software Architecture, Software Object-O
 TP <br> 
 El proyecto fue fruto de un esfuerzo conjunto y colaborativo por parte de todo el equipo, donde cada miembro asumió responsabilidades de forma equitativa. La colaboración se extendió a diversos ámbitos, incluyendo la realización de entrevistas, la creación de la página principal, y la elaboración de las secciones de evidencias de desarrollo y conjunto de pruebas. Este enfoque integral y colaborativo se mantuvo constante a lo largo de todas las fases del proyecto. <br> 
 TB2 <br> 
-Me encargué a trabajar estrechamente con el equipo de frontend para garantizar una comunicación fluida entre ambas partes, facilitando la integración de la API RESTful con la interfaz de usuario. La coordinación efectiva y la resolución de problemas técnicos en tiempo real fueron claves para cumplir con los plazos y objetivos del sprint.<br> 
+Me encargué a trabajar estrechamente con el equipo de frontend para garantizar una comunicación fluida entre ambas partes, facilitando la integración de la API RESTful con la interfaz de usuario. La coordinación efectiva y la resolución de problemas técnicos en tiempo real fueron claves para cumplir con los plazos y objetivos del sprint.<br>
+TF <br>
+En esta última entrega, hemos logrado cumplir con todos los requisitos técnicos establecidos en nuestras historias de usuario. La colaboración del equipo fue crucial para el éxito del desarrollo del proyecto. Hemos finalizado el desarrollo del backend, distribuyendo eficientemente las tareas entre los miembros del equipo y documentando todo el proceso siguiendo las mejores prácticas y utilizando herramientas de gestión de proyectos. Además, me enfoqué en mejorar mi conocimiento y habilidades mediante el aprendizaje autodidacta de la implementación de pruebas unitarias y de integración para asegurar la calidad del backend.<br>
 
 Pin Matallana, Augusto Jose <br>
 TB1 <br>
@@ -177,6 +179,8 @@ TP <br>
 El progreso del proyecto se construyó sobre una colaboración cercana y equitativa entre todos los miembros del equipo. Cada uno tomó responsabilidades en diversas áreas, desde conducir entrevistas hasta desarrollar la página principal y elaborar secciones como las evidencias de desarrollo y el conjunto de pruebas. Esta mentalidad de trabajo en equipo y colaboración se mantuvo constante a lo largo de todas las etapas del proyecto, asegurando un enfoque completo y unificado en cada aspecto del mismo.<br>
 TB2<br>
 En esta entrega nos enfocamos en optimizar el rendimiento y la usabilidad de nuestra aplicación web AlquilaFacil. Implementamos mejoras en la interfaz de usuario basadas en los comentarios recibidos durante las entrevistas de validación. Además, desarrollamos nuevas funcionalidades en el backend. Nuestro equipo trabajó de manera colaborativa y eficiente, asegurando que cada detalle, desde la lógica de negocio hasta la experiencia del usuario, fuera cuidadosamente mejorado.<br>
+TF<br>
+En la última entrega del proyecto, hemos implementado pruebas unitarias y de aceptación para validar nuestro sistema, y documentado los endpoints de la API y el trabajo colaborativo. Además, concluimos la implementación del backend para conectarlo con el frontend de nuestra aplicación.<br>
 
 Pin Matallana, Augusto Jose <br>
 TB1 <br>
@@ -194,7 +198,7 @@ Durante esta etapa de desarrollo, se llevó a cabo un análisis detallado de las
 TP <br> 
 Se construyó el progreso del proyecto sobre una colaboración cercana y equitativa entre todos los miembros del equipo. Cada persona asumió responsabilidades en varios ámbitos, desde llevar a cabo entrevistas hasta crear la página principal y diseñar secciones como pruebas de desarrollo y conjunto de pruebas. Durante todas las etapas del proyecto, se mantuvo una constante mentalidad de trabajo en equipo y colaboración, asegurando un enfoque completo y unificado en cada aspecto del mismo.<br>
 TB2 <br> 
-En esta entrega nos enfocamos en implementar mejoras dadas y desarrollar nuestra propia API para poder usar el servicio y obtener la información requerrida para nuestro aplicativo web, aquí fue muy importante el trabajo en equipo para tener cuidado con los detalles incluso más minúsculos de lo que fue la creación de la API RESTful.
+En esta entrega nos enfocamos en implementar mejoras dadas y desarrollar nuestra propia API para poder usar el servicio y obtener la información requerrida para nuestro aplicativo web, aquí fue muy importante el trabajo en equipo para tener cuidado con los detalles incluso más minúsculos de lo que fue la creación de la API RESTful.<br>
 TF <br>
 En esta última entrega del proyecto, implementamos los unit test, integration tests y acceptance tests para dar validaciones de nuestro sistema y se documentó los endpoints de la API y el trabajo colaborativo. Además, finalizamos la implementación del backend para poder conectarlo con el frontend den nuestro aplicativo.<br>
 
